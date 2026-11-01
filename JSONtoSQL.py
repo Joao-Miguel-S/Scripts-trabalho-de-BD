@@ -45,6 +45,18 @@ def findSenador(senDict,name):
             N.write(name+"\n")
         return None
 
+#formata as datas pq tava dando errado no banco
+def formatDate(date_str):
+    if not date_str or date_str.strip() == "":
+        return "0001-01-01"  #retorna uma data padrão para valores nulos ou vazios
+    try:
+        parts = date_str.split('/')
+        if len(parts) == 3:
+            return f"{parts[2]}-{parts[1]}-{parts[0]}"
+    except:
+        pass
+    return "0001-01-01"
+
 Senadores = {}
 comprasAereas = {}
 
@@ -100,13 +112,13 @@ with open('JSON/Viagens.json',"r", encoding='utf-8') as file:
                                 compraAerea["motivo"],
                                 compraAerea["resumoDoMotivo"],
                                 compraAerea["tipo"],
-                                compraAerea["dataIda"],
-                                compraAerea["dataVolta"],
+                                formatDate(compraAerea["dataIda"]),
+                                formatDate(compraAerea["dataVolta"]),
                                 stringToFloat(compraAerea["tarifa"]),
                                 stringToFloat(compraAerea["valorReembolso"]),
                                 stringToFloat(compraAerea["taxasExtras"]),
                                 senDict[findSenador(senDict,compraAerea["passageiro"])],
-                                compraAerea["dataEmissao"]
+                                formatDate(compraAerea["dataEmissao"])
                             )
                             f.write(insert)
                         except:
@@ -122,13 +134,13 @@ with open('JSON/Viagens.json',"r", encoding='utf-8') as file:
                             compraAerea["motivo"],
                             compraAerea["resumoDoMotivo"],
                             compraAerea["tipo"],
-                            compraAerea["dataIda"],
-                            compraAerea["dataVolta"],
+                            formatDate(compraAerea["dataIda"]),
+                            formatDate(compraAerea["dataVolta"]),
                             stringToFloat(compraAerea["tarifa"]),
                             stringToFloat(compraAerea["valorReembolso"]),
                             stringToFloat(compraAerea["taxasExtras"]),
                             senDict[findSenador(senDict,compraAerea["passageiro"])],
-                            compraAerea["dataEmissao"]
+                            formatDate(compraAerea["dataEmissao"])
                         )
                         Pass.write(insert)
                 except:
