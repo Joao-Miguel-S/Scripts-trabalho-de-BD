@@ -21,5 +21,5 @@ with open('CSV/ListaParlamentarEmExercicio - ListaParlamentarEmExercicio.csv', '
 			if info_senador["uf"] != "":
 				lista_parlamentar.append(info_senador)
 
-with open('JSON/ListaParlamentarEmExercicio - ListaParlamentarEmExercicio.json','w',encoding='utf-8') as fJSON:
+with open('JSON/Senador.json','w',encoding='utf-8') as fJSON:
 	json.dump(lista_parlamentar,fJSON,ensure_ascii=False,indent=4)
