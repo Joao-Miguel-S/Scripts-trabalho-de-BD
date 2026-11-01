@@ -20,7 +20,8 @@ with open('CSV/Viagens.csv', 'r', encoding='UTF-8') as arquivo:
             "dataVolta":linha[11],
             "tarifa":linha[13] ,
             "valorReembolso":linha[29],
-            "taxasExtras:": linha[27]
+            "taxasExtras": linha[27],
+            "tipo":linha[5]
         }
 
         seguro = {

@@ -1,0 +1,1 @@
+INSERT INTO Senador values (3806,'José da Cruz Marinho','PA','Masculino','sen.zequinhamarinho@senado.leg.br','http://www.senado.leg.br/senadores/img/fotos-oficiais/senador3806.jpg','http://www25.senado.leg.br/web/senadores/senador/-/perfil/3806');

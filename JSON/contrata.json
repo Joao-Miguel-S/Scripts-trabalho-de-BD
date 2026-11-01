@@ -1,5 +1,19 @@
 [
-
+    {
+        "tipoDocumento": "TIPO_DOCUMENTO",
+        "documento": "DOCUMENTO",
+        "data": "DATA",
+        "valor": "VALOR_REEMBOLSADO",
+        "tipoDespesa": "TIPO_DESPESA",
+        "senador": {
+            "codSenador": "COD_SENADOR",
+            "nomeSenador": "NOME_SENADOR"
+        },
+        "beneficiario": {
+            "documento": "CPF_CNPJ_FORNECEDOR",
+            "nome": "NOME_FORNECEDOR"
+        }
+    },
     {
         "tipoDocumento": "Fatura",
         "documento": "2200627723",

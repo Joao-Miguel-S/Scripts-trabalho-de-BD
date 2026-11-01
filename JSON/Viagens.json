@@ -8,7 +8,8 @@
         "dataVolta": "",
         "tarifa": "",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "",
         "trechos": [
             ""
         ],
@@ -26,7 +27,8 @@
         "dataVolta": "",
         "tarifa": "",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "",
         "trechos": [
             ""
         ],
@@ -44,7 +46,8 @@
         "dataVolta": "Data da Viagem - TRECHO 2",
         "tarifa": "Tarifa",
         "valorReembolso": "Valor do Reembolso",
-        "taxasExtras:": "GRU/Diferença Tarifária",
+        "taxasExtras": "GRU/Diferença Tarifária",
+        "tipo": "Tipo de Serviço",
         "trechos": [
             "Trechos"
         ],
@@ -62,7 +65,8 @@
         "dataVolta": "25/01/2025",
         "tarifa": "22.556,68",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "AJU",
             "GRU",
@@ -86,7 +90,8 @@
         "dataVolta": "26/01/2025",
         "tarifa": "173,59",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA4772395",
         "seguradora": "UNIVERSAL"
@@ -100,7 +105,8 @@
         "dataVolta": "16/02/2025",
         "tarifa": "28.379,35",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -122,7 +128,8 @@
         "dataVolta": "17/02/2025",
         "tarifa": "235,63",
         "valorReembolso": "",
-        "taxasExtras:": "33,66",
+        "taxasExtras": "33,66",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA4787309",
         "seguradora": "UNIVERSAL"
@@ -136,7 +143,8 @@
         "dataVolta": "23/02/2025",
         "tarifa": "34.735,64",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "FLN",
             "GRU",
@@ -161,7 +169,8 @@
         "dataVolta": "24/02/2025",
         "tarifa": "221,17",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA4894351",
         "seguradora": "UNIVERSAL"
@@ -175,7 +184,8 @@
         "dataVolta": "",
         "tarifa": "3.822,00",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "EZE"
@@ -194,7 +204,8 @@
         "dataVolta": "17/02/2025",
         "tarifa": "1.647,11",
         "valorReembolso": "2.236,75",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "AEP",
             "GRU",
@@ -214,7 +225,8 @@
         "dataVolta": "17/02/2025",
         "tarifa": "2.749,58",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "AEP",
             "GRU",
@@ -234,7 +246,8 @@
         "dataVolta": "17/02/2025",
         "tarifa": "81,77",
         "valorReembolso": "",
-        "taxasExtras:": "27,26",
+        "taxasExtras": "27,26",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA4882262",
         "seguradora": "UNIVERSAL"
@@ -248,7 +261,8 @@
         "dataVolta": "",
         "tarifa": "18.916,65",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "VIX",
             "GRU",
@@ -269,7 +283,8 @@
         "dataVolta": "06/02/2025",
         "tarifa": "9.132,07",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BCN",
             "FCO",
@@ -290,7 +305,8 @@
         "dataVolta": "07/03/2025",
         "tarifa": "224,35",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA4838957",
         "seguradora": "UNIVERSAL"
@@ -304,7 +320,8 @@
         "dataVolta": "10/03/2025",
         "tarifa": "27.272,03",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "NAT",
             "LIS",
@@ -327,7 +344,8 @@
         "dataVolta": "10/03/2025",
         "tarifa": "-",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "RAK",
             "LIS",
@@ -347,7 +365,8 @@
         "dataVolta": "",
         "tarifa": "1.909,83",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BCN",
             "MAD",
@@ -367,7 +386,8 @@
         "dataVolta": "10/03/2025",
         "tarifa": "272,23",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "MUNDO",
         "bilhete": "TA4880313",
         "seguradora": "UNIVERSAL"
@@ -381,7 +401,8 @@
         "dataVolta": "06/03/2025",
         "tarifa": "190,07",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "",
         "bilhete": "TA4944093",
         "seguradora": "UNIVERSAL"
@@ -395,7 +416,8 @@
         "dataVolta": "",
         "tarifa": "1.326,86",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "GRU"
@@ -414,7 +436,8 @@
         "dataVolta": "08/03/2025",
         "tarifa": "1.038,77",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "PMW"
@@ -433,7 +456,8 @@
         "dataVolta": "07/03/2025",
         "tarifa": "29.907,39",
         "valorReembolso": "27.637,42",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -455,7 +479,8 @@
         "dataVolta": "07/03/2025",
         "tarifa": "33.976,03",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "ZRH",
@@ -477,7 +502,8 @@
         "dataVolta": "07/03/2025",
         "tarifa": "223,32",
         "valorReembolso": "",
-        "taxasExtras:": "27,92",
+        "taxasExtras": "27,92",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA4842694",
         "seguradora": "UNIVERSAL"
@@ -491,7 +517,8 @@
         "dataVolta": "08/03/2025",
         "tarifa": "29,53",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA4973965",
         "seguradora": "UNIVERSAL"
@@ -505,7 +532,8 @@
         "dataVolta": "",
         "tarifa": "4.500,47",
         "valorReembolso": "4.389,54",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "REC",
             "GRU",
@@ -525,7 +553,8 @@
         "dataVolta": "11/03/2025",
         "tarifa": "1.253,95",
         "valorReembolso": "1.764,12",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU",
@@ -545,7 +574,8 @@
         "dataVolta": "11/02/2025",
         "tarifa": "80,73",
         "valorReembolso": "80,72",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA4940877",
         "seguradora": "UNIVERSAL"
@@ -559,7 +589,8 @@
         "dataVolta": "11/03/2025",
         "tarifa": "4.772,47",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -581,7 +612,8 @@
         "dataVolta": "11/03/2025",
         "tarifa": "63,48",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "550 28025609 0C94",
         "seguradora": "ASSIST CARD"
@@ -595,7 +627,8 @@
         "dataVolta": "06/03/2025",
         "tarifa": "27.218,98",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIB",
@@ -617,7 +650,8 @@
         "dataVolta": "06/03/2025",
         "tarifa": "187,6",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA4936849",
         "seguradora": "UNIVERSAL"
@@ -631,7 +665,8 @@
         "dataVolta": "17/03/2025",
         "tarifa": "15.671,01",
         "valorReembolso": "16.398,74",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "MEX",
@@ -651,7 +686,8 @@
         "dataVolta": "17/03/2025",
         "tarifa": "15.274,98",
         "valorReembolso": "15.288,82",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "MEX",
@@ -671,7 +707,8 @@
         "dataVolta": "",
         "tarifa": "1.498,55",
         "valorReembolso": "1.529,35",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "GRU"
@@ -690,7 +727,8 @@
         "dataVolta": "",
         "tarifa": "46,35",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "GRU"
@@ -709,7 +747,8 @@
         "dataVolta": "17/03/2025",
         "tarifa": "1.498,55",
         "valorReembolso": "1.529,84",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "BSB"
@@ -728,7 +767,8 @@
         "dataVolta": "17/03/2025",
         "tarifa": "161,45",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA4940132",
         "seguradora": "MÉXICO"
@@ -742,7 +782,8 @@
         "dataVolta": "09/03/2025",
         "tarifa": "8.872,15",
         "valorReembolso": "",
-        "taxasExtras:": "1.100,90",
+        "taxasExtras": "1.100,90",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -764,7 +805,8 @@
         "dataVolta": "09/03/2025",
         "tarifa": "267,96",
         "valorReembolso": "",
-        "taxasExtras:": "80,39",
+        "taxasExtras": "80,39",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA4928688",
         "seguradora": "UNIVERSAL"
@@ -778,7 +820,8 @@
         "dataVolta": "10/03/2025",
         "tarifa": "1.461,25",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GIG",
@@ -798,7 +841,8 @@
         "dataVolta": "11/03/2025",
         "tarifa": "2.766,56",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU",
@@ -818,7 +862,8 @@
         "dataVolta": "11/03/2025",
         "tarifa": "112,46",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "550 28070002 0C94",
         "seguradora": "ASSIST CARD"
@@ -832,7 +877,8 @@
         "dataVolta": "18/03/2025",
         "tarifa": "6.841,03",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -854,7 +900,8 @@
         "dataVolta": "18/03/2025",
         "tarifa": "29.596,43",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -876,7 +923,8 @@
         "dataVolta": "18/03/2025",
         "tarifa": "190,07",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA4944918",
         "seguradora": "UNIVERSAL"
@@ -890,7 +938,8 @@
         "dataVolta": "22/03/2025",
         "tarifa": "10.323,82",
         "valorReembolso": "10.934,61",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "CGR",
             "GRU",
@@ -914,7 +963,8 @@
         "dataVolta": "22/03/2025",
         "tarifa": "223,75",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA4953233",
         "seguradora": "UNIVERSAL"
@@ -928,7 +978,8 @@
         "dataVolta": "15/03/2025",
         "tarifa": "31,99",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA4988113",
         "seguradora": "UNIVERSAL"
@@ -942,7 +993,8 @@
         "dataVolta": "30/03/2025",
         "tarifa": "240,46",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5003628",
         "seguradora": "UNIVERSAL"
@@ -956,7 +1008,8 @@
         "dataVolta": "30/03/2025",
         "tarifa": "240,46",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5003622",
         "seguradora": "UNIVERSAL"
@@ -970,7 +1023,8 @@
         "dataVolta": "30/03/2025",
         "tarifa": "426,22",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "550 28283980 0B70",
         "seguradora": "ASSIST CARD"
@@ -984,7 +1038,8 @@
         "dataVolta": "01/05/2025",
         "tarifa": "39.479,29",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "FLN",
             "GRU",
@@ -1008,7 +1063,8 @@
         "dataVolta": "01/05/2025",
         "tarifa": "375,81",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5041593",
         "seguradora": "UNIVERSAL"
@@ -1022,7 +1078,8 @@
         "dataVolta": "19/04/2025",
         "tarifa": "8.390,90",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GIG",
             "GRU",
@@ -1044,7 +1101,8 @@
         "dataVolta": "19/04/2025",
         "tarifa": "239,63",
         "valorReembolso": "",
-        "taxasExtras:": "106,5",
+        "taxasExtras": "106,5",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "A5006872",
         "seguradora": "UNIVERSAL"
@@ -1058,7 +1116,8 @@
         "dataVolta": "15/05/2025",
         "tarifa": "66.971,97",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "JFK",
@@ -1078,7 +1137,8 @@
         "dataVolta": "15/05/2025",
         "tarifa": "251,38",
         "valorReembolso": "",
-        "taxasExtras:": "94,27",
+        "taxasExtras": "94,27",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5016849",
         "seguradora": "UNIVERSAL"
@@ -1092,7 +1152,8 @@
         "dataVolta": "04/05/2025",
         "tarifa": "33.591,87",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -1116,7 +1177,8 @@
         "dataVolta": "04/05/2025",
         "tarifa": "252,17",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5038381",
         "seguradora": "UNIVERSAL"
@@ -1130,7 +1192,8 @@
         "dataVolta": "14/04/2025",
         "tarifa": "281,23",
         "valorReembolso": "",
-        "taxasExtras:": "31,25",
+        "taxasExtras": "31,25",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5043566",
         "seguradora": "UNIVERSAL"
@@ -1144,7 +1207,8 @@
         "dataVolta": "15/04/2025",
         "tarifa": "42.362,09",
         "valorReembolso": "28.375,99",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -1166,7 +1230,8 @@
         "dataVolta": "16/04/2025",
         "tarifa": "27.138,55",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "DXB",
             "GRU"
@@ -1185,7 +1250,8 @@
         "dataVolta": "17/04/2025",
         "tarifa": "1.744,57",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "BSB"
@@ -1204,7 +1270,8 @@
         "dataVolta": "15/04/2025",
         "tarifa": "135,76",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5055593",
         "seguradora": "UNIVERSAL"
@@ -1218,7 +1285,8 @@
         "dataVolta": "17/04/2025",
         "tarifa": "54,91",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5080538",
         "seguradora": "UNIVERSAL"
@@ -1232,7 +1300,8 @@
         "dataVolta": "08/04/2025",
         "tarifa": "5.656,44",
         "valorReembolso": "425,28",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "MIA",
@@ -1252,7 +1321,8 @@
         "dataVolta": "06/04/2025",
         "tarifa": "21.866,13",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MIA",
             "GRU"
@@ -1271,7 +1341,8 @@
         "dataVolta": "08/04/2025",
         "tarifa": "220,65",
         "valorReembolso": "",
-        "taxasExtras:": "94,56",
+        "taxasExtras": "94,56",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5037385",
         "seguradora": "UNIVERSAL"
@@ -1285,7 +1356,8 @@
         "dataVolta": "",
         "tarifa": "581,27",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "REC",
             "GIG"
@@ -1304,7 +1376,8 @@
         "dataVolta": "17/04/2025",
         "tarifa": "33.539,79",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GIG",
             "IAH",
@@ -1326,7 +1399,8 @@
         "dataVolta": "17/04/2025",
         "tarifa": "219",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5021341",
         "seguradora": "UNIVERSAL"
@@ -1340,7 +1414,8 @@
         "dataVolta": "01/05/2025",
         "tarifa": "16.571,26",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "CWB",
             "GRU",
@@ -1364,7 +1439,8 @@
         "dataVolta": "01/05/2025",
         "tarifa": "188,53",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5017050",
         "seguradora": "UNIVERSAL"
@@ -1378,7 +1454,8 @@
         "dataVolta": "04/05/2025",
         "tarifa": "47.922,84",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -1402,7 +1479,8 @@
         "dataVolta": "04/05/2025",
         "tarifa": "501,08",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5041376",
         "seguradora": "UNIVERSAL"
@@ -1416,7 +1494,8 @@
         "dataVolta": "21/04/2025",
         "tarifa": "316,19",
         "valorReembolso": "",
-        "taxasExtras:": "184,44",
+        "taxasExtras": "184,44",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5047708",
         "seguradora": "UNIVERSAL"
@@ -1430,7 +1509,8 @@
         "dataVolta": "04/05/2025",
         "tarifa": "160,51",
         "valorReembolso": "160,49",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5043777",
         "seguradora": "UNIVERSAL"
@@ -1444,7 +1524,8 @@
         "dataVolta": "",
         "tarifa": "11.220,55",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -1464,7 +1545,8 @@
         "dataVolta": "09/05/2025",
         "tarifa": "17.798,83",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "LIS",
             "GRU",
@@ -1484,7 +1566,8 @@
         "dataVolta": "",
         "tarifa": "1.896,47",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "OPO",
             "LIS"
@@ -1503,7 +1586,8 @@
         "dataVolta": "09/05/2025",
         "tarifa": "418,5",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5061643",
         "seguradora": "UNIVERSAL"
@@ -1517,7 +1601,8 @@
         "dataVolta": "18/04/2025",
         "tarifa": "258,56",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5058185",
         "seguradora": "UNIVERSAL"
@@ -1531,7 +1616,8 @@
         "dataVolta": "25/04/2025",
         "tarifa": "2.715,22",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "AEP",
@@ -1551,7 +1637,8 @@
         "dataVolta": "25/04/2025",
         "tarifa": "107,01",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA5044771",
         "seguradora": "UNIVERSAL"
@@ -1565,7 +1652,8 @@
         "dataVolta": "17/04/2025",
         "tarifa": "193,69",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5058813",
         "seguradora": "UNIVERSAL"
@@ -1579,7 +1667,8 @@
         "dataVolta": "01/05/2025",
         "tarifa": "21.274,31",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -1601,7 +1690,8 @@
         "dataVolta": "25/04/2025",
         "tarifa": "2.767,21",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "AEP",
@@ -1621,7 +1711,8 @@
         "dataVolta": "25/04/2025",
         "tarifa": "110,68",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA5058707",
         "seguradora": "UNIVERSAL"
@@ -1635,7 +1726,8 @@
         "dataVolta": "",
         "tarifa": "1.914,00",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "GRU"
@@ -1654,7 +1746,8 @@
         "dataVolta": "20/04/2025",
         "tarifa": "60.472,56",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "MAS",
@@ -1677,7 +1770,8 @@
         "dataVolta": "",
         "tarifa": "8.640,66",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "PEK",
             "XMN"
@@ -1696,7 +1790,8 @@
         "dataVolta": "18/04/2025",
         "tarifa": "16.049,26",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "XMN",
             "SHA"
@@ -1715,7 +1810,8 @@
         "dataVolta": "21/04/2025",
         "tarifa": "2.386,67",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "BSB"
@@ -1734,7 +1830,8 @@
         "dataVolta": "21/04/2025",
         "tarifa": "334,8",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5061657",
         "seguradora": "UNIVERSAL"
@@ -1748,7 +1845,8 @@
         "dataVolta": "26/04/2025",
         "tarifa": "193,13",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5083381",
         "seguradora": "UNIVERSAL"
@@ -1762,7 +1860,8 @@
         "dataVolta": "",
         "tarifa": "1.216,28",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BVB"
@@ -1781,7 +1880,8 @@
         "dataVolta": "01/06/2025",
         "tarifa": "1.216,28",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BVB",
             "BSB"
@@ -1800,7 +1900,8 @@
         "dataVolta": "24/04/2025",
         "tarifa": "2.042,25",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "FLN",
             "AEP",
@@ -1820,7 +1921,8 @@
         "dataVolta": "24/04/2025",
         "tarifa": "83,01",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA5059012",
         "seguradora": "UNIVERSAL"
@@ -1834,7 +1936,8 @@
         "dataVolta": "18/04/2025",
         "tarifa": "260,72",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5061897",
         "seguradora": "UNIVERSAL"
@@ -1848,7 +1951,8 @@
         "dataVolta": "25/04/2025",
         "tarifa": "3.233,59",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "PVH",
             "BSB",
@@ -1870,7 +1974,8 @@
         "dataVolta": "",
         "tarifa": "2.441,86",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -1890,7 +1995,8 @@
         "dataVolta": "25/04/2025",
         "tarifa": "87,61",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "550 28547269 0C94",
         "seguradora": "ASSIST CARD"
@@ -1904,7 +2010,8 @@
         "dataVolta": "",
         "tarifa": "2.846,07",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "SDU"
@@ -1923,7 +2030,8 @@
         "dataVolta": "26/04/2025",
         "tarifa": "220,83",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ÁSIA",
         "bilhete": "TA5076226",
         "seguradora": "UNIVERSAL"
@@ -1937,7 +2045,8 @@
         "dataVolta": "24/04/2025",
         "tarifa": "2.084,81",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "FLN",
             "AEP",
@@ -1957,7 +2066,8 @@
         "dataVolta": "24/04/2025",
         "tarifa": "65,71",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "550 28539073 0C94",
         "seguradora": "ASSIST CARD"
@@ -1971,7 +2081,8 @@
         "dataVolta": "04/05/2025",
         "tarifa": "8.655,85",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "IAH",
@@ -1993,7 +2104,8 @@
         "dataVolta": "04/05/2025",
         "tarifa": "260,72",
         "valorReembolso": "",
-        "taxasExtras:": "65,18",
+        "taxasExtras": "65,18",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5061477",
         "seguradora": "UNIVERSAL"
@@ -2007,7 +2119,8 @@
         "dataVolta": "27/04/2025",
         "tarifa": "106,92",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5105064",
         "seguradora": "UNIVERSAL"
@@ -2021,7 +2134,8 @@
         "dataVolta": "27/04/2025",
         "tarifa": "106,92",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5105518",
         "seguradora": "UNIVERSAL"
@@ -2035,7 +2149,8 @@
         "dataVolta": "08/06/2025",
         "tarifa": "692,57",
         "valorReembolso": "",
-        "taxasExtras:": "159,82",
+        "taxasExtras": "159,82",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA /EUROPA",
         "bilhete": "TA5118485",
         "seguradora": "UNIVERSAL"
@@ -2049,7 +2164,8 @@
         "dataVolta": "27/04/2025",
         "tarifa": "106,92",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5105746",
         "seguradora": "UNIVERSAL"
@@ -2063,7 +2179,8 @@
         "dataVolta": "27/04/2025",
         "tarifa": "106,92",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5106460",
         "seguradora": "UNIVERSAL"
@@ -2077,7 +2194,8 @@
         "dataVolta": "06/05/2025",
         "tarifa": "6.537,42",
         "valorReembolso": "7.049,57",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -2099,7 +2217,8 @@
         "dataVolta": "",
         "tarifa": "1.586,94",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GIG",
@@ -2119,7 +2238,8 @@
         "dataVolta": "05/05/2025",
         "tarifa": "3.782,91",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU",
@@ -2139,7 +2259,8 @@
         "dataVolta": "06/05/2025",
         "tarifa": "108,77",
         "valorReembolso": "",
-        "taxasExtras:": "43,51",
+        "taxasExtras": "43,51",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "550 28570329 0C94",
         "seguradora": "ASSIST CARD"
@@ -2153,7 +2274,8 @@
         "dataVolta": "13/05/2025",
         "tarifa": "3.033,99",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -2175,7 +2297,8 @@
         "dataVolta": "13/05/2025",
         "tarifa": "79,68",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA5137509",
         "seguradora": "UNIVERSAL"
@@ -2189,7 +2312,8 @@
         "dataVolta": "13/05/2025",
         "tarifa": "3.073,47",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "VIX",
             "GRU",
@@ -2211,7 +2335,8 @@
         "dataVolta": "13/05/2025",
         "tarifa": "79,68",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA5137499",
         "seguradora": "UNIVERSAL"
@@ -2225,7 +2350,8 @@
         "dataVolta": "",
         "tarifa": "1.893,14",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "MVD"
@@ -2244,7 +2370,8 @@
         "dataVolta": "06/05/2025",
         "tarifa": "2.238,89",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU",
@@ -2264,7 +2391,8 @@
         "dataVolta": "06/05/2025",
         "tarifa": "79,91",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA5118404",
         "seguradora": "UNIVERSAL"
@@ -2278,7 +2406,8 @@
         "dataVolta": "14/05/2025",
         "tarifa": "238,83",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5121846",
         "seguradora": "UNIVERSAL"
@@ -2292,7 +2421,8 @@
         "dataVolta": "18/05/2025",
         "tarifa": "45.902,16",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -2314,7 +2444,8 @@
         "dataVolta": "18/05/2025",
         "tarifa": "343,46",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5106432",
         "seguradora": "UNIVERSAL"
@@ -2328,7 +2459,8 @@
         "dataVolta": "",
         "tarifa": "12.841,29",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "PTY",
@@ -2348,7 +2480,8 @@
         "dataVolta": "13/05/2025",
         "tarifa": "36.630,05",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "JFK",
             "GRU",
@@ -2368,7 +2501,8 @@
         "dataVolta": "14/05/2025",
         "tarifa": "162,95",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5061966",
         "seguradora": "UNIVERSAL"
@@ -2382,7 +2516,8 @@
         "dataVolta": "",
         "tarifa": "19.163,25",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "GIG",
@@ -2403,7 +2538,8 @@
         "dataVolta": "16/05/2025",
         "tarifa": "15.898,61",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "JFK",
             "MCO",
@@ -2424,7 +2560,8 @@
         "dataVolta": "16/05/2025",
         "tarifa": "251,96",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5144821",
         "seguradora": "UNIVERSAL"
@@ -2438,7 +2575,8 @@
         "dataVolta": "15/05/2025",
         "tarifa": "159,37",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5137669",
         "seguradora": "UNIVERSAL"
@@ -2452,7 +2590,8 @@
         "dataVolta": "22/06/2025",
         "tarifa": "265,62",
         "valorReembolso": "265,59",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5138004",
         "seguradora": "UNIVERSAL"
@@ -2466,7 +2605,8 @@
         "dataVolta": "15/05/2025",
         "tarifa": "161,32",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5140435",
         "seguradora": "UNIVERSAL"
@@ -2480,7 +2620,8 @@
         "dataVolta": "",
         "tarifa": "713,71",
         "valorReembolso": "744,59",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BEL"
@@ -2499,7 +2640,8 @@
         "dataVolta": "25/05/2025",
         "tarifa": "713,71",
         "valorReembolso": "768,09",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB"
@@ -2518,7 +2660,8 @@
         "dataVolta": "",
         "tarifa": "713,71",
         "valorReembolso": "744,59",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BEL"
@@ -2537,7 +2680,8 @@
         "dataVolta": "",
         "tarifa": "27.174,75",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -2558,7 +2702,8 @@
         "dataVolta": "16/05/2025",
         "tarifa": "35.927,88",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BWI",
             "ATL",
@@ -2579,7 +2724,8 @@
         "dataVolta": "17/05/2025",
         "tarifa": "219,83",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5140327",
         "seguradora": "UNIVERSAL"
@@ -2593,7 +2739,8 @@
         "dataVolta": "",
         "tarifa": "1.391,94",
         "valorReembolso": "1.480,34",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "CNF",
             "GIG",
@@ -2613,7 +2760,8 @@
         "dataVolta": "10/03/2025",
         "tarifa": "2.766,56",
         "valorReembolso": "3.393,39",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU",
@@ -2633,7 +2781,8 @@
         "dataVolta": "11/03/2025",
         "tarifa": "81,43",
         "valorReembolso": "81,42",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA4947239",
         "seguradora": "UNIVERSAL"
@@ -2647,7 +2796,8 @@
         "dataVolta": "10/05/2025",
         "tarifa": "221,35",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5058551",
         "seguradora": "UNIVERSAL"
@@ -2661,7 +2811,8 @@
         "dataVolta": "",
         "tarifa": "784,26",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "GRU"
@@ -2680,7 +2831,8 @@
         "dataVolta": "13/06/2025",
         "tarifa": "186,65",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5107884",
         "seguradora": "UNIVERSAL"
@@ -2694,7 +2846,8 @@
         "dataVolta": "15/05/2025",
         "tarifa": "496,42",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5137458",
         "seguradora": "UNIVERSAL"
@@ -2708,7 +2861,8 @@
         "dataVolta": "",
         "tarifa": "2.220,99",
         "valorReembolso": "2.251,72",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BVB"
@@ -2727,7 +2881,8 @@
         "dataVolta": "01/06/2025",
         "tarifa": "2.737,25",
         "valorReembolso": "2.789,54",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BVB",
             "BSB"
@@ -2746,7 +2901,8 @@
         "dataVolta": "",
         "tarifa": "8.836,04",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "VCP",
@@ -2766,7 +2922,8 @@
         "dataVolta": "20/06/2025",
         "tarifa": "34.141,25",
         "valorReembolso": "35.194,24",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "SXB",
             "MAD",
@@ -2786,7 +2943,8 @@
         "dataVolta": "21/06/2025",
         "tarifa": "5.149,69",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "ORY",
             "LIS",
@@ -2806,7 +2964,8 @@
         "dataVolta": "21/06/2025",
         "tarifa": "292,44",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5183306",
         "seguradora": "UNIVERSAL"
@@ -2820,7 +2979,8 @@
         "dataVolta": "06/06/2025",
         "tarifa": "6.590,56",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "MCO",
@@ -2841,7 +3001,8 @@
         "dataVolta": "05/06/2025",
         "tarifa": "-",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "MCO",
@@ -2861,7 +3022,8 @@
         "dataVolta": "07/06/2025",
         "tarifa": "124,32",
         "valorReembolso": "124,31",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5181010",
         "seguradora": "UNIVERSAL"
@@ -2875,7 +3037,8 @@
         "dataVolta": "05/06/2025",
         "tarifa": "93,77",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5213327",
         "seguradora": "UNIVERSAL"
@@ -2889,7 +3052,8 @@
         "dataVolta": "",
         "tarifa": "872,87",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "VIX",
             "GRU"
@@ -2908,7 +3072,8 @@
         "dataVolta": "26/06/2025",
         "tarifa": "37.421,71",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "DXB",
@@ -2930,7 +3095,8 @@
         "dataVolta": "26/06/2025",
         "tarifa": "478,82",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "VIX"
@@ -2949,7 +3115,8 @@
         "dataVolta": "26/06/2025",
         "tarifa": "319,03",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "5183935/ Bilhete Nº ZBBR002162",
         "seguradora": "UNIVERSAL"
@@ -2963,7 +3130,8 @@
         "dataVolta": "",
         "tarifa": "1.080,14",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "LHR",
             "CDG"
@@ -2982,7 +3150,8 @@
         "dataVolta": "15/07/2025",
         "tarifa": "10.004,04",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "ORY",
             "VCP",
@@ -3002,7 +3171,8 @@
         "dataVolta": "15/07/2025",
         "tarifa": "159,51",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5184115",
         "seguradora": "UNIVERSAL"
@@ -3016,7 +3186,8 @@
         "dataVolta": "14/06/2025",
         "tarifa": "52.181,09",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "JFK",
@@ -3036,7 +3207,8 @@
         "dataVolta": "14/06/2025",
         "tarifa": "331,54",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5186194",
         "seguradora": "UNIVERSAL"
@@ -3050,7 +3222,8 @@
         "dataVolta": "06/06/2025",
         "tarifa": "6.372,07",
         "valorReembolso": "632,73",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "PTY",
@@ -3070,7 +3243,8 @@
         "dataVolta": "09/06/2025",
         "tarifa": "2.289,43",
         "valorReembolso": "2.786,23",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -3092,7 +3266,8 @@
         "dataVolta": "10/06/2025",
         "tarifa": "159",
         "valorReembolso": "158,98",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA5187768",
         "seguradora": "UNIVERSAL"
@@ -3106,7 +3281,8 @@
         "dataVolta": "",
         "tarifa": "1.668,10",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -3126,7 +3302,8 @@
         "dataVolta": "",
         "tarifa": "-",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -3146,7 +3323,8 @@
         "dataVolta": "10/06/2025",
         "tarifa": "1.506,06",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU"
@@ -3165,7 +3343,8 @@
         "dataVolta": "10/06/2025",
         "tarifa": "565,97",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "BSB"
@@ -3184,7 +3363,8 @@
         "dataVolta": "10/06/2025",
         "tarifa": "53,22",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA5196828",
         "seguradora": "UNIVERSAL"
@@ -3198,7 +3378,8 @@
         "dataVolta": "07/06/2025",
         "tarifa": "248,64",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5196295",
         "seguradora": "UNIVERSAL"
@@ -3212,7 +3393,8 @@
         "dataVolta": "05/06/2025",
         "tarifa": "239,47",
         "valorReembolso": "",
-        "taxasExtras:": "106,43",
+        "taxasExtras": "106,43",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5196347",
         "seguradora": "UNIVERSAL"
@@ -3226,7 +3408,8 @@
         "dataVolta": "",
         "tarifa": "1.812,72",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "FLN",
             "GRU",
@@ -3246,7 +3429,8 @@
         "dataVolta": "05/06/2025",
         "tarifa": "1.714,83",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "IGU",
             "GRU",
@@ -3266,7 +3450,8 @@
         "dataVolta": "13/06/2025",
         "tarifa": "23.913,12",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -3288,7 +3473,8 @@
         "dataVolta": "13/06/2025",
         "tarifa": "294,33",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5201200",
         "seguradora": "UNIVERSAL"
@@ -3302,7 +3488,8 @@
         "dataVolta": "07/06/2025",
         "tarifa": "23.776,47",
         "valorReembolso": "26.006,91",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -3324,7 +3511,8 @@
         "dataVolta": "07/06/2025",
         "tarifa": "9.597,17",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "ORY",
             "LIS",
@@ -3344,7 +3532,8 @@
         "dataVolta": "07/06/2025",
         "tarifa": "265,8",
         "valorReembolso": "",
-        "taxasExtras:": "51,74",
+        "taxasExtras": "51,74",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5204781",
         "seguradora": "UNIVERSAL"
@@ -3358,7 +3547,8 @@
         "dataVolta": "",
         "tarifa": "34.485,63",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "CDG",
             "GRU"
@@ -3377,7 +3567,8 @@
         "dataVolta": "08/06/2025",
         "tarifa": "159,48",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5204048",
         "seguradora": "UNIVERSAL"
@@ -3391,7 +3582,8 @@
         "dataVolta": "06/07/2025",
         "tarifa": "265,8",
         "valorReembolso": "",
-        "taxasExtras:": "106,32",
+        "taxasExtras": "106,32",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5204383",
         "seguradora": "UNIVERSAL"
@@ -3405,7 +3597,8 @@
         "dataVolta": "23/06/2025",
         "tarifa": "31.995,42",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -3427,7 +3620,8 @@
         "dataVolta": "23/06/2025",
         "tarifa": "159,48",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5205045",
         "seguradora": "UNIVERSAL"
@@ -3441,7 +3635,8 @@
         "dataVolta": "",
         "tarifa": "36.791,62",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "DOH",
@@ -3461,7 +3656,8 @@
         "dataVolta": "",
         "tarifa": "1.700,55",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "SHA",
             "PEK"
@@ -3480,7 +3676,8 @@
         "dataVolta": "16/06/2025",
         "tarifa": "21.450,73",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "PEK",
             "DXB",
@@ -3500,7 +3697,8 @@
         "dataVolta": "16/05/2025",
         "tarifa": "346,19",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "BSB"
@@ -3519,7 +3717,8 @@
         "dataVolta": "16/06/2025",
         "tarifa": "321,09",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5213047",
         "seguradora": "UNIVERSAL"
@@ -3533,7 +3732,8 @@
         "dataVolta": "09/06/2025",
         "tarifa": "187,8",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5211040",
         "seguradora": "UNIVERSAL"
@@ -3547,7 +3747,8 @@
         "dataVolta": "",
         "tarifa": "2.005,07",
         "valorReembolso": "644,78",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BEL"
@@ -3566,7 +3767,8 @@
         "dataVolta": "05/06/2025",
         "tarifa": "4.104,90",
         "valorReembolso": "3.953,70",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "GRU"
@@ -3585,7 +3787,8 @@
         "dataVolta": "",
         "tarifa": "2.005,07",
         "valorReembolso": "684,78",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BEL"
@@ -3604,7 +3807,8 @@
         "dataVolta": "06/06/2025",
         "tarifa": "1.172,70",
         "valorReembolso": "1.227,03",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB"
@@ -3623,7 +3827,8 @@
         "dataVolta": "",
         "tarifa": "1.544,63",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "VIX",
             "GRU",
@@ -3643,7 +3848,8 @@
         "dataVolta": "08/06/2025",
         "tarifa": "1.402,52",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "GRU",
@@ -3663,7 +3869,8 @@
         "dataVolta": "21/06/2025",
         "tarifa": "5.921,52",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "CWB",
             "GRU",
@@ -3683,7 +3890,8 @@
         "dataVolta": "30/06/2025",
         "tarifa": "8.509,11",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "LYS",
             "CDG",
@@ -3704,7 +3912,8 @@
         "dataVolta": "30/06/2025",
         "tarifa": "289,33",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5224350",
         "seguradora": "UNIVERSAL"
@@ -3718,7 +3927,8 @@
         "dataVolta": "14/06/2025",
         "tarifa": "35.342,56",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "FLN",
             "GRU",
@@ -3739,7 +3949,8 @@
         "dataVolta": "17/06/2025",
         "tarifa": "1.527,37",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "HND",
             "AOJ",
@@ -3759,7 +3970,8 @@
         "dataVolta": "",
         "tarifa": "12.946,55",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "NRT",
             "HRB"
@@ -3778,7 +3990,8 @@
         "dataVolta": "21/06/2025",
         "tarifa": "4.373,12",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "HRB",
             "PEK"
@@ -3797,7 +4010,8 @@
         "dataVolta": "26/06/2025",
         "tarifa": "17.662,05",
         "valorReembolso": "22.360,84",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "PEK",
             "DXB",
@@ -3818,7 +4032,8 @@
         "dataVolta": "26/06/2025",
         "tarifa": "50.526,04",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "PEK",
             "HND",
@@ -3839,7 +4054,8 @@
         "dataVolta": "26/06/2025",
         "tarifa": "754,02",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "FLN"
@@ -3858,7 +4074,8 @@
         "dataVolta": "26/06/2025",
         "tarifa": "394,54",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5223584",
         "seguradora": "UNIVERSAL"
@@ -3872,7 +4089,8 @@
         "dataVolta": "",
         "tarifa": "874,82",
         "valorReembolso": "905,68",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BEL"
@@ -3891,7 +4109,8 @@
         "dataVolta": "29/06/2025",
         "tarifa": "1.311,40",
         "valorReembolso": "1.365,72",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB"
@@ -3910,7 +4129,8 @@
         "dataVolta": "28/06/2025",
         "tarifa": "2.555,90",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB"
@@ -3929,7 +4149,8 @@
         "dataVolta": "26/05/2025",
         "tarifa": "346,28",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5118460",
         "seguradora": "UNIVERSAL"
@@ -3943,7 +4164,8 @@
         "dataVolta": "23/06/2025",
         "tarifa": "29.543,95",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LISFCO",
@@ -3964,7 +4186,8 @@
         "dataVolta": "23/06/2025",
         "tarifa": "130,15",
         "valorReembolso": "",
-        "taxasExtras:": "26,03",
+        "taxasExtras": "26,03",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5243389",
         "seguradora": "UNIVERSAL"
@@ -3978,7 +4201,8 @@
         "dataVolta": "23/06/2025",
         "tarifa": "24.937,64",
         "valorReembolso": "25.717,97",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -4000,7 +4224,8 @@
         "dataVolta": "23/07/2025",
         "tarifa": "759,93",
         "valorReembolso": "",
-        "taxasExtras:": "602,7",
+        "taxasExtras": "602,7",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5234041",
         "seguradora": "UNIVERSAL"
@@ -4014,7 +4239,8 @@
         "dataVolta": "04/08/2025",
         "tarifa": "312,79",
         "valorReembolso": "",
-        "taxasExtras:": "312,76",
+        "taxasExtras": "312,76",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5353724",
         "seguradora": "UNIVERSAL"
@@ -4028,7 +4254,8 @@
         "dataVolta": "07/07/2025",
         "tarifa": "257,4",
         "valorReembolso": "",
-        "taxasExtras:": "102,96",
+        "taxasExtras": "102,96",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5257857",
         "seguradora": "UNIVERSAL"
@@ -4042,7 +4269,8 @@
         "dataVolta": "04/08/2025",
         "tarifa": "19.148,64",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "PMW",
             "GRU",
@@ -4063,7 +4291,8 @@
         "dataVolta": "11/08/2025",
         "tarifa": "13.574,93",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "ARN",
             "LHR",
@@ -4084,7 +4313,8 @@
         "dataVolta": "11/08/2025",
         "tarifa": "-",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "ARN",
             "LHR",
@@ -4105,7 +4335,8 @@
         "dataVolta": "11/08/2025",
         "tarifa": "232,44",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5270339",
         "seguradora": "UNIVERSAL"
@@ -4119,7 +4350,8 @@
         "dataVolta": "11/07/2025",
         "tarifa": "30.344,24",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "REC",
             "LIS",
@@ -4142,7 +4374,8 @@
         "dataVolta": "11/07/2025",
         "tarifa": "334,63",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "MARROCOS/EUROPA",
         "bilhete": "TA5258578",
         "seguradora": "UNIVERSAL"
@@ -4156,7 +4389,8 @@
         "dataVolta": "01/07/2025",
         "tarifa": "43.278,63",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "AJU",
             "GRU",
@@ -4178,7 +4412,8 @@
         "dataVolta": "02/07/2025",
         "tarifa": "206,62",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5270877",
         "seguradora": "UNIVERSAL"
@@ -4192,7 +4427,8 @@
         "dataVolta": "06/07/2025",
         "tarifa": "182,34",
         "valorReembolso": "",
-        "taxasExtras:": "26,05",
+        "taxasExtras": "26,05",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5278214",
         "seguradora": "UNIVERSAL"
@@ -4206,7 +4442,8 @@
         "dataVolta": "04/07/2025",
         "tarifa": "6.493,67",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS"
@@ -4225,7 +4462,8 @@
         "dataVolta": "05/07/2025",
         "tarifa": "655,16",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "LIS",
             "MAD"
@@ -4244,7 +4482,8 @@
         "dataVolta": "07/07/2025",
         "tarifa": "4.783,35",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MAD",
             "GRU",
@@ -4264,7 +4503,8 @@
         "dataVolta": "07/07/2025",
         "tarifa": "130,24",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5278352",
         "seguradora": "UNIVERSAL"
@@ -4278,7 +4518,8 @@
         "dataVolta": "07/07/2025",
         "tarifa": "3.679,22",
         "valorReembolso": "1.491,79",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -4298,7 +4539,8 @@
         "dataVolta": "07/07/2025",
         "tarifa": "3.111,67",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GIG",
             "GRU",
@@ -4318,7 +4560,8 @@
         "dataVolta": "07/07/2025",
         "tarifa": "37.044,46",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "LIS",
@@ -4338,7 +4581,8 @@
         "dataVolta": "",
         "tarifa": "2.867,33",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "LIS",
             "GRU",
@@ -4358,7 +4602,8 @@
         "dataVolta": "07/07/2025",
         "tarifa": "154,4",
         "valorReembolso": "",
-        "taxasExtras:": "51,46",
+        "taxasExtras": "51,46",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5287613",
         "seguradora": "UNIVERSAL"
@@ -4372,7 +4617,8 @@
         "dataVolta": "12/07/2025",
         "tarifa": "29.904,90",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -4394,7 +4640,8 @@
         "dataVolta": "",
         "tarifa": "1.068,12",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "CGR"
@@ -4413,7 +4660,8 @@
         "dataVolta": "12/07/2025",
         "tarifa": "128,23",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AFRICA",
         "bilhete": "TA5291060",
         "seguradora": "UNIVERSAL"
@@ -4427,7 +4675,8 @@
         "dataVolta": "29/11/2025",
         "tarifa": "11.188,61",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "REC",
             "LIS",
@@ -4447,7 +4696,8 @@
         "dataVolta": "29/11/2025",
         "tarifa": "256,37",
         "valorReembolso": "",
-        "taxasExtras:": "128,19",
+        "taxasExtras": "128,19",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5311541",
         "seguradora": "UNIVERSAL"
@@ -4461,7 +4711,8 @@
         "dataVolta": "",
         "tarifa": "2.945,67",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "CGR",
             "CGH"
@@ -4480,7 +4731,8 @@
         "dataVolta": "26/07/2025",
         "tarifa": "37.761,81",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "CGH",
             "IAD"
@@ -4499,7 +4751,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "10.980,18",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "IAD",
             "ATL",
@@ -4520,7 +4773,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "214,17",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5346749",
         "seguradora": "UNIVERSAL"
@@ -4534,7 +4788,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "6.744,17",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MCO",
             "IAD",
@@ -4554,7 +4809,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "183,58",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5347176",
         "seguradora": "UNIVERSAL"
@@ -4568,7 +4824,8 @@
         "dataVolta": "26/07/2025",
         "tarifa": "20.784,32",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "FLN",
             "GRU",
@@ -4588,7 +4845,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "10.673,63",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "DCA",
             "ATL",
@@ -4609,7 +4867,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "428,35",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5346947",
         "seguradora": "UNIVERSAL"
@@ -4623,7 +4882,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "40.212,85",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -4647,7 +4907,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "426,27",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5353289",
         "seguradora": "UNIVERSAL"
@@ -4661,7 +4922,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "49.339,37",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "IAD",
@@ -4683,7 +4945,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "427,49",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5354985",
         "seguradora": "UNIVERSAL"
@@ -4697,7 +4960,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "428,13",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5358384",
         "seguradora": "UNIVERSAL"
@@ -4711,7 +4975,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "49.413,88",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "IAD",
@@ -4732,7 +4997,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "1.635,01",
         "valorReembolso": "1.666,29",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "BSB"
@@ -4751,7 +5017,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "512,02",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "BSB"
@@ -4770,7 +5037,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "183,49",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5358610",
         "seguradora": "UNIVERSAL"
@@ -4784,7 +5052,8 @@
         "dataVolta": "26/07/2025",
         "tarifa": "14.123,05",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -4804,7 +5073,8 @@
         "dataVolta": "31/07/2025",
         "tarifa": "7.751,24",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MIA",
             "DCA",
@@ -4824,7 +5094,8 @@
         "dataVolta": "30/07/2025",
         "tarifa": "259,88",
         "valorReembolso": "",
-        "taxasExtras:": "282,9",
+        "taxasExtras": "282,9",
+        "tipo": "Internacional",
         "trechos": [
             "DCA",
             "MIA"
@@ -4843,7 +5114,8 @@
         "dataVolta": "03/08/2025",
         "tarifa": "15.711,41",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MIA",
             "PTY",
@@ -4863,7 +5135,8 @@
         "dataVolta": "03/08/2025",
         "tarifa": "304,87",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5362244",
         "seguradora": "UNIVERSAL"
@@ -4877,7 +5150,8 @@
         "dataVolta": "",
         "tarifa": "2.273,28",
         "valorReembolso": "2.304,00",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "RBR"
@@ -4896,7 +5170,8 @@
         "dataVolta": "09/08/2025",
         "tarifa": "3.111,67",
         "valorReembolso": "3.163,92",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "RBR",
             "BSB",
@@ -4916,7 +5191,8 @@
         "dataVolta": "",
         "tarifa": "2.003,53",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "AJU",
             "GRU"
@@ -4935,7 +5211,8 @@
         "dataVolta": "22/08/2025",
         "tarifa": "34.350,16",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "DXB",
@@ -4957,7 +5234,8 @@
         "dataVolta": "23/08/2025",
         "tarifa": "574,27",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "AJU"
@@ -4976,7 +5254,8 @@
         "dataVolta": "23/08/2025",
         "tarifa": "233,13",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ÁSIA",
         "bilhete": "TA5399232",
         "seguradora": "UNIVERSAL"
@@ -4990,7 +5269,8 @@
         "dataVolta": "30/08/2025",
         "tarifa": "148,91",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5409392",
         "seguradora": "UNIVERSAL"
@@ -5004,7 +5284,8 @@
         "dataVolta": "20/08/2025",
         "tarifa": "2.881,62",
         "valorReembolso": "3.140,63",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "BOG",
@@ -5024,7 +5305,8 @@
         "dataVolta": "21/08/2025",
         "tarifa": "98,26",
         "valorReembolso": "98,25",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "29455003",
         "seguradora": "ASSIST CARD"
@@ -5038,7 +5320,8 @@
         "dataVolta": "14/08/2025",
         "tarifa": "32.000,18",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "MXP",
@@ -5059,7 +5342,8 @@
         "dataVolta": "14/08/2025",
         "tarifa": "279,95",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5436113",
         "seguradora": "UNIVERSAL"
@@ -5073,7 +5357,8 @@
         "dataVolta": "15/09/2025",
         "tarifa": "8.220,72",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "REC",
             "LIS",
@@ -5093,7 +5378,8 @@
         "dataVolta": "17/09/2025",
         "tarifa": "16.696,90",
         "valorReembolso": "16.916,86",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -5113,7 +5399,8 @@
         "dataVolta": "21/09/2025",
         "tarifa": "18.250,14",
         "valorReembolso": "19.995,80",
-        "taxasExtras:": "7.814,36",
+        "taxasExtras": "7.814,36",
+        "tipo": "Internacional",
         "trechos": [
             "GVA",
             "CDG",
@@ -5133,7 +5420,8 @@
         "dataVolta": "22/09/2025",
         "tarifa": "681,34",
         "valorReembolso": "741,89",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "CGH",
             "BSB"
@@ -5152,7 +5440,8 @@
         "dataVolta": "21/09/2025",
         "tarifa": "154,31",
         "valorReembolso": "154,29",
-        "taxasExtras:": "51,44",
+        "taxasExtras": "51,44",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5442700",
         "seguradora": "UNIVERSAL"
@@ -5166,7 +5455,8 @@
         "dataVolta": "16/09/2025",
         "tarifa": "5.363,05",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -5188,7 +5478,8 @@
         "dataVolta": "16/09/2025",
         "tarifa": "128,25",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "550 29550755 0C94",
         "seguradora": "ASSIST CARD"
@@ -5202,7 +5493,8 @@
         "dataVolta": "",
         "tarifa": "1.440,52",
         "valorReembolso": "1.499,92",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "MVD"
@@ -5221,7 +5513,8 @@
         "dataVolta": "16/09/2025",
         "tarifa": "3.498,41",
         "valorReembolso": "4.158,04",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU",
@@ -5241,7 +5534,8 @@
         "dataVolta": "",
         "tarifa": "1.295,38",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "MVD"
@@ -5260,7 +5554,8 @@
         "dataVolta": "13/09/2025",
         "tarifa": "1.136,40",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "MVD"
@@ -5279,7 +5574,8 @@
         "dataVolta": "15/09/2025",
         "tarifa": "1.431,35",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU",
@@ -5300,7 +5596,8 @@
         "dataVolta": "15/09/2025",
         "tarifa": "97,54",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "550 29574031 0C94",
         "seguradora": "ASSIST CARD"
@@ -5314,7 +5611,8 @@
         "dataVolta": "17/09/2025",
         "tarifa": "28.170,48",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -5336,7 +5634,8 @@
         "dataVolta": "17/09/2025",
         "tarifa": "-",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -5358,7 +5657,8 @@
         "dataVolta": "17/09/2025",
         "tarifa": "203,67",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5456066",
         "seguradora": "UNIVERSAL"
@@ -5372,7 +5672,8 @@
         "dataVolta": "",
         "tarifa": "1.420,87",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "REC",
             "CGH"
@@ -5391,7 +5692,8 @@
         "dataVolta": "",
         "tarifa": "3.799,07",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "MVD",
@@ -5412,7 +5714,8 @@
         "dataVolta": "16/09/2025",
         "tarifa": "73,56",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "550 29566680 0C94",
         "seguradora": "ASSIST CARD"
@@ -5426,7 +5729,8 @@
         "dataVolta": "14/09/2025",
         "tarifa": "27.099,44",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -5446,7 +5750,8 @@
         "dataVolta": "14/09/2025",
         "tarifa": "153,01",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5470824",
         "seguradora": "UNIVERSAL"
@@ -5460,7 +5765,8 @@
         "dataVolta": "",
         "tarifa": "1.687,61",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "CGR",
             "GRU",
@@ -5480,7 +5786,8 @@
         "dataVolta": "16/09/2025",
         "tarifa": "3.174,44",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU",
@@ -5500,7 +5807,8 @@
         "dataVolta": "16/09/2025",
         "tarifa": "73,42",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "550 29591674 0C94",
         "seguradora": "ASSIST CARD"
@@ -5514,7 +5822,8 @@
         "dataVolta": "",
         "tarifa": "7.179,48",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "AMS"
@@ -5533,7 +5842,8 @@
         "dataVolta": "",
         "tarifa": "1.216,42",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "AMS",
             "LIS"
@@ -5552,7 +5862,8 @@
         "dataVolta": "17/09/2025",
         "tarifa": "3.203,45",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "LIS",
             "GRU"
@@ -5571,7 +5882,8 @@
         "dataVolta": "17/09/2025",
         "tarifa": "205,57",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5478325",
         "seguradora": "UNIVERSAL"
@@ -5585,7 +5897,8 @@
         "dataVolta": "20/09/2025",
         "tarifa": "256,97",
         "valorReembolso": "",
-        "taxasExtras:": "128,49",
+        "taxasExtras": "128,49",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5478946",
         "seguradora": "UNIVERSAL"
@@ -5599,7 +5912,8 @@
         "dataVolta": "",
         "tarifa": "14.744,05",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -5619,7 +5933,8 @@
         "dataVolta": "",
         "tarifa": "1.850,61",
         "valorReembolso": "2.357,05",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "FCO",
             "GVA"
@@ -5638,7 +5953,8 @@
         "dataVolta": "24/10/2025",
         "tarifa": "16.610,32",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GVA",
             "CDG",
@@ -5658,7 +5974,8 @@
         "dataVolta": "25/10/2025",
         "tarifa": "304,35",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5492159",
         "seguradora": "UNIVERSAL"
@@ -5672,7 +5989,8 @@
         "dataVolta": "04/10/2025",
         "tarifa": "46.714,70",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "CWB",
             "SCL",
@@ -5695,7 +6013,8 @@
         "dataVolta": "05/10/2025",
         "tarifa": "325,9",
         "valorReembolso": "131,38",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "BSB"
@@ -5714,7 +6033,8 @@
         "dataVolta": "05/10/2025",
         "tarifa": "557,97",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "OCEANIA",
         "bilhete": "TA5492138",
         "seguradora": "UNIVERSAL"
@@ -5728,7 +6048,8 @@
         "dataVolta": "02/10/2025",
         "tarifa": "50.206,43",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -5752,7 +6073,8 @@
         "dataVolta": "02/10/2025",
         "tarifa": "408,13",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "OCEANIA",
         "bilhete": "TA5494932",
         "seguradora": "UNIVERSAL"
@@ -5766,7 +6088,8 @@
         "dataVolta": "01/11/2025",
         "tarifa": "6.556,78",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GIG",
             "AMS",
@@ -5788,7 +6111,8 @@
         "dataVolta": "01/11/2025",
         "tarifa": "153,05",
         "valorReembolso": "",
-        "taxasExtras:": "25,51",
+        "taxasExtras": "25,51",
+        "tipo": "Seguro Viagem",
         "regiao": "GIG/AMS/LHR/CDG/GIG",
         "bilhete": "TA5498867 / ZBBR002568630",
         "seguradora": "UNIVERSAL"
@@ -5802,7 +6126,8 @@
         "dataVolta": "",
         "tarifa": "2.887,47",
         "valorReembolso": "",
-        "taxasExtras:": "233,83",
+        "taxasExtras": "233,83",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -5822,7 +6147,8 @@
         "dataVolta": "16/09/2025",
         "tarifa": "2.827,65",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU",
@@ -5842,7 +6168,8 @@
         "dataVolta": "16/09/2025",
         "tarifa": "122,59",
         "valorReembolso": "",
-        "taxasExtras:": "49,04",
+        "taxasExtras": "49,04",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "550 29599775 0C94",
         "seguradora": "UNIVERSAL"
@@ -5856,7 +6183,8 @@
         "dataVolta": "04/10/2025",
         "tarifa": "49.824,03",
         "valorReembolso": "50.763,65",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "SCL",
@@ -5878,7 +6206,8 @@
         "dataVolta": "27/09/2025",
         "tarifa": "26.494,39",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "SCL",
@@ -5898,7 +6227,8 @@
         "dataVolta": "04/10/2025",
         "tarifa": "6.537,81",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "SYD",
             "SFO",
@@ -5918,7 +6248,8 @@
         "dataVolta": "04/10/2025",
         "tarifa": "250,37",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "OCEANIA",
         "bilhete": "TA5531390",
         "seguradora": "UNIVERSAL"
@@ -5932,7 +6263,8 @@
         "dataVolta": "21/09/2025",
         "tarifa": "176,58",
         "valorReembolso": "",
-        "taxasExtras:": "25,23",
+        "taxasExtras": "25,23",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5511823",
         "seguradora": "UNIVERSAL"
@@ -5946,7 +6278,8 @@
         "dataVolta": "28/09/2025",
         "tarifa": "325,06",
         "valorReembolso": "",
-        "taxasExtras:": "100,02",
+        "taxasExtras": "100,02",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5515103",
         "seguradora": "UNIVERSAL"
@@ -5960,7 +6293,8 @@
         "dataVolta": "",
         "tarifa": "3.418,25",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "SAT",
             "SFO"
@@ -5979,7 +6313,8 @@
         "dataVolta": "27/09/2025",
         "tarifa": "19.879,12",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "SFO",
             "LAX",
@@ -6000,7 +6335,8 @@
         "dataVolta": "30/09/2025",
         "tarifa": "2.122,52",
         "valorReembolso": "",
-        "taxasExtras:": "2.122,69",
+        "taxasExtras": "2.122,69",
+        "tipo": "Internacional",
         "trechos": [
             "SFO",
             "ATL",
@@ -6021,7 +6357,8 @@
         "dataVolta": "27/09/2025",
         "tarifa": "174,6",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5521774",
         "seguradora": "UNIVERSAL"
@@ -6035,7 +6372,8 @@
         "dataVolta": "31/10/2025",
         "tarifa": "375,55",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5531329",
         "seguradora": "UNIVERSAL"
@@ -6049,7 +6387,8 @@
         "dataVolta": "",
         "tarifa": "2.934,78",
         "valorReembolso": "2.883,96",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "CGR",
             "GRU",
@@ -6069,7 +6408,8 @@
         "dataVolta": "07/10/2025",
         "tarifa": "1.234,85",
         "valorReembolso": "1.720,26",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU",
@@ -6089,7 +6429,8 @@
         "dataVolta": "07/10/2025",
         "tarifa": "72,34",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "550 29724323 0C94",
         "seguradora": "ASSIST CARD"
@@ -6103,7 +6444,8 @@
         "dataVolta": "30/09/2025",
         "tarifa": "174,6",
         "valorReembolso": "",
-        "taxasExtras:": "29,1",
+        "taxasExtras": "29,1",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5520938",
         "seguradora": "UNIVERSAL"
@@ -6117,7 +6459,8 @@
         "dataVolta": "04/10/2025",
         "tarifa": "30.409,51",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -6138,7 +6481,8 @@
         "dataVolta": "05/10/2025",
         "tarifa": "251,07",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5545417",
         "seguradora": "UNIVERSAL"
@@ -6152,7 +6496,8 @@
         "dataVolta": "",
         "tarifa": "13.767,43",
         "valorReembolso": "13.877,25",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "VIX",
             "GRU",
@@ -6172,7 +6517,8 @@
         "dataVolta": "25/11/2025",
         "tarifa": "11.588,73",
         "valorReembolso": "15.727,82",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "FCO",
             "CDG",
@@ -6192,7 +6538,8 @@
         "dataVolta": "28/11/2025",
         "tarifa": "787,05",
         "valorReembolso": "781,26",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "VIX"
@@ -6211,7 +6558,8 @@
         "dataVolta": "28/11/2025",
         "tarifa": "175,1",
         "valorReembolso": "175,08",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5555275",
         "seguradora": "UNIVERSAL"
@@ -6225,7 +6573,8 @@
         "dataVolta": "",
         "tarifa": "1.142,38",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "REC",
             "MVD"
@@ -6244,7 +6593,8 @@
         "dataVolta": "07/10/2025",
         "tarifa": "2.111,07",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU",
@@ -6264,7 +6614,8 @@
         "dataVolta": "07/10/2025",
         "tarifa": "347,73",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU",
@@ -6284,7 +6635,8 @@
         "dataVolta": "07/10/2025",
         "tarifa": "75,04",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA5555330",
         "seguradora": "UNIVERSAL"
@@ -6298,7 +6650,8 @@
         "dataVolta": "12/10/2025",
         "tarifa": "38.187,52",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -6319,7 +6672,8 @@
         "dataVolta": "19/10/2025",
         "tarifa": "18.443,28",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "SVO",
             "AUH",
@@ -6339,7 +6693,8 @@
         "dataVolta": "19/10/2025",
         "tarifa": "5.697,09",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "SVO",
             "AUH",
@@ -6359,7 +6714,8 @@
         "dataVolta": "27/10/2025",
         "tarifa": "22.906,14",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "LHR",
             "GRU"
@@ -6378,7 +6734,8 @@
         "dataVolta": "27/10/2025",
         "tarifa": "1.176,53",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "BSB"
@@ -6397,7 +6754,8 @@
         "dataVolta": "27/10/2025",
         "tarifa": "-",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "BSB"
@@ -6416,7 +6774,8 @@
         "dataVolta": "27/10/2025",
         "tarifa": "475,28",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EMIRADOS ARABES UNIDOS E EUROPA",
         "bilhete": "TA5555469",
         "seguradora": "UNIVERSAL"
@@ -6430,7 +6789,8 @@
         "dataVolta": "",
         "tarifa": "1.542,05",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "GRU"
@@ -6449,7 +6809,8 @@
         "dataVolta": "20/10/2025",
         "tarifa": "54.612,95",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "DXB",
@@ -6473,7 +6834,8 @@
         "dataVolta": "17/10/2025",
         "tarifa": "8.995,05",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "DME",
             "DXB",
@@ -6493,7 +6855,8 @@
         "dataVolta": "17/10/2025",
         "tarifa": "1.840,02",
         "valorReembolso": "1.873,48",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "BSB"
@@ -6512,7 +6875,8 @@
         "dataVolta": "18/10/2025",
         "tarifa": "2.987,17",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "CGH",
             "BSB"
@@ -6531,7 +6895,8 @@
         "dataVolta": "20/10/2025",
         "tarifa": "325,19",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "BSB/GRU/DXB/VKO/DME/DXB/GRU/BSB",
         "bilhete": "TA5556062 / ZBBR002648341",
         "seguradora": "UNIVERSAL"
@@ -6545,7 +6910,8 @@
         "dataVolta": "",
         "tarifa": "2.820,24",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -6565,7 +6931,8 @@
         "dataVolta": "07/10/2025",
         "tarifa": "2.102,54",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU",
@@ -6585,7 +6952,8 @@
         "dataVolta": "07/10/2025",
         "tarifa": "74,98",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA5558142",
         "seguradora": "UNIVERSAL"
@@ -6599,7 +6967,8 @@
         "dataVolta": "11/10/2025",
         "tarifa": "6.361,04",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -6620,7 +6989,8 @@
         "dataVolta": "20/10/2025",
         "tarifa": "6.739,78",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "NRT",
             "DXB",
@@ -6641,7 +7011,8 @@
         "dataVolta": "20/10/2025",
         "tarifa": "-",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "NRT",
             "DXB",
@@ -6661,7 +7032,8 @@
         "dataVolta": "20/10/2025",
         "tarifa": "299,94",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ÁSIA",
         "bilhete": "TA5559306",
         "seguradora": "UNIVERSAL"
@@ -6675,7 +7047,8 @@
         "dataVolta": "23/10/2025",
         "tarifa": "26.421,38",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "REC",
             "LIS",
@@ -6697,7 +7070,8 @@
         "dataVolta": "23/10/2025",
         "tarifa": "150,47",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5578633",
         "seguradora": "UNIVERSAL"
@@ -6711,7 +7085,8 @@
         "dataVolta": "31/10/2025",
         "tarifa": "258,39",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "ASIA",
         "bilhete": "TA5600472",
         "seguradora": "UNIVERSAL"
@@ -6725,7 +7100,8 @@
         "dataVolta": "",
         "tarifa": "2.183,64",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "PVH"
@@ -6744,7 +7120,8 @@
         "dataVolta": "01/11/2025",
         "tarifa": "2.987,17",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "PVH",
             "BSB"
@@ -6763,7 +7140,8 @@
         "dataVolta": "02/11/2025",
         "tarifa": "2.647,61",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "PVH",
             "BSB"
@@ -6782,7 +7160,8 @@
         "dataVolta": "",
         "tarifa": "2.183,64",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "PVH"
@@ -6801,7 +7180,8 @@
         "dataVolta": "",
         "tarifa": "396,83",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "PVH"
@@ -6820,7 +7200,8 @@
         "dataVolta": "",
         "tarifa": "398,4",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "PVH"
@@ -6839,7 +7220,8 @@
         "dataVolta": "01/11/2025",
         "tarifa": "2.987,17",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "PVH",
             "BSB"
@@ -6858,7 +7240,8 @@
         "dataVolta": "03/11/2025",
         "tarifa": "2.844,32",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "PVH",
             "BSB"
@@ -6877,7 +7260,8 @@
         "dataVolta": "",
         "tarifa": "1.323,95",
         "valorReembolso": "1.375,48",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "VIX",
             "SSA",
@@ -6897,7 +7281,8 @@
         "dataVolta": "14/11/2025",
         "tarifa": "899,89",
         "valorReembolso": "954,25",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "GIG",
@@ -6917,7 +7302,8 @@
         "dataVolta": "",
         "tarifa": "4.609,08",
         "valorReembolso": "4.437,06",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "REC",
             "BEL"
@@ -6936,7 +7322,8 @@
         "dataVolta": "14/11/2025",
         "tarifa": "752,17",
         "valorReembolso": "54,45",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "REC"
@@ -6955,7 +7342,8 @@
         "dataVolta": "10/11/2025",
         "tarifa": "8.152,96",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "CWB",
             "GRU",
@@ -6977,7 +7365,8 @@
         "dataVolta": "10/11/2025",
         "tarifa": "200,86",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5583188 / ZBBR002690837",
         "seguradora": "UNIVERSAL"
@@ -6991,7 +7380,8 @@
         "dataVolta": "26/10/2025",
         "tarifa": "22.158,48",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -7012,7 +7402,8 @@
         "dataVolta": "01/11/2025",
         "tarifa": "18.655,77",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "SFO",
             "LAX",
@@ -7033,7 +7424,8 @@
         "dataVolta": "01/11/2025",
         "tarifa": "236,14",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO NORTE",
         "bilhete": "TA5618592",
         "seguradora": "UNIVERSAL"
@@ -7047,7 +7439,8 @@
         "dataVolta": "",
         "tarifa": "1.322,93",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BEL"
@@ -7066,7 +7459,8 @@
         "dataVolta": "",
         "tarifa": "1.606,88",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BEL"
@@ -7085,7 +7479,8 @@
         "dataVolta": "15/11/2025",
         "tarifa": "508,9",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB"
@@ -7104,7 +7499,8 @@
         "dataVolta": "08/11/2025",
         "tarifa": "259,68",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "MUNDO(EXCETO EUA)",
         "bilhete": "E7-854/1659618-779",
         "seguradora": "CORIS"
@@ -7118,7 +7514,8 @@
         "dataVolta": "",
         "tarifa": "1.346,20",
         "valorReembolso": "1.438,48",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -7138,7 +7535,8 @@
         "dataVolta": "",
         "tarifa": "2.861,13",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -7158,7 +7556,8 @@
         "dataVolta": "",
         "tarifa": "829,25",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU"
@@ -7177,7 +7576,8 @@
         "dataVolta": "18/11/2025",
         "tarifa": "293,65",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "CGH",
             "BSB"
@@ -7196,7 +7596,8 @@
         "dataVolta": "17/11/2025",
         "tarifa": "101,32",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA5627354",
         "seguradora": "UNIVERSAL"
@@ -7210,7 +7611,8 @@
         "dataVolta": "22/11/2025",
         "tarifa": "14.665,64",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS",
@@ -7230,7 +7632,8 @@
         "dataVolta": "25/11/2025",
         "tarifa": "7.983,66",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "FCO",
             "CDG"
@@ -7249,7 +7652,8 @@
         "dataVolta": "26/11/2025",
         "tarifa": "-",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "FCO",
             "CDG"
@@ -7268,7 +7672,8 @@
         "dataVolta": "28/11/2025",
         "tarifa": "19.934,12",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "CDG",
             "GRU",
@@ -7288,7 +7693,8 @@
         "dataVolta": "28/11/2025",
         "tarifa": "202,43",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5680054",
         "seguradora": "UNIVERSAL"
@@ -7302,7 +7708,8 @@
         "dataVolta": "",
         "tarifa": "2.596,90",
         "valorReembolso": "361,68",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "CNF",
@@ -7322,7 +7729,8 @@
         "dataVolta": "13/11/2025",
         "tarifa": "1.971,86",
         "valorReembolso": "2.026,11",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB",
@@ -7342,7 +7750,8 @@
         "dataVolta": "",
         "tarifa": "2.006,02",
         "valorReembolso": "2.038,69",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BEL"
@@ -7361,7 +7770,8 @@
         "dataVolta": "08/11/2025",
         "tarifa": "992,04",
         "valorReembolso": "54,45",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB"
@@ -7380,7 +7790,8 @@
         "dataVolta": "",
         "tarifa": "1.598,77",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BEL"
@@ -7399,7 +7810,8 @@
         "dataVolta": "15/11/2025",
         "tarifa": "668,9",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB"
@@ -7418,7 +7830,8 @@
         "dataVolta": "09/11/2025",
         "tarifa": "2.835,37",
         "valorReembolso": "59,95",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "SDU",
@@ -7438,7 +7851,8 @@
         "dataVolta": "",
         "tarifa": "2.141,13",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "BEL"
@@ -7457,7 +7871,8 @@
         "dataVolta": "18/11/2025",
         "tarifa": "2.978,87",
         "valorReembolso": "947,81",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB"
@@ -7476,7 +7891,8 @@
         "dataVolta": "",
         "tarifa": "1.804,33",
         "valorReembolso": "1.837,02",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BEL"
@@ -7495,7 +7911,8 @@
         "dataVolta": "14/11/2025",
         "tarifa": "2.978,87",
         "valorReembolso": "3.033,02",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB",
@@ -7515,7 +7932,8 @@
         "dataVolta": "",
         "tarifa": "2.470,82",
         "valorReembolso": "2.525,02",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB"
@@ -7534,7 +7952,8 @@
         "dataVolta": "",
         "tarifa": "2.568,76",
         "valorReembolso": "32,87",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BEL"
@@ -7553,7 +7972,8 @@
         "dataVolta": "15/11/2025",
         "tarifa": "2.675,00",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB"
@@ -7572,7 +7992,8 @@
         "dataVolta": "14/11/2025",
         "tarifa": "2.090,17",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB"
@@ -7591,7 +8012,8 @@
         "dataVolta": "",
         "tarifa": "465,27",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BEL"
@@ -7610,7 +8032,8 @@
         "dataVolta": "",
         "tarifa": "3.156,60",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "BSB",
@@ -7630,7 +8053,8 @@
         "dataVolta": "",
         "tarifa": "1.598,77",
         "valorReembolso": "1.631,48",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "BEL"
@@ -7649,7 +8073,8 @@
         "dataVolta": "21/11/2025",
         "tarifa": "3.665,48",
         "valorReembolso": "3.509,06",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BEL",
             "VCP",
@@ -7669,7 +8094,8 @@
         "dataVolta": "18/11/2025",
         "tarifa": "75,52",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA DO SUL",
         "bilhete": "TA5718937",
         "seguradora": "UNIVERSAL"
@@ -7683,7 +8109,8 @@
         "dataVolta": "",
         "tarifa": "1.210,46",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "REC",
             "MVD"
@@ -7702,7 +8129,8 @@
         "dataVolta": "18/11/2025",
         "tarifa": "824,93",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU"
@@ -7721,7 +8149,8 @@
         "dataVolta": "18/11/2025",
         "tarifa": "2.415,21",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "GRU",
             "REC"
@@ -7740,7 +8169,8 @@
         "dataVolta": "",
         "tarifa": "4.690,41",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "BOG",
@@ -7760,7 +8190,8 @@
         "dataVolta": "21/11/2025",
         "tarifa": "3.417,45",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "SAL",
             "PTY",
@@ -7780,7 +8211,8 @@
         "dataVolta": "21/11/2025",
         "tarifa": "124,11",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMÉRICA CENTRAL",
         "bilhete": "TA5745888",
         "seguradora": "UNIVERSAL"
@@ -7794,7 +8226,8 @@
         "dataVolta": "",
         "tarifa": "5.825,68",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "PVH",
@@ -7814,7 +8247,8 @@
         "dataVolta": "",
         "tarifa": "1.273,13",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "BSB",
             "CGH"
@@ -7833,7 +8267,8 @@
         "dataVolta": "18/11/2025",
         "tarifa": "1.353,98",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "CGH",
             "BSB"
@@ -7852,7 +8287,8 @@
         "dataVolta": "",
         "tarifa": "14.572,39",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "REC",
             "LIS",
@@ -7872,7 +8308,8 @@
         "dataVolta": "25/11/2025",
         "tarifa": "4.043,45",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "FCO",
             "CGD"
@@ -7891,7 +8328,8 @@
         "dataVolta": "26/11/2025",
         "tarifa": "1.148,19",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "FCO",
             "CGD"
@@ -7910,7 +8348,8 @@
         "dataVolta": "27/11/2025",
         "tarifa": "14.001,76",
         "valorReembolso": "1.050,84",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "CDG",
             "MAD",
@@ -7930,7 +8369,8 @@
         "dataVolta": "28/11/2025",
         "tarifa": "149,31",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5763178",
         "seguradora": "UNIVERSAL"
@@ -7944,7 +8384,8 @@
         "dataVolta": "",
         "tarifa": "16.490,03",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "LIS"
@@ -7963,7 +8404,8 @@
         "dataVolta": "30/11/2025",
         "tarifa": "18.938,12",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "LIS",
             "GRU"
@@ -7982,7 +8424,8 @@
         "dataVolta": "02/12/2025",
         "tarifa": "1.038,24",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "CGH",
             "BSB"
@@ -8001,7 +8444,8 @@
         "dataVolta": "30/11/2025",
         "tarifa": "124,79",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "TA5768741",
         "seguradora": "UNIVERSAL"
@@ -8015,7 +8459,8 @@
         "dataVolta": "",
         "tarifa": "2.666,32",
         "valorReembolso": "2.758,46",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -8035,7 +8480,8 @@
         "dataVolta": "",
         "tarifa": "2.917,95",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "BSB",
             "GRU",
@@ -8055,7 +8501,8 @@
         "dataVolta": "15/12/2025",
         "tarifa": "1.376,12",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "MVD",
             "GRU"
@@ -8074,7 +8521,8 @@
         "dataVolta": "16/12/2025",
         "tarifa": "1.035,48",
         "valorReembolso": "1.096,00",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Nacional",
         "trechos": [
             "CGH",
             "BSB"
@@ -8093,7 +8541,8 @@
         "dataVolta": "15/12/2025",
         "tarifa": "99,54",
         "valorReembolso": "",
-        "taxasExtras:": "24,86",
+        "taxasExtras": "24,86",
+        "tipo": "Seguro Viagem",
         "regiao": "AMERICA DO SUL",
         "bilhete": "TA5885652",
         "seguradora": "UNIVERSAL"
@@ -8107,7 +8556,8 @@
         "dataVolta": "11/12/2025",
         "tarifa": "79.004,38",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "GRU",
             "IAD",
@@ -8127,7 +8577,8 @@
         "dataVolta": "11/12/2025",
         "tarifa": "146,58",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Seguro Viagem",
         "regiao": "AMERICA DO NORTE",
         "bilhete": "5893591",
         "seguradora": "UNIVERSAL"
@@ -8141,7 +8592,8 @@
         "dataVolta": "07/03/2026",
         "tarifa": "37.878,37",
         "valorReembolso": "",
-        "taxasExtras:": "",
+        "taxasExtras": "",
+        "tipo": "Internacional",
         "trechos": [
             "FLN",
             "GRU",
@@ -8163,7 +8615,8 @@
         "dataVolta": "07/03/2026",
         "tarifa": "368,82",
         "valorReembolso": "",
-        "taxasExtras:": "46,12",
+        "taxasExtras": "46,12",
+        "tipo": "Seguro Viagem",
         "regiao": "EUROPA",
         "bilhete": "550 30655556 0B70",
         "seguradora": "ASSIST CARD"
@@ -8177,7 +8630,8 @@
         "dataVolta": "",
         "tarifa": "3.279.064,36",
         "valorReembolso": "",
-        "taxasExtras:": "R$",
+        "taxasExtras": "R$",
+        "tipo": "",
         "trechos": [
             ""
         ],
