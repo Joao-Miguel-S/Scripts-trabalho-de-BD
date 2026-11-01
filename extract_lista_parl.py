@@ -9,7 +9,7 @@ with open('CSV/ListaParlamentarEmExercicio - ListaParlamentarEmExercicio.csv', '
 		if linha[0] == "/ListaParlamentarEmExercicio/Parlamentares/Parlamentar/IdentificacaoParlamentar/CodigoParlamentar":
 			continue
 		info_senador = {
-			"codSenador": linha[0],
+			"codSenador": int(linha[0]),
 			"nome": linha[3],
 			"uf": linha[10],
 			"sexo": linha[4],
