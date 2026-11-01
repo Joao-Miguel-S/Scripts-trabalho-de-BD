@@ -1,900 +1,4862 @@
-{
-	{
-		"codSenador": 5672
-		"data": 1
-		"recebeu": false
-	}
-	{
-		"codSenador": 5672
-		"data": 2
-		"recebeu": false
-	}
-	{
-		"codSenador": 5672
-		"data": 3
-		"recebeu": false
-	}
-	{
-		"codSenador": 5672
-		"data": 4
-		"recebeu": false
-	}
-	{
-		"codSenador": 5672
-		"data": 5
-		"recebeu": false
-	}
-	{
-		"codSenador": 5672
-		"data": 6
-		"recebeu": false
-	}
-	{
-		"codSenador": 5672
-		"data": 7
-		"recebeu": false
-	}
-	{
-		"codSenador": 5672
-		"data": 8
-		"recebeu": false
-	}
-	{
-		"codSenador": 5672
-		"data": 9
-		"recebeu": false
-	}
-	{
-		"codSenador": 5672
-		"data": 10
-		"recebeu": false
-	}
-	{
-		"codSenador": 5672
-		"data": 11
-		"recebeu": false
-	}
-	{
-		"codSenador": 5672
-		"data": 12
-		"recebeu": false
-	}
-	{
-		"codSenador": 285
-		"data": 1
-		"recebeu": false
-	}
-	{
-		"codSenador": 285
-		"data": 2
-		"recebeu": false
-	}	{
-		"codSenador": 285
-		"data": 3
-		"recebeu": false
-	}
-	{
-		"codSenador": 285
-		"data": 4
-		"recebeu": false
-	}
-	{
-		"codSenador": 285
-		"data": 5
-		"recebeu": false
-	}
-	{
-		"codSenador": 285
-		"data": 6
-		"recebeu": false
-	}
-	{
-		"codSenador": 285
-		"data": 7
-		"recebeu": false
-	}
-	{
-		"codSenador": 285
-		"data": 8
-		"recebeu": false
-	}
-	{
-		"codSenador": 285
-		"data": 9
-		"recebeu": false
-	}
-	{
-		"codSenador": 285
-		"data": 10
-		"recebeu": false
-	}
-	{
-		"codSenador": 285
-		"data": 11
-		"recebeu": false
-	}
-	{
-		"codSenador": 285
-		"data": 12
-		"recebeu": false
-	}
-	{
-		"codSenador": 4560
-		"data": 1
-		"recebeu": false
-	}
-	{
-		"codSenador": 4560
-		"data": 2
-		"recebeu": false
-	}
-	{
-		"codSenador": 4560
-		"data": 3
-		"recebeu": false
-	}
-	{
-		"codSenador": 4560
-		"data": 4
-		"recebeu": false
-	}
-	{
-		"codSenador": 4560
-		"data": 5
-		"recebeu": false
-	}
-	{
-		"codSenador": 4560
-		"data": 6
-		"recebeu": false
-	}
-	{
-		"codSenador": 4560
-		"data": 7
-		"recebeu": false
-	}
-	{
-		"codSenador": 4560
-		"data": 8
-		"recebeu": false
-	}
-	{
-		"codSenador": 4560
-		"data": 9
-		"recebeu": false
-	}
-	{
-		"codSenador": 4560
-		"data": 10
-		"recebeu": false
-	}
-	{
-		"codSenador": 4560
-		"data": 11
-		"recebeu": false
-	}
-	{
-		"codSenador": 4560
-		"data": 12
-		"recebeu": false
-	}
-	{
-		"codSenador": 5906
-		"data": 1
-		"recebeu": false
-	}
-	{
-		"codSenador": 5906
-		"data": 2
-		"recebeu": false
-	}
-	{
-		"codSenador": 5906
-		"data": 3
-		"recebeu": false
-	}
-	{
-		"codSenador": 5906
-		"data": 4
-		"recebeu": false
-	}
-	{
-		"codSenador": 5906
-		"data": 5
-		"recebeu": false
-	}
-	{
-		"codSenador": 5906
-		"data": 6
-		"recebeu": false
-	}
-	{
-		"codSenador": 5906
-		"data": 7
-		"recebeu": false
-	}
-	{
-		"codSenador": 5906
-		"data": 8
-		"recebeu": false
-	}
-	{
-		"codSenador": 5906
-		"data": 9
-		"recebeu": false
-	}
-	{
-		"codSenador": 5906
-		"data": 10
-		"recebeu": false
-	}
-	{
-		"codSenador": 5906
-		"data": 11
-		"recebeu": false
-	}
-	{
-		"codSenador": 5906
-		"data": 12
-		"recebeu": false
-	}
-	{
-		"codSenador": 70
-		"data": 1
-		"recebeu": false
-	}
-	{
-		"codSenador": 70
-		"data": 2
-		"recebeu": false
-	}
-	{
-		"codSenador": 70
-		"data": 3
-		"recebeu": false
-	}
-	{
-		"codSenador": 70
-		"data": 4
-		"recebeu": false
-	}
-	{
-		"codSenador": 70
-		"data": 5
-		"recebeu": false
-	}
-	{
-		"codSenador": 70
-		"data": 6
-		"recebeu": false
-	}
-	{
-		"codSenador": 70
-		"data": 7
-		"recebeu": false
-	}
-	{
-		"codSenador": 70
-		"data": 8
-		"recebeu": false
-	}
-	{
-		"codSenador": 70
-		"data": 9
-		"recebeu": false
-	}
-	{
-		"codSenador": 70
-		"data": 10
-		"recebeu": false
-	}
-	{
-		"codSenador": 70
-		"data": 11
-		"recebeu": false
-	}
-	{
-		"codSenador": 70
-		"data": 12
-		"recebeu": false
-	}
-	{
-		"codSenador": 5207
-		"data": 1
-		"recebeu": false
-	}
-	{
-		"codSenador": 5207
-		"data": 2
-		"recebeu": false
-	}
-	{
-		"codSenador": 5207
-		"data": 3
-		"recebeu": false
-	}
-	{
-		"codSenador": 5207
-		"data": 4
-		"recebeu": false
-	}
-	{
-		"codSenador": 5207
-		"data": 5
-		"recebeu": false
-	}
-	{
-		"codSenador": 5207
-		"data": 6
-		"recebeu": false
-	}
-	{
-		"codSenador": 5207
-		"data": 7
-		"recebeu": false
-	}
-	{
-		"codSenador": 5207
-		"data": 8
-		"recebeu": false
-	}
-	{
-		"codSenador": 5207
-		"data": 9
-		"recebeu": false
-	}
-	{
-		"codSenador": 5207
-		"data": 10
-		"recebeu": false
-	}
-	{
-		"codSenador": 5207
-		"data": 11
-		"recebeu": false
-	}
-	{
-		"codSenador": 5207
-		"data": 12
-		"recebeu": false
-	}
-	{
-		"codSenador": 4994
-		"data": 1
-		"recebeu": false
-	}
-	{
-		"codSenador": 4994
-		"data": 2
-		"recebeu": false
-	}
-	{
-		"codSenador": 4994
-		"data": 3
-		"recebeu": false
-	}
-	{
-		"codSenador": 4994
-		"data": 4
-		"recebeu": false
-	}
-	{
-		"codSenador": 4994
-		"data": 5
-		"recebeu": false
-	}
-	{
-		"codSenador": 4994
-		"data": 6
-		"recebeu": false
-	}
-	{
-		"codSenador": 4994
-		"data": 7
-		"recebeu": false
-	}
-	{
-		"codSenador": 4994
-		"data": 8
-		"recebeu": false
-	}
-	{
-		"codSenador": 4994
-		"data": 9
-		"recebeu": false
-	}
-	{
-		"codSenador": 4994
-		"data": 10
-		"recebeu": false
-	}
-	{
-		"codSenador": 4994
-		"data": 11
-		"recebeu": false
-	}
-	{
-		"codSenador": 4994
-		"data": 12
-		"recebeu": false
-	}
-	{
-		"codSenador": 5525
-		"data": 1
-		"recebeu": false
-	}
-	{
-		"codSenador": 5525
-		"data": 2
-		"recebeu": false
-	}
-	{
-		"codSenador": 5525
-		"data": 3
-		"recebeu": false
-	}
-	{
-		"codSenador": 5525
-		"data": 4
-		"recebeu": false
-	}
-	{
-		"codSenador": 5525
-		"data": 5
-		"recebeu": false
-	}
-	{
-		"codSenador": 5525
-		"data": 6
-		"recebeu": false
-	}
-	{
-		"codSenador": 5525
-		"data": 7
-		"recebeu": false
-	}
-	{
-		"codSenador": 5525
-		"data": 8
-		"recebeu": false
-	}
-	{
-		"codSenador": 5525
-		"data": 9
-		"recebeu": false
-	}
-	{
-		"codSenador": 5525
-		"data": 10
-		"recebeu": false
-	}
-	{
-		"codSenador": 5525
-		"data": 11
-		"recebeu": false
-	}
-	{
-		"codSenador": 5525
-		"data": 12
-		"recebeu": false
-	}
-	{
-		"codSenador": 5502
-		"data": 1
-		"recebeu": false
-	}
-	{
-		"codSenador": 5502
-		"data": 2
-		"recebeu": false
-	}
-	{
-		"codSenador": 5502
-		"data": 3
-		"recebeu": false
-	}
-	{
-		"codSenador": 5502
-		"data": 4
-		"recebeu": false
-	}
-	{
-		"codSenador": 5502
-		"data": 5
-		"recebeu": false
-	}
-	{
-		"codSenador": 5502
-		"data": 6
-		"recebeu": false
-	}
-	{
-		"codSenador": 5502
-		"data": 7
-		"recebeu": false
-	}
-	{
-		"codSenador": 5502
-		"data": 8
-		"recebeu": false
-	}
-	{
-		"codSenador": 5502
-		"data": 9
-		"recebeu": false
-	}
-	{
-		"codSenador": 5502
-		"data": 10
-		"recebeu": false
-	}
-	{
-		"codSenador": 5502
-		"data": 11
-		"recebeu": false
-	}
-	{
-		"codSenador": 5502
-		"data": 12
-		"recebeu": false
-	}
-	{
-		"codSenador": 3830
-		"data": 1
-		"recebeu": false
-	}
-	{
-		"codSenador": 3830
-		"data": 2
-		"recebeu": false
-	}
-	{
-		"codSenador": 3830
-		"data": 3
-		"recebeu": false
-	}
-	{
-		"codSenador": 3830
-		"data": 4
-		"recebeu": false
-	}
-	{
-		"codSenador": 3830
-		"data": 5
-		"recebeu": false
-	}
-	{
-		"codSenador": 3830
-		"data": 6
-		"recebeu": false
-	}
-	{
-		"codSenador": 3830
-		"data": 7
-		"recebeu": false
-	}
-	{
-		"codSenador": 3830
-		"data": 8
-		"recebeu": false
-	}
-	{
-		"codSenador": 3830
-		"data": 9
-		"recebeu": false
-	}
-	{
-		"codSenador": 3830
-		"data": 10
-		"recebeu": false
-	}
-	{
-		"codSenador": 3830
-		"data": 11
-		"recebeu": false
-	}
-	{
-		"codSenador": 3830
-		"data": 12
-		"recebeu": false
-	}
-	{
-		"codSenador": 5926
-		"data": 1
-		"recebeu": false
-	}
-	{
-		"codSenador": 5926
-		"data": 2
-		"recebeu": false
-	}
-	{
-		"codSenador": 5926
-		"data": 3
-		"recebeu": false
-	}
-	{
-		"codSenador": 5926
-		"data": 4
-		"recebeu": false
-	}
-	{
-		"codSenador": 5926
-		"data": 5
-		"recebeu": false
-	}
-	{
-		"codSenador": 5926
-		"data": 6
-		"recebeu": false
-	}
-	{
-		"codSenador": 5926
-		"data": 7
-		"recebeu": false
-	}
-	{
-		"codSenador": 5926
-		"data": 8
-		"recebeu": false
-	}
-	{
-		"codSenador": 5926
-		"data": 9
-		"recebeu": false
-	}
-	{
-		"codSenador": 5926
-		"data": 10
-		"recebeu": false
-	}
-	{
-		"codSenador": 5926
-		"data": 11
-		"recebeu": false
-	}
-	{
-		"codSenador": 5926
-		"data": 12
-		"recebeu": false
-	}
-	{
-		"codSenador": 5012
-		"data": 1
-		"recebeu": false
-	}
-	{
-		"codSenador": 5012
-		"data": 2
-		"recebeu": false
-	}
-	{
-		"codSenador": 5012
-		"data": 3
-		"recebeu": false
-	}
-	{
-		"codSenador": 5012
-		"data": 4
-		"recebeu": false
-	}
-	{
-		"codSenador": 5012
-		"data": 5
-		"recebeu": false
-	}
-	{
-		"codSenador": 5012
-		"data": 6
-		"recebeu": false
-	}
-	{
-		"codSenador": 5012
-		"data": 7
-		"recebeu": false
-	}
-	{
-		"codSenador": 5012
-		"data": 8
-		"recebeu": false
-	}
-	{
-		"codSenador": 5012
-		"data": 9
-		"recebeu": false
-	}
-	{
-		"codSenador": 5012
-		"data": 10
-		"recebeu": false
-	}
-	{
-		"codSenador": 5012
-		"data": 11
-		"recebeu": false
-	}
-	{
-		"codSenador": 5012
-		"data": 12
-		"recebeu": false
-	}
-	{
-		"codSenador": 5967
-		"data": 1
-		"recebeu": true
-	}
-	{
-		"codSenador": 5967
-		"data": 2
-		"recebeu": true
-	}
-	{
-		"codSenador": 5967
-		"data": 3
-		"recebeu": true
-	}
-	{
-		"codSenador": 5967
-		"data": 4
-		"recebeu": true
-	}
-	{
-		"codSenador": 5967
-		"data": 5
-		"recebeu": true
-	}
-	{
-		"codSenador": 5967
-		"data": 6
-		"recebeu": true
-	}
-	{
-		"codSenador": 5967
-		"data": 7
-		"recebeu": true
-	}
-	{
-		"codSenador": 5967
-		"data": 8
-		"recebeu": true
-	}
-	{
-		"codSenador": 5967
-		"data": 9
-		"recebeu": true
-	}
-	{
-		"codSenador": 5967
-		"data": 10
-		"recebeu": true
-	}
-	{
-		"codSenador": 5967
-		"data": 11
-		"recebeu": true
-	}
-	{
-		"codSenador": 5967
-		"data": 12
-		"recebeu": true
-	}
-	{
-		"codSenador": 581
-		"data": 1
-		"recebeu": true
-	}
-	{
-		"codSenador": 581
-		"data": 2
-		"recebeu": true
-	}
-	{
-		"codSenador": 581
-		"data": 3
-		"recebeu": true
-	}
-	{
-		"codSenador": 581
-		"data": 4
-		"recebeu": true
-	}
-	{
-		"codSenador": 581
-		"data": 5
-		"recebeu": true
-	}
-	{
-		"codSenador": 581
-		"data": 6
-		"recebeu": true
-	}
-	{
-		"codSenador": 581
-		"data": 7
-		"recebeu": true
-	}
-	{
-		"codSenador": 581
-		"data": 8
-		"recebeu": true
-	}
-	{
-		"codSenador": 581
-		"data": 9
-		"recebeu": true
-	}
-	{
-		"codSenador": 581
-		"data": 10
-		"recebeu": true
-	}
-	{
-		"codSenador": 581
-		"data": 11
-		"recebeu": true
-	}
-	{
-		"codSenador": 581
-		"data": 12
-		"recebeu": true
-	}
-	{
-		"codSenador": 5523
-		"data": 1
-		"recebeu": false
-	}
-	{
-		"codSenador": 5523
-		"data": 2
-		"recebeu": false
-	}
-	{
-		"codSenador": 5523
-		"data": 3
-		"recebeu": false
-	}
-	{
-		"codSenador": 5523
-		"data": 4
-		"recebeu": false
-	}
-	{
-		"codSenador": 5523
-		"data": 5
-		"recebeu": false
-	}
-	{
-		"codSenador": 5523
-		"data": 6
-		"recebeu": false
-	}
-	{
-		"codSenador": 5523
-		"data": 7
-		"recebeu": false
-	}
-	{
-		"codSenador": 5523
-		"data": 8
-		"recebeu": false
-	}
-	{
-		"codSenador": 5523
-		"data": 9
-		"recebeu": false
-	}
-	{
-		"codSenador": 5523
-		"data": 10
-		"recebeu": false
-	}
-	{
-		"codSenador": 5523
-		"data": 11
-		"recebeu": false
-	}
-	{
-		"codSenador": 5523
-		"data": 12
-		"recebeu": false
-	}
+[
+    {
+        "codSenador": 22,
+        "data": 1,
+        "recebeu": true
+    },
+    {
+        "codSenador": 22,
+        "data": 2,
+        "recebeu": true
+    },
+    {
+        "codSenador": 22,
+        "data": 3,
+        "recebeu": true
+    },
+    {
+        "codSenador": 22,
+        "data": 4,
+        "recebeu": true
+    },
+    {
+        "codSenador": 22,
+        "data": 5,
+        "recebeu": true
+    },
+    {
+        "codSenador": 22,
+        "data": 6,
+        "recebeu": true
+    },
+    {
+        "codSenador": 22,
+        "data": 7,
+        "recebeu": true
+    },
+    {
+        "codSenador": 22,
+        "data": 8,
+        "recebeu": true
+    },
+    {
+        "codSenador": 22,
+        "data": 9,
+        "recebeu": true
+    },
+    {
+        "codSenador": 22,
+        "data": 10,
+        "recebeu": true
+    },
+    {
+        "codSenador": 22,
+        "data": 11,
+        "recebeu": true
+    },
+    {
+        "codSenador": 22,
+        "data": 12,
+        "recebeu": true
+    },
+    {
+        "codSenador": 35,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 35,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 35,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 35,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 35,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 35,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 35,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 35,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 35,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 35,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 35,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 35,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 70,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 70,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 70,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 70,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 70,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 70,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 70,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 70,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 70,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 70,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 70,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 70,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 285,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 285,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 285,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 285,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 285,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 285,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 285,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 285,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 285,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 285,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 285,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 285,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 345,
+        "data": 1,
+        "recebeu": true
+    },
+    {
+        "codSenador": 345,
+        "data": 2,
+        "recebeu": true
+    },
+    {
+        "codSenador": 345,
+        "data": 3,
+        "recebeu": true
+    },
+    {
+        "codSenador": 345,
+        "data": 4,
+        "recebeu": true
+    },
+    {
+        "codSenador": 345,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 345,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 345,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 345,
+        "data": 8,
+        "recebeu": true
+    },
+    {
+        "codSenador": 345,
+        "data": 9,
+        "recebeu": true
+    },
+    {
+        "codSenador": 345,
+        "data": 10,
+        "recebeu": true
+    },
+    {
+        "codSenador": 345,
+        "data": 11,
+        "recebeu": true
+    },
+    {
+        "codSenador": 345,
+        "data": 12,
+        "recebeu": true
+    },
+    {
+        "codSenador": 470,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 470,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 470,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 470,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 470,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 470,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 470,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 470,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 470,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 470,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 470,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 470,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 475,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 475,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 475,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 475,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 475,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 475,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 475,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 475,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 475,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 475,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 475,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 475,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 581,
+        "data": 1,
+        "recebeu": true
+    },
+    {
+        "codSenador": 581,
+        "data": 2,
+        "recebeu": true
+    },
+    {
+        "codSenador": 581,
+        "data": 3,
+        "recebeu": true
+    },
+    {
+        "codSenador": 581,
+        "data": 4,
+        "recebeu": true
+    },
+    {
+        "codSenador": 581,
+        "data": 5,
+        "recebeu": true
+    },
+    {
+        "codSenador": 581,
+        "data": 6,
+        "recebeu": true
+    },
+    {
+        "codSenador": 581,
+        "data": 7,
+        "recebeu": true
+    },
+    {
+        "codSenador": 581,
+        "data": 8,
+        "recebeu": true
+    },
+    {
+        "codSenador": 581,
+        "data": 9,
+        "recebeu": true
+    },
+    {
+        "codSenador": 581,
+        "data": 10,
+        "recebeu": true
+    },
+    {
+        "codSenador": 581,
+        "data": 11,
+        "recebeu": true
+    },
+    {
+        "codSenador": 581,
+        "data": 12,
+        "recebeu": true
+    },
+    {
+        "codSenador": 631,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 631,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 631,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 631,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 631,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 631,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 631,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 631,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 631,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 631,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 631,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 631,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 739,
+        "data": 1,
+        "recebeu": true
+    },
+    {
+        "codSenador": 739,
+        "data": 2,
+        "recebeu": true
+    },
+    {
+        "codSenador": 739,
+        "data": 3,
+        "recebeu": true
+    },
+    {
+        "codSenador": 739,
+        "data": 4,
+        "recebeu": true
+    },
+    {
+        "codSenador": 739,
+        "data": 5,
+        "recebeu": true
+    },
+    {
+        "codSenador": 739,
+        "data": 6,
+        "recebeu": true
+    },
+    {
+        "codSenador": 739,
+        "data": 7,
+        "recebeu": true
+    },
+    {
+        "codSenador": 739,
+        "data": 8,
+        "recebeu": true
+    },
+    {
+        "codSenador": 739,
+        "data": 9,
+        "recebeu": true
+    },
+    {
+        "codSenador": 739,
+        "data": 10,
+        "recebeu": true
+    },
+    {
+        "codSenador": 739,
+        "data": 11,
+        "recebeu": true
+    },
+    {
+        "codSenador": 739,
+        "data": 12,
+        "recebeu": true
+    },
+    {
+        "codSenador": 742,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 742,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 742,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 742,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 742,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 742,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 742,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 742,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 742,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 742,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 742,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 742,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 825,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 825,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 825,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 825,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 825,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 825,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 825,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 825,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 825,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 825,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 825,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 825,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 1173,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 1173,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 1173,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 1173,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 1173,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 1173,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 1173,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 1173,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 1173,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 1173,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 1173,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 1173,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 1186,
+        "data": 1,
+        "recebeu": true
+    },
+    {
+        "codSenador": 1186,
+        "data": 2,
+        "recebeu": true
+    },
+    {
+        "codSenador": 1186,
+        "data": 3,
+        "recebeu": true
+    },
+    {
+        "codSenador": 1186,
+        "data": 4,
+        "recebeu": true
+    },
+    {
+        "codSenador": 1186,
+        "data": 5,
+        "recebeu": true
+    },
+    {
+        "codSenador": 1186,
+        "data": 6,
+        "recebeu": true
+    },
+    {
+        "codSenador": 1186,
+        "data": 7,
+        "recebeu": true
+    },
+    {
+        "codSenador": 1186,
+        "data": 8,
+        "recebeu": true
+    },
+    {
+        "codSenador": 1186,
+        "data": 9,
+        "recebeu": true
+    },
+    {
+        "codSenador": 1186,
+        "data": 10,
+        "recebeu": true
+    },
+    {
+        "codSenador": 1186,
+        "data": 11,
+        "recebeu": true
+    },
+    {
+        "codSenador": 1186,
+        "data": 12,
+        "recebeu": true
+    },
+    {
+        "codSenador": 3777,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3777,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3777,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3777,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3777,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3777,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3777,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3777,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3777,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3777,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3777,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3777,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3806,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3806,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3806,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3806,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3806,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3806,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3806,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3806,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3806,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3806,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3806,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3806,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3830,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3830,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3830,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3830,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3830,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3830,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3830,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3830,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3830,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3830,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3830,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 3830,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4531,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4531,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4531,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4531,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4531,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4531,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4531,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4531,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4531,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4531,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4531,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4531,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4560,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4560,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4560,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4560,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4560,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4560,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4560,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4560,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4560,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4560,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4560,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4560,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4639,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4639,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4639,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4639,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4639,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4639,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4639,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4639,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4639,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4639,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4639,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4639,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4642,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4642,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4642,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4642,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4642,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4642,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4642,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4642,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4642,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4642,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4642,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4642,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4694,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4694,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4694,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4694,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4694,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4694,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4694,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4694,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4694,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4694,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4694,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4694,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4770,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4770,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4770,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4770,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4770,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4770,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4770,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4770,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4770,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4770,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4770,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4770,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4811,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4811,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4811,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4811,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4811,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4811,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4811,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4811,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4811,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4811,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4811,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4811,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4994,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4994,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4994,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4994,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4994,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4994,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4994,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4994,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4994,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4994,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4994,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 4994,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5008,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5008,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5008,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5008,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5008,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5008,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5008,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5008,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5008,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5008,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5008,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5008,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5012,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5012,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5012,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5012,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5012,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5012,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5012,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5012,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5012,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5012,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5012,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5012,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5070,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5070,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5070,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5070,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5070,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5070,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5070,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5070,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5070,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5070,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5070,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5070,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5207,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5207,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5207,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5207,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5207,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5207,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5207,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5207,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5207,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5207,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5207,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5207,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5257,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5257,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5257,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5257,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5257,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5257,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5257,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5257,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5257,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5257,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5257,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5257,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5322,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5322,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5322,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5322,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5322,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5322,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5322,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5322,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5322,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5322,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5322,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5322,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5352,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5352,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5352,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5352,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5352,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5352,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5352,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5352,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5352,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5352,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5352,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5352,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5376,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5376,
+        "data": 2,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5376,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5376,
+        "data": 4,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5376,
+        "data": 5,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5376,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5376,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5376,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5376,
+        "data": 9,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5376,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5376,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5376,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5385,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5385,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5385,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5385,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5385,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5385,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5385,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5385,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5385,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5385,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5385,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5385,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5386,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5386,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5386,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5386,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5386,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5386,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5386,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5386,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5386,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5386,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5386,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5386,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5411,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5411,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5411,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5411,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5411,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5411,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5411,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5411,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5411,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5411,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5411,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5411,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5422,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5422,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5422,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5422,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5422,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5422,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5422,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5422,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5422,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5422,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5422,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5422,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5502,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5502,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5502,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5502,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5502,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5502,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5502,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5502,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5502,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5502,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5502,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5502,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5523,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5523,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5523,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5523,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5523,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5523,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5523,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5523,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5523,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5523,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5523,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5523,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5525,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5525,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5525,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5525,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5525,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5525,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5525,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5525,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5525,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5525,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5525,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5525,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5672,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5672,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5672,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5672,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5672,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5672,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5672,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5672,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5672,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5672,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5672,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5672,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5718,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5718,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5718,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5718,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5718,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5718,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5718,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5718,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5718,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5718,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5718,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5718,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5736,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5736,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5736,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5736,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5736,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5736,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5736,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5736,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5736,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5736,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5736,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5736,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5748,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5748,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5748,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5748,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5748,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5748,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5748,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5748,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5748,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5748,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5748,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5748,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5783,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5783,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5783,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5783,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5783,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5783,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5783,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5783,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5783,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5783,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5783,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5783,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5793,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5793,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5793,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5793,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5793,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5793,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5793,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5793,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5793,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5793,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5793,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5793,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5894,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5894,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5894,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5894,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5894,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5894,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5894,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5894,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5894,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5894,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5894,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5894,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5895,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5895,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5895,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5895,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5895,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5895,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5895,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5895,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5895,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5895,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5895,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5895,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5899,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5899,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5899,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5899,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5899,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5899,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5899,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5899,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5899,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5899,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5899,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5899,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5906,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5906,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5906,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5906,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5906,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5906,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5906,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5906,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5906,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5906,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5906,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5906,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5917,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5917,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5917,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5917,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5917,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5917,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5917,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5917,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5917,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5917,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5917,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5917,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5924,
+        "data": 1,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5924,
+        "data": 2,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5924,
+        "data": 3,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5924,
+        "data": 4,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5924,
+        "data": 5,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5924,
+        "data": 6,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5924,
+        "data": 7,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5924,
+        "data": 8,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5924,
+        "data": 9,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5924,
+        "data": 10,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5924,
+        "data": 11,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5924,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5926,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5926,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5926,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5926,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5926,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5926,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5926,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5926,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5926,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5926,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5926,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5926,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5936,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5936,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5936,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5936,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5936,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5936,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5936,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5936,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5936,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5936,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5936,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5936,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5942,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5942,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5942,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5942,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5942,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5942,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5942,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5942,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5942,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5942,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5942,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5942,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5953,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5953,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5953,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5953,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5953,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5953,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5953,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5953,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5953,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5953,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5953,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5953,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5959,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5959,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5959,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5959,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5959,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5959,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5959,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5959,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5959,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5959,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5959,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5959,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5967,
+        "data": 1,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5967,
+        "data": 2,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5967,
+        "data": 3,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5967,
+        "data": 4,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5967,
+        "data": 5,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5967,
+        "data": 6,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5967,
+        "data": 7,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5967,
+        "data": 8,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5967,
+        "data": 9,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5967,
+        "data": 10,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5967,
+        "data": 11,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5967,
+        "data": 12,
+        "recebeu": true
+    },
+    {
+        "codSenador": 5973,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5973,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5973,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5973,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5973,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5973,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5973,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5973,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5973,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5973,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5973,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5973,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5974,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5974,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5974,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5974,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5974,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5974,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5974,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5974,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5974,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5974,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5974,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5974,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5977,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5977,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5977,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5977,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5977,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5977,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5977,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5977,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5977,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5977,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5977,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5977,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5982,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5982,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5982,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5982,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5982,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5982,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5982,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5982,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5982,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5982,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5982,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5982,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5985,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5985,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5985,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5985,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5985,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5985,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5985,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5985,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5985,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5985,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5985,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5985,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5988,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5988,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5988,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5988,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5988,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5988,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5988,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5988,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5988,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5988,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5988,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5988,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5990,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5990,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5990,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5990,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5990,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5990,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5990,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5990,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5990,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5990,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5990,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5990,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5998,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5998,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5998,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5998,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5998,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5998,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5998,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5998,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5998,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5998,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5998,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 5998,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6008,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6008,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6008,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6008,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6008,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6008,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6008,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6008,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6008,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6008,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6008,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6008,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6009,
+        "data": 1,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6009,
+        "data": 2,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6009,
+        "data": 3,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6009,
+        "data": 4,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6009,
+        "data": 5,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6009,
+        "data": 6,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6009,
+        "data": 7,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6009,
+        "data": 8,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6009,
+        "data": 9,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6009,
+        "data": 10,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6009,
+        "data": 11,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6009,
+        "data": 12,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6010,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6010,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6010,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6010,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6010,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6010,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6010,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6010,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6010,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6010,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6010,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6010,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6025,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6025,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6025,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6025,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6025,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6025,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6025,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6025,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6025,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6025,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6025,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6025,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6295,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6295,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6295,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6295,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6295,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6295,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6295,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6295,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6295,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6295,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6295,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6295,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6331,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6331,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6331,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6331,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6331,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6331,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6331,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6331,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6331,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6331,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6331,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6331,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6335,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6335,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6335,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6335,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6335,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6335,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6335,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6335,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6335,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6335,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6335,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6335,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6336,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6336,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6336,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6336,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6336,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6336,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6336,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6336,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6336,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6336,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6336,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6336,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6337,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6337,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6337,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6337,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6337,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6337,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6337,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6337,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6337,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6337,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6337,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6337,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6338,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6338,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6338,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6338,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6338,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6338,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6338,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6338,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6338,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6338,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6338,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6338,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6340,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6340,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6340,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6340,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6340,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6340,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6340,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6340,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6340,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6340,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6340,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6340,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6341,
+        "data": 1,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6341,
+        "data": 2,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6341,
+        "data": 3,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6341,
+        "data": 4,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6341,
+        "data": 5,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6341,
+        "data": 6,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6341,
+        "data": 7,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6341,
+        "data": 8,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6341,
+        "data": 9,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6341,
+        "data": 10,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6341,
+        "data": 11,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6341,
+        "data": 12,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6342,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6342,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6342,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6342,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6342,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6342,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6342,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6342,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6342,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6342,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6342,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6342,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6358,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6358,
+        "data": 2,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6358,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6358,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6358,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6358,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6358,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6358,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6358,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6358,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6358,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6358,
+        "data": 12,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6369,
+        "data": 1,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6369,
+        "data": 2,
+        "recebeu": true
+    },
+    {
+        "codSenador": 6369,
+        "data": 3,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6369,
+        "data": 4,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6369,
+        "data": 5,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6369,
+        "data": 6,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6369,
+        "data": 7,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6369,
+        "data": 8,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6369,
+        "data": 9,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6369,
+        "data": 10,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6369,
+        "data": 11,
+        "recebeu": false
+    },
+    {
+        "codSenador": 6369,
+        "data": 12,
+        "recebeu": false
+    }
+]
