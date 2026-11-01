@@ -18,6 +18,7 @@ with open('CSV/Viagens.csv', 'r', encoding='UTF-8') as arquivo:
             "statusPassageiro": linha[4],
             "dataIda":linha[10],
             "dataVolta":linha[11],
+            "dataEmissao":linha[8],
             "tarifa":linha[13] ,
             "valorReembolso":linha[29],
             "taxasExtras": linha[27],

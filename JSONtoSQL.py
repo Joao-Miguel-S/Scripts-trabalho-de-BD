@@ -47,7 +47,10 @@ def findSenador(senDict,name):
 
 Senadores = {}
 comprasAereas = {}
+
 resetFiles()
+
+
 with open('JSON/Senador.json',"r") as file:
         Senadores = json.load(file)
 
@@ -70,19 +73,13 @@ with open('JSON/Viagens.json',"r") as file:
                         except:
                             continue
             else:
-                with open('SQL/Passagem.sql','w',encoding='utf-8') as f:
-                    insert = "INSERT INTO Senador values ({0},'{1}','{2}','{3}','{4}','{5}','{6}');\n".format(senador["codSenador"],senador["nome"], senador["uf"],senador["sexo"],senador["email"],senador["foto"],senador["site"])
-                    f.write(insert)
+                try:
+                    with open('SQL/Passagem.sql','a',encoding='utf-8') as f:
+                        insert = "INSERT INTO Passagem values ({0},'{1}','{2}','{3}','{4}',{5},{6},{7},{8},'{9}','{10}','{11}','{12}','{13}');\n".format(senDict[findSenador(senDict,compraAerea["passageiro"])],compraAerea["motivo"],compraAerea["resumoDoMotivo"],compraAerea["dataIda"],compraAerea["dataVolta"],stringToFloat(compraAerea["tarifa"]),stringToFloat(compraAerea["valorReembolso"]),stringToFloat(compraAerea["taxasExtras"]),stringToFloat(compraAerea["taxaEmbarque"]),compraAerea["trechos"],compraAerea["voucher"],compraAerea["ciaAerea"],compraAerea["classe"])
+                        f.write(insert)
+                except:
+                    continue
 
 
-with open('JSON/Senador.json',"r") as file:
-        #create = "CREATE TABLE Senador (codSenador INT, nome VARCHAR(70), uf CHAR(2), sexo VARCHAR(20), email VARCHAR(50),  foto VARCHAR(100), site VARCHAR(100)" \
-        #"PRIMARY KEY(codSenador));"
-        data = json.load(file)
-
-        with open('SQL/Senador.sql','w',encoding='utf-8') as f:
-            for senador in data:
-                insert = "INSERT INTO Senador values ({0},'{1}','{2}','{3}','{4}','{5}','{6}');\n".format(senador["codSenador"],senador["nome"], senador["uf"],senador["sexo"],senador["email"],senador["foto"],senador["site"])
-                f.write(insert)
 
 
