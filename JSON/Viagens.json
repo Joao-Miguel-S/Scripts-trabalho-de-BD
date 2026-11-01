@@ -1,5 +1,40 @@
 [
-
+    {
+        "motivo": "",
+        "resumoDoMotivo": "",
+        "passageiro": "",
+        "statusPassageiro": "",
+        "dataIda": "",
+        "dataVolta": "",
+        "tarifa": "",
+        "valorReembolso": "",
+        "taxasExtras:": "",
+        "trechos": [
+            ""
+        ],
+        "ciaAerea": "",
+        "voucher": "",
+        "taxaEmbarque": "",
+        "classe": ""
+    },
+    {
+        "motivo": "",
+        "resumoDoMotivo": "",
+        "passageiro": "",
+        "statusPassageiro": "",
+        "dataIda": "",
+        "dataVolta": "",
+        "tarifa": "",
+        "valorReembolso": "",
+        "taxasExtras:": "",
+        "trechos": [
+            ""
+        ],
+        "ciaAerea": "",
+        "voucher": "",
+        "taxaEmbarque": "",
+        "classe": ""
+    },
     {
         "motivo": "Motivo",
         "resumoDoMotivo": "Resumo do Motivo",
@@ -10,7 +45,9 @@
         "tarifa": "Tarifa",
         "valorReembolso": "Valor do Reembolso",
         "taxasExtras:": "GRU/Diferença Tarifária",
-        "trechos": "Trechos",
+        "trechos": [
+            "Trechos"
+        ],
         "ciaAerea": "CIA Aérea/ Seguradora",
         "voucher": "Bilhete/Voucher",
         "taxaEmbarque": "Tx.de Embarque",
@@ -26,7 +63,15 @@
         "tarifa": "22.556,68",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "AJU/GRU/LIS/ZRH/LIS/GRU/AJU",
+        "trechos": [
+            "AJU",
+            "GRU",
+            "LIS",
+            "ZRH",
+            "LIS",
+            "GRU",
+            "AJU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "EPPEZG",
         "taxaEmbarque": "727,75",
@@ -56,7 +101,13 @@
         "tarifa": "28.379,35",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/JFK/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "JFK",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "UHHIIH",
         "taxaEmbarque": "570,62",
@@ -86,7 +137,16 @@
         "tarifa": "34.735,64",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "FLN/GRU/ATL/BWI/DCA/ATL/LIM/BSB",
+        "trechos": [
+            "FLN",
+            "GRU",
+            "ATL",
+            "BWI",
+            "DCA",
+            "ATL",
+            "LIM",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "QAPRBK",
         "taxaEmbarque": "589,5",
@@ -116,7 +176,10 @@
         "tarifa": "3.822,00",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/EZE",
+        "trechos": [
+            "BSB",
+            "EZE"
+        ],
         "ciaAerea": "GOL",
         "voucher": "SNRHCK",
         "taxaEmbarque": "54,77",
@@ -132,7 +195,11 @@
         "tarifa": "1.647,11",
         "valorReembolso": "2.236,75",
         "taxasExtras:": "",
-        "trechos": "AEP/GRU/CGR",
+        "trechos": [
+            "AEP",
+            "GRU",
+            "CGR"
+        ],
         "ciaAerea": "GOL",
         "voucher": "SPSYHH",
         "taxaEmbarque": "589,8",
@@ -148,7 +215,11 @@
         "tarifa": "2.749,58",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "AEP/GRU/CGR",
+        "trechos": [
+            "AEP",
+            "GRU",
+            "CGR"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "IBPIID",
         "taxaEmbarque": "661,54",
@@ -178,7 +249,12 @@
         "tarifa": "18.916,65",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "VIX/GRU/LIS/BCN",
+        "trechos": [
+            "VIX",
+            "GRU",
+            "LIS",
+            "BCN"
+        ],
         "ciaAerea": "TAP",
         "voucher": "4ZAUPP",
         "taxaEmbarque": "768,2",
@@ -194,7 +270,12 @@
         "tarifa": "9.132,07",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BCN/FCO/GRU/VIX",
+        "trechos": [
+            "BCN",
+            "FCO",
+            "GRU",
+            "VIX"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "WDCLQW",
         "taxaEmbarque": "254,87",
@@ -224,7 +305,14 @@
         "tarifa": "27.272,03",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "NAT/LIS/BCN/CMN/LIS/BSB",
+        "trechos": [
+            "NAT",
+            "LIS",
+            "BCN",
+            "CMN",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP",
         "voucher": "48QR6P",
         "taxaEmbarque": "1.708,37",
@@ -240,7 +328,11 @@
         "tarifa": "-",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "RAK/LIS/BSB",
+        "trechos": [
+            "RAK",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP",
         "voucher": "48QR6P",
         "taxaEmbarque": "-",
@@ -256,7 +348,11 @@
         "tarifa": "1.909,83",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BCN/MAD/CMN",
+        "trechos": [
+            "BCN",
+            "MAD",
+            "CMN"
+        ],
         "ciaAerea": "IBERIA",
         "voucher": "48TTXP",
         "taxaEmbarque": "210,3",
@@ -300,7 +396,10 @@
         "tarifa": "1.326,86",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU",
+        "trechos": [
+            "BSB",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "IHZJFM",
         "taxaEmbarque": "30,95",
@@ -316,7 +415,10 @@
         "tarifa": "1.038,77",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/PMW",
+        "trechos": [
+            "GRU",
+            "PMW"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "YEAXNM",
         "taxaEmbarque": "31,44",
@@ -332,7 +434,13 @@
         "tarifa": "29.907,39",
         "valorReembolso": "27.637,42",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS/BCN/LIS/BSB",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "BCN",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP",
         "voucher": "28G7AE",
         "taxaEmbarque": "1.510,46",
@@ -348,7 +456,13 @@
         "tarifa": "33.976,03",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/ZRH/BCN/ZRH/GRU",
+        "trechos": [
+            "GRU",
+            "ZRH",
+            "BCN",
+            "ZRH",
+            "GRU"
+        ],
         "ciaAerea": "SWISS",
         "voucher": "24OKB2",
         "taxaEmbarque": "724,23",
@@ -392,7 +506,11 @@
         "tarifa": "4.500,47",
         "valorReembolso": "4.389,54",
         "taxasExtras:": "",
-        "trechos": "REC/GRU/MVD",
+        "trechos": [
+            "REC",
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "GOL",
         "voucher": "QBSCOY",
         "taxaEmbarque": "114,54",
@@ -408,7 +526,11 @@
         "tarifa": "1.253,95",
         "valorReembolso": "1.764,12",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU/BSB",
+        "trechos": [
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "YHSHYV",
         "taxaEmbarque": "510,3",
@@ -438,7 +560,13 @@
         "tarifa": "4.772,47",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MVD/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "CYEWOH",
         "taxaEmbarque": "501,71",
@@ -468,7 +596,13 @@
         "tarifa": "27.218,98",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/LIB/BCN/LIS/BSB",
+        "trechos": [
+            "BSB",
+            "LIB",
+            "BCN",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP",
         "voucher": "4EPCCQ",
         "taxaEmbarque": "1.409,99",
@@ -498,7 +632,11 @@
         "tarifa": "15.671,01",
         "valorReembolso": "16.398,74",
         "taxasExtras:": "",
-        "trechos": "GRU/MEX/GRU",
+        "trechos": [
+            "GRU",
+            "MEX",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "NMPSPH",
         "taxaEmbarque": "729,3",
@@ -514,7 +652,11 @@
         "tarifa": "15.274,98",
         "valorReembolso": "15.288,82",
         "taxasExtras:": "",
-        "trechos": "GRU/MEX/GRU",
+        "trechos": [
+            "GRU",
+            "MEX",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "LIEZMA",
         "taxaEmbarque": "-",
@@ -530,7 +672,10 @@
         "tarifa": "1.498,55",
         "valorReembolso": "1.529,35",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU",
+        "trechos": [
+            "BSB",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "QYGVRJ / DQRLDN",
         "taxaEmbarque": "30,95",
@@ -546,7 +691,10 @@
         "tarifa": "46,35",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU",
+        "trechos": [
+            "BSB",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "DQRLDN",
         "taxaEmbarque": "-",
@@ -562,7 +710,10 @@
         "tarifa": "1.498,55",
         "valorReembolso": "1.529,84",
         "taxasExtras:": "",
-        "trechos": "GRU/BSB",
+        "trechos": [
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "HUFZLG",
         "taxaEmbarque": "31,44",
@@ -592,7 +743,13 @@
         "tarifa": "8.872,15",
         "valorReembolso": "",
         "taxasExtras:": "1.100,90",
-        "trechos": "BSB/LIS/BCN/LIS/BSB",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "BCN",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP",
         "voucher": "3UMJZ5",
         "taxaEmbarque": "817,32",
@@ -622,7 +779,11 @@
         "tarifa": "1.461,25",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GIG/MVD",
+        "trechos": [
+            "BSB",
+            "GIG",
+            "MVD"
+        ],
         "ciaAerea": "GOL",
         "voucher": "ITLTWG",
         "taxaEmbarque": "87,8",
@@ -638,7 +799,11 @@
         "tarifa": "2.766,56",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU/BSB",
+        "trechos": [
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "ICFURO",
         "taxaEmbarque": "627,11",
@@ -668,7 +833,13 @@
         "tarifa": "6.841,03",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MEX/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MEX",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "QFKSMO",
         "taxaEmbarque": "800,58",
@@ -684,7 +855,13 @@
         "tarifa": "29.596,43",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MEX/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MEX",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "GYXZCF",
         "taxaEmbarque": "-",
@@ -714,7 +891,15 @@
         "tarifa": "10.323,82",
         "valorReembolso": "10.934,61",
         "taxasExtras:": "",
-        "trechos": "CGR/GRU/MIA/JFK/LIM/BSB/CGR",
+        "trechos": [
+            "CGR",
+            "GRU",
+            "MIA",
+            "JFK",
+            "LIM",
+            "BSB",
+            "CGR"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "EAKBJP",
         "taxaEmbarque": "611,82",
@@ -800,7 +985,15 @@
         "tarifa": "39.479,29",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "FLN/GRU/ATL/SFO/JFK/GRU/BSB",
+        "trechos": [
+            "FLN",
+            "GRU",
+            "ATL",
+            "SFO",
+            "JFK",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "UZOQHU",
         "taxaEmbarque": "616,67",
@@ -830,7 +1023,13 @@
         "tarifa": "8.390,90",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GIG/GRU/LIS/GRU/GIG",
+        "trechos": [
+            "GIG",
+            "GRU",
+            "LIS",
+            "GRU",
+            "GIG"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "DZPRRU",
         "taxaEmbarque": "361,37",
@@ -860,7 +1059,11 @@
         "tarifa": "66.971,97",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/JFK/GRU",
+        "trechos": [
+            "GRU",
+            "JFK",
+            "GRU"
+        ],
         "ciaAerea": "AMERICAN AIRLINES",
         "voucher": "36IXTB",
         "taxaEmbarque": "478,11",
@@ -890,7 +1093,15 @@
         "tarifa": "33.591,87",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/ATL/SFO/JFK/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "ATL",
+            "SFO",
+            "JFK",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "JLIRNZ",
         "taxaEmbarque": "625,64",
@@ -934,7 +1145,13 @@
         "tarifa": "42.362,09",
         "valorReembolso": "28.375,99",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/DXB/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "DXB",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "GOL/EMIRATES",
         "voucher": "26KDVK",
         "taxaEmbarque": "9.626,19",
@@ -950,7 +1167,10 @@
         "tarifa": "27.138,55",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "DXB/GRU",
+        "trechos": [
+            "DXB",
+            "GRU"
+        ],
         "ciaAerea": "EMIRATES",
         "voucher": "3UNSQ8",
         "taxaEmbarque": "4.911,09",
@@ -966,7 +1186,10 @@
         "tarifa": "1.744,57",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/BSB",
+        "trechos": [
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "MSMMCG",
         "taxaEmbarque": "31,44",
@@ -1010,7 +1233,11 @@
         "tarifa": "5.656,44",
         "valorReembolso": "425,28",
         "taxasExtras:": "",
-        "trechos": "BSB/MIA/BSB",
+        "trechos": [
+            "BSB",
+            "MIA",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "GJNUCD",
         "taxaEmbarque": "480,33",
@@ -1026,7 +1253,10 @@
         "tarifa": "21.866,13",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MIA/GRU",
+        "trechos": [
+            "MIA",
+            "GRU"
+        ],
         "ciaAerea": "AMERICAN AIRLINES",
         "voucher": "22EG4Z",
         "taxaEmbarque": "185,01",
@@ -1056,7 +1286,10 @@
         "tarifa": "581,27",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "REC/GIG",
+        "trechos": [
+            "REC",
+            "GIG"
+        ],
         "ciaAerea": "GOL",
         "voucher": "ILHNYT",
         "taxaEmbarque": "58,89",
@@ -1072,7 +1305,13 @@
         "tarifa": "33.539,79",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GIG/IAH/SFO/IAH/GIG",
+        "trechos": [
+            "GIG",
+            "IAH",
+            "SFO",
+            "IAH",
+            "GIG"
+        ],
         "ciaAerea": "UNITED",
         "voucher": "34ZPMX",
         "taxaEmbarque": "509,39",
@@ -1102,7 +1341,15 @@
         "tarifa": "16.571,26",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "CWB/GRU/ATL/SFO/LAX/GRU/CWB",
+        "trechos": [
+            "CWB",
+            "GRU",
+            "ATL",
+            "SFO",
+            "LAX",
+            "GRU",
+            "CWB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "DPSRNF",
         "taxaEmbarque": "639,82",
@@ -1132,7 +1379,15 @@
         "tarifa": "47.922,84",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/ATL/SFO/JFK/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "ATL",
+            "SFO",
+            "JFK",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "SYKYKB",
         "taxaEmbarque": "622,37",
@@ -1190,7 +1445,11 @@
         "tarifa": "11.220,55",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS/MXP",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "MXP"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "2PLCBR",
         "taxaEmbarque": "511,84",
@@ -1206,7 +1465,11 @@
         "tarifa": "17.798,83",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "LIS/GRU/PMW",
+        "trechos": [
+            "LIS",
+            "GRU",
+            "PMW"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "2TIOEN",
         "taxaEmbarque": "2.574,46",
@@ -1222,7 +1485,10 @@
         "tarifa": "1.896,47",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "OPO/LIS",
+        "trechos": [
+            "OPO",
+            "LIS"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "32VKN6",
         "taxaEmbarque": "514,38",
@@ -1266,7 +1532,11 @@
         "tarifa": "2.715,22",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/AEP/BSB",
+        "trechos": [
+            "BSB",
+            "AEP",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "GRBMPV",
         "taxaEmbarque": "489,64",
@@ -1310,7 +1580,13 @@
         "tarifa": "21.274,31",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS/MXP/LIS/BSB",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "MXP",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP",
         "voucher": "4OR5UI",
         "taxaEmbarque": "1.312,87",
@@ -1326,7 +1602,11 @@
         "tarifa": "2.767,21",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/AEP/BSB",
+        "trechos": [
+            "BSB",
+            "AEP",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "LJMWTU",
         "taxaEmbarque": "504,57",
@@ -1356,7 +1636,10 @@
         "tarifa": "1.914,00",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU",
+        "trechos": [
+            "BSB",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "ADDOWE",
         "taxaEmbarque": "30,95",
@@ -1372,7 +1655,14 @@
         "tarifa": "60.472,56",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/MAS/PEK/PVG/CDG/GRU",
+        "trechos": [
+            "GRU",
+            "MAS",
+            "PEK",
+            "PVG",
+            "CDG",
+            "GRU"
+        ],
         "ciaAerea": "KLM/AIR FRANCE",
         "voucher": "2IKNFM",
         "taxaEmbarque": "1.126,01",
@@ -1388,7 +1678,10 @@
         "tarifa": "8.640,66",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "PEK/XMN",
+        "trechos": [
+            "PEK",
+            "XMN"
+        ],
         "ciaAerea": "AIR CHINA",
         "voucher": "2YV8ZC",
         "taxaEmbarque": "480,97",
@@ -1404,7 +1697,10 @@
         "tarifa": "16.049,26",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "XMN/SHA",
+        "trechos": [
+            "XMN",
+            "SHA"
+        ],
         "ciaAerea": "CHINA EASTERN",
         "voucher": "32BXQO",
         "taxaEmbarque": "480,97",
@@ -1420,7 +1716,10 @@
         "tarifa": "2.386,67",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/BSB",
+        "trechos": [
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "FDRRXO",
         "taxaEmbarque": "31,44",
@@ -1464,7 +1763,10 @@
         "tarifa": "1.216,28",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/BVB",
+        "trechos": [
+            "BSB",
+            "BVB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "SKHQMD",
         "taxaEmbarque": "30,95",
@@ -1480,7 +1782,10 @@
         "tarifa": "1.216,28",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BVB/BSB",
+        "trechos": [
+            "BVB",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "HPJBCP",
         "taxaEmbarque": "52,56",
@@ -1496,7 +1801,11 @@
         "tarifa": "2.042,25",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "FLN/AEP/FLN",
+        "trechos": [
+            "FLN",
+            "AEP",
+            "FLN"
+        ],
         "ciaAerea": "GOL",
         "voucher": "LQAROL",
         "taxaEmbarque": "543,73",
@@ -1540,7 +1849,13 @@
         "tarifa": "3.233,59",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "PVH/BSB/AEP/BSB/PVH",
+        "trechos": [
+            "PVH",
+            "BSB",
+            "AEP",
+            "BSB",
+            "PVH"
+        ],
         "ciaAerea": "GOL",
         "voucher": "MEESZZ",
         "taxaEmbarque": "589,9",
@@ -1556,7 +1871,11 @@
         "tarifa": "2.441,86",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/PVH",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "PVH"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "WYCMLA",
         "taxaEmbarque": "30,95",
@@ -1586,7 +1905,10 @@
         "tarifa": "2.846,07",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/SDU",
+        "trechos": [
+            "BSB",
+            "SDU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "QFEYSD",
         "taxaEmbarque": "30,95",
@@ -1616,7 +1938,11 @@
         "tarifa": "2.084,81",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "FLN/AEP/FLN",
+        "trechos": [
+            "FLN",
+            "AEP",
+            "FLN"
+        ],
         "ciaAerea": "GOL",
         "voucher": "WIONPW",
         "taxaEmbarque": "553,18",
@@ -1646,7 +1972,13 @@
         "tarifa": "8.655,85",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/IAH/SFO/IAD/GRU",
+        "trechos": [
+            "GRU",
+            "IAH",
+            "SFO",
+            "IAD",
+            "GRU"
+        ],
         "ciaAerea": "UNITED",
         "voucher": "2PERHF",
         "taxaEmbarque": "527,05",
@@ -1746,7 +2078,13 @@
         "tarifa": "6.537,42",
         "valorReembolso": "7.049,57",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MVD/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "CWKFXR",
         "taxaEmbarque": "512,8",
@@ -1762,7 +2100,11 @@
         "tarifa": "1.586,94",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GIG/MVD",
+        "trechos": [
+            "BSB",
+            "GIG",
+            "MVD"
+        ],
         "ciaAerea": "GOL",
         "voucher": "NRSRIN",
         "taxaEmbarque": "87,8",
@@ -1778,7 +2120,11 @@
         "tarifa": "3.782,91",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU/BSB",
+        "trechos": [
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "SZTLDN",
         "taxaEmbarque": "708,72",
@@ -1808,7 +2154,13 @@
         "tarifa": "3.033,99",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/AEP/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "AEP",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "NSZYCA",
         "taxaEmbarque": "548,87",
@@ -1838,7 +2190,13 @@
         "tarifa": "3.073,47",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "VIX/GRU/AEP/GRU/BSB",
+        "trechos": [
+            "VIX",
+            "GRU",
+            "AEP",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "LBIXPA",
         "taxaEmbarque": "569,58",
@@ -1868,7 +2226,10 @@
         "tarifa": "1.893,14",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/MVD",
+        "trechos": [
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "GOL",
         "voucher": "MPFAUH",
         "taxaEmbarque": "55,65",
@@ -1884,7 +2245,11 @@
         "tarifa": "2.238,89",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU/BSB",
+        "trechos": [
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "JGWNEW",
         "taxaEmbarque": "580,29",
@@ -1928,7 +2293,13 @@
         "tarifa": "45.902,16",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/JFK/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "JFK",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "KKBFCR",
         "taxaEmbarque": "537,84",
@@ -1958,7 +2329,11 @@
         "tarifa": "12.841,29",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/PTY/JFK",
+        "trechos": [
+            "BSB",
+            "PTY",
+            "JFK"
+        ],
         "ciaAerea": "COPA AIRLINES",
         "voucher": "2SQWCA",
         "taxaEmbarque": "446,93",
@@ -1974,7 +2349,11 @@
         "tarifa": "36.630,05",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "JFK/GRU/BSB",
+        "trechos": [
+            "JFK",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "FMBQRJ",
         "taxaEmbarque": "227,34",
@@ -2004,7 +2383,12 @@
         "tarifa": "19.163,25",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/GIG/MIA/JFK",
+        "trechos": [
+            "GRU",
+            "GIG",
+            "MIA",
+            "JFK"
+        ],
         "ciaAerea": "GOL",
         "voucher": "IZHLVX",
         "taxaEmbarque": "380,36",
@@ -2020,7 +2404,12 @@
         "tarifa": "15.898,61",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "JFK/MCO/VCP/REC",
+        "trechos": [
+            "JFK",
+            "MCO",
+            "VCP",
+            "REC"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "MQU34R",
         "taxaEmbarque": "251,79",
@@ -2092,7 +2481,10 @@
         "tarifa": "713,71",
         "valorReembolso": "744,59",
         "taxasExtras:": "",
-        "trechos": "BSB/BEL",
+        "trechos": [
+            "BSB",
+            "BEL"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "OOEJRZ",
         "taxaEmbarque": "30,95",
@@ -2108,7 +2500,10 @@
         "tarifa": "713,71",
         "valorReembolso": "768,09",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB",
+        "trechos": [
+            "BEL",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "DAUTDT",
         "taxaEmbarque": "54,45",
@@ -2124,7 +2519,10 @@
         "tarifa": "713,71",
         "valorReembolso": "744,59",
         "taxasExtras:": "",
-        "trechos": "BSB/BEL",
+        "trechos": [
+            "BSB",
+            "BEL"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "DDMUMS",
         "taxaEmbarque": "30,95",
@@ -2140,7 +2538,12 @@
         "tarifa": "27.174,75",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MIA/DCA",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MIA",
+            "DCA"
+        ],
         "ciaAerea": "AMERICAN AIRLINES",
         "voucher": "CDQF7A",
         "taxaEmbarque": "352,09",
@@ -2156,7 +2559,12 @@
         "tarifa": "35.927,88",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BWI/ATL/GRU/FLN",
+        "trechos": [
+            "BWI",
+            "ATL",
+            "GRU",
+            "FLN"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "DGYFVS",
         "taxaEmbarque": "245,96",
@@ -2186,7 +2594,11 @@
         "tarifa": "1.391,94",
         "valorReembolso": "1.480,34",
         "taxasExtras:": "",
-        "trechos": "CNF/GIG/MVD",
+        "trechos": [
+            "CNF",
+            "GIG",
+            "MVD"
+        ],
         "ciaAerea": "GOL",
         "voucher": "KEKSRB",
         "taxaEmbarque": "88,54",
@@ -2202,7 +2614,11 @@
         "tarifa": "2.766,56",
         "valorReembolso": "3.393,39",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU/BSB",
+        "trechos": [
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "KNACQH",
         "taxaEmbarque": "627,11",
@@ -2246,7 +2662,10 @@
         "tarifa": "784,26",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU",
+        "trechos": [
+            "BSB",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "CGXTVE",
         "taxaEmbarque": "30,95",
@@ -2290,7 +2709,10 @@
         "tarifa": "2.220,99",
         "valorReembolso": "2.251,72",
         "taxasExtras:": "",
-        "trechos": "BSB/BVB",
+        "trechos": [
+            "BSB",
+            "BVB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "QBWKHM",
         "taxaEmbarque": "30,95",
@@ -2306,7 +2728,10 @@
         "tarifa": "2.737,25",
         "valorReembolso": "2.789,54",
         "taxasExtras:": "",
-        "trechos": "BVB/BSB",
+        "trechos": [
+            "BVB",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "WHFMVV",
         "taxaEmbarque": "52,56",
@@ -2322,7 +2747,11 @@
         "tarifa": "8.836,04",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/VCP/ORY",
+        "trechos": [
+            "BSB",
+            "VCP",
+            "ORY"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "BNMTWN",
         "taxaEmbarque": "84,59",
@@ -2338,7 +2767,11 @@
         "tarifa": "34.141,25",
         "valorReembolso": "35.194,24",
         "taxasExtras:": "",
-        "trechos": "SXB/MAD/GRU",
+        "trechos": [
+            "SXB",
+            "MAD",
+            "GRU"
+        ],
         "ciaAerea": "IBÉRIA/LATAM",
         "voucher": "EJWEHP",
         "taxaEmbarque": "1.056,40",
@@ -2354,7 +2787,11 @@
         "tarifa": "5.149,69",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "ORY/LIS/BSB",
+        "trechos": [
+            "ORY",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "BO5S9M",
         "taxaEmbarque": "1.792,45",
@@ -2384,7 +2821,12 @@
         "tarifa": "6.590,56",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/MCO/MIA/BSB",
+        "trechos": [
+            "BSB",
+            "MCO",
+            "MIA",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "SJYKTB",
         "taxaEmbarque": "498,1",
@@ -2400,7 +2842,11 @@
         "tarifa": "-",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/MCO/BSB",
+        "trechos": [
+            "BSB",
+            "MCO",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "OTZXPC",
         "taxaEmbarque": "-",
@@ -2444,7 +2890,10 @@
         "tarifa": "872,87",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "VIX/GRU",
+        "trechos": [
+            "VIX",
+            "GRU"
+        ],
         "ciaAerea": "GOL",
         "voucher": "QUFOXS",
         "taxaEmbarque": "51,66",
@@ -2460,7 +2909,13 @@
         "tarifa": "37.421,71",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/DXB/KIS/DXB/GRU",
+        "trechos": [
+            "GRU",
+            "DXB",
+            "KIS",
+            "DXB",
+            "GRU"
+        ],
         "ciaAerea": "EMIRATES",
         "voucher": "ABUU4Z",
         "taxaEmbarque": "14.081,19",
@@ -2476,7 +2931,10 @@
         "tarifa": "478,82",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/VIX",
+        "trechos": [
+            "GRU",
+            "VIX"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "AXOFNQ",
         "taxaEmbarque": "31,44",
@@ -2506,7 +2964,10 @@
         "tarifa": "1.080,14",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "LHR/CDG",
+        "trechos": [
+            "LHR",
+            "CDG"
+        ],
         "ciaAerea": "AIR FRANCE",
         "voucher": "A54A9V",
         "taxaEmbarque": "551,9",
@@ -2522,7 +2983,11 @@
         "tarifa": "10.004,04",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "ORY/VCP/FLN",
+        "trechos": [
+            "ORY",
+            "VCP",
+            "FLN"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "UKIKVM",
         "taxaEmbarque": "1.120,95",
@@ -2552,7 +3017,11 @@
         "tarifa": "52.181,09",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/JFK/GRU",
+        "trechos": [
+            "GRU",
+            "JFK",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "CBFMQN",
         "taxaEmbarque": "473,15",
@@ -2582,7 +3051,11 @@
         "tarifa": "6.372,07",
         "valorReembolso": "632,73",
         "taxasExtras:": "",
-        "trechos": "BSB/PTY/BSB",
+        "trechos": [
+            "BSB",
+            "PTY",
+            "BSB"
+        ],
         "ciaAerea": "AM3M7Q",
         "voucher": "AM3M7Q",
         "taxaEmbarque": "632,73",
@@ -2598,7 +3071,13 @@
         "tarifa": "2.289,43",
         "valorReembolso": "2.786,23",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MVD/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "OPBRKR",
         "taxaEmbarque": "497,03",
@@ -2628,7 +3107,11 @@
         "tarifa": "1.668,10",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MVD",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "GOL",
         "voucher": "JFBLSH",
         "taxaEmbarque": "86,6",
@@ -2644,7 +3127,11 @@
         "tarifa": "-",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MVD",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "GOL",
         "voucher": "SAXALR",
         "taxaEmbarque": "-",
@@ -2660,7 +3147,10 @@
         "tarifa": "1.506,06",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU",
+        "trechos": [
+            "MVD",
+            "GRU"
+        ],
         "ciaAerea": "GOL",
         "voucher": "IYGRBY",
         "taxaEmbarque": "493,48",
@@ -2676,7 +3166,10 @@
         "tarifa": "565,97",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/BSB",
+        "trechos": [
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "NMFKCG",
         "taxaEmbarque": "31,44",
@@ -2734,7 +3227,11 @@
         "tarifa": "1.812,72",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "FLN/GRU/IGU",
+        "trechos": [
+            "FLN",
+            "GRU",
+            "IGU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "QKIPIB",
         "taxaEmbarque": "50,92",
@@ -2750,7 +3247,11 @@
         "tarifa": "1.714,83",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "IGU/GRU/FLN",
+        "trechos": [
+            "IGU",
+            "GRU",
+            "FLN"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "YRXERQ",
         "taxaEmbarque": "47,02",
@@ -2766,7 +3267,13 @@
         "tarifa": "23.913,12",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS/GVA/LIS/BSB",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "GVA",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "BY8F4R",
         "taxaEmbarque": "1.466,94",
@@ -2796,7 +3303,13 @@
         "tarifa": "23.776,47",
         "valorReembolso": "26.006,91",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS/ORY/LIS/BSB",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "ORY",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "BW6S58",
         "taxaEmbarque": "2.232,82",
@@ -2812,7 +3325,11 @@
         "tarifa": "9.597,17",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "ORY/LIS/BSB",
+        "trechos": [
+            "ORY",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "A6BC8U",
         "taxaEmbarque": "3.758,84",
@@ -2842,7 +3359,10 @@
         "tarifa": "34.485,63",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "CDG/GRU",
+        "trechos": [
+            "CDG",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "IVPRAL",
         "taxaEmbarque": "1.133,38",
@@ -2886,7 +3406,13 @@
         "tarifa": "31.995,42",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/FCO/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "FCO",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "GRJBNB",
         "taxaEmbarque": "372,59",
@@ -2916,7 +3442,11 @@
         "tarifa": "36.791,62",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/DOH/PVG",
+        "trechos": [
+            "GRU",
+            "DOH",
+            "PVG"
+        ],
         "ciaAerea": "QATAR",
         "voucher": "CEXJVK",
         "taxaEmbarque": "3.717,47",
@@ -2932,7 +3462,10 @@
         "tarifa": "1.700,55",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "SHA/PEK",
+        "trechos": [
+            "SHA",
+            "PEK"
+        ],
         "ciaAerea": "AIR CHINA",
         "voucher": "CFTCS4",
         "taxaEmbarque": "281,59",
@@ -2948,7 +3481,11 @@
         "tarifa": "21.450,73",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "PEK/DXB/GRU",
+        "trechos": [
+            "PEK",
+            "DXB",
+            "GRU"
+        ],
         "ciaAerea": "EMIRATES",
         "voucher": "CEWO3H",
         "taxaEmbarque": "7.047,67",
@@ -2964,7 +3501,10 @@
         "tarifa": "346,19",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/BSB",
+        "trechos": [
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "MQYLDN",
         "taxaEmbarque": "31,44",
@@ -3008,7 +3548,10 @@
         "tarifa": "2.005,07",
         "valorReembolso": "644,78",
         "taxasExtras:": "",
-        "trechos": "BSB/BEL",
+        "trechos": [
+            "BSB",
+            "BEL"
+        ],
         "ciaAerea": "GOL",
         "voucher": "JVBGRY",
         "taxaEmbarque": "30,95",
@@ -3024,7 +3567,10 @@
         "tarifa": "4.104,90",
         "valorReembolso": "3.953,70",
         "taxasExtras:": "",
-        "trechos": "BEL/GRU",
+        "trechos": [
+            "BEL",
+            "GRU"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "BIU5NM",
         "taxaEmbarque": "54,45",
@@ -3040,7 +3586,10 @@
         "tarifa": "2.005,07",
         "valorReembolso": "684,78",
         "taxasExtras:": "",
-        "trechos": "BSB/BEL",
+        "trechos": [
+            "BSB",
+            "BEL"
+        ],
         "ciaAerea": "GOL",
         "voucher": "HOMLXK",
         "taxaEmbarque": "30,95",
@@ -3056,7 +3605,10 @@
         "tarifa": "1.172,70",
         "valorReembolso": "1.227,03",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB",
+        "trechos": [
+            "BEL",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "NHNZLE",
         "taxaEmbarque": "54,45",
@@ -3072,7 +3624,11 @@
         "tarifa": "1.544,63",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "VIX/GRU/BEL",
+        "trechos": [
+            "VIX",
+            "GRU",
+            "BEL"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "DRVUGN",
         "taxaEmbarque": "51,66",
@@ -3088,7 +3644,11 @@
         "tarifa": "1.402,52",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BEL/GRU/VIX",
+        "trechos": [
+            "BEL",
+            "GRU",
+            "VIX"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "JJTJBO",
         "taxaEmbarque": "54,45",
@@ -3104,7 +3664,11 @@
         "tarifa": "5.921,52",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "CWB/GRU/CDG",
+        "trechos": [
+            "CWB",
+            "GRU",
+            "CDG"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "CNOCSZ",
         "taxaEmbarque": "102,37",
@@ -3120,7 +3684,12 @@
         "tarifa": "8.509,11",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "LYS/CDG/GRU/CWB",
+        "trechos": [
+            "LYS",
+            "CDG",
+            "GRU",
+            "CWB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "LIEMQF",
         "taxaEmbarque": "953,97",
@@ -3150,7 +3719,12 @@
         "tarifa": "35.342,56",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "FLN/GRU/DXB/NRT",
+        "trechos": [
+            "FLN",
+            "GRU",
+            "DXB",
+            "NRT"
+        ],
         "ciaAerea": "GOL/EMIRATES",
         "voucher": "A5LDUC",
         "taxaEmbarque": "7.091,09",
@@ -3166,7 +3740,11 @@
         "tarifa": "1.527,37",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "HND/AOJ/HND",
+        "trechos": [
+            "HND",
+            "AOJ",
+            "HND"
+        ],
         "ciaAerea": "JAPAN AIRLINES",
         "voucher": "BVJ3WO",
         "taxaEmbarque": "411,65",
@@ -3182,7 +3760,10 @@
         "tarifa": "12.946,55",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "NRT/HRB",
+        "trechos": [
+            "NRT",
+            "HRB"
+        ],
         "ciaAerea": "CHINA SOUTHEEN",
         "voucher": "BVNX4Y",
         "taxaEmbarque": "714,79",
@@ -3198,7 +3779,10 @@
         "tarifa": "4.373,12",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "HRB/PEK",
+        "trechos": [
+            "HRB",
+            "PEK"
+        ],
         "ciaAerea": "AIRCHINA",
         "voucher": "BVJQIZ",
         "taxaEmbarque": "270,55",
@@ -3214,7 +3798,12 @@
         "tarifa": "17.662,05",
         "valorReembolso": "22.360,84",
         "taxasExtras:": "",
-        "trechos": "PEK/DXB/GRU/FLN",
+        "trechos": [
+            "PEK",
+            "DXB",
+            "GRU",
+            "FLN"
+        ],
         "ciaAerea": "QATAR/LATAM",
         "voucher": "A4R32U",
         "taxaEmbarque": "4.700,56",
@@ -3230,7 +3819,12 @@
         "tarifa": "50.526,04",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "PEK/HND/EWR/GRU",
+        "trechos": [
+            "PEK",
+            "HND",
+            "EWR",
+            "GRU"
+        ],
         "ciaAerea": "ANA/UNITED",
         "voucher": "CPDNXH",
         "taxaEmbarque": "1.457,68",
@@ -3246,7 +3840,10 @@
         "tarifa": "754,02",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/FLN",
+        "trechos": [
+            "GRU",
+            "FLN"
+        ],
         "ciaAerea": "GOL",
         "voucher": "IDXFPS",
         "taxaEmbarque": "31,44",
@@ -3276,7 +3873,10 @@
         "tarifa": "874,82",
         "valorReembolso": "905,68",
         "taxasExtras:": "",
-        "trechos": "BSB/BEL",
+        "trechos": [
+            "BSB",
+            "BEL"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "WOHOZH",
         "taxaEmbarque": "30,95",
@@ -3292,7 +3892,10 @@
         "tarifa": "1.311,40",
         "valorReembolso": "1.365,72",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB",
+        "trechos": [
+            "BEL",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "GEGFLT",
         "taxaEmbarque": "54,45",
@@ -3308,7 +3911,10 @@
         "tarifa": "2.555,90",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB",
+        "trechos": [
+            "BEL",
+            "BSB"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "ZJZ36P",
         "taxaEmbarque": "54,45",
@@ -3338,7 +3944,12 @@
         "tarifa": "29.543,95",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/LISFCO/LIS/BSB",
+        "trechos": [
+            "BSB",
+            "LISFCO",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "CVFCFB",
         "taxaEmbarque": "1.585,35",
@@ -3368,7 +3979,13 @@
         "tarifa": "24.937,64",
         "valorReembolso": "25.717,97",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS/FCO/LIS/BSB",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "FCO",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "AXABAD",
         "taxaEmbarque": "1.456,13",
@@ -3426,7 +4043,12 @@
         "tarifa": "19.148,64",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "PMW/GRU/CDG/ARN",
+        "trechos": [
+            "PMW",
+            "GRU",
+            "CDG",
+            "ARN"
+        ],
         "ciaAerea": "LATAM/AIRFRANCE",
         "voucher": "B97IC9",
         "taxaEmbarque": "347,89",
@@ -3442,7 +4064,12 @@
         "tarifa": "13.574,93",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "ARN/LHR/GRU/BSB",
+        "trechos": [
+            "ARN",
+            "LHR",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "NDINAVIAN AIRLINES/L",
         "voucher": "FYTWXM",
         "taxaEmbarque": "670,85",
@@ -3458,7 +4085,12 @@
         "tarifa": "-",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "ARN/LHR/GRU/BSB",
+        "trechos": [
+            "ARN",
+            "LHR",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "CANDINAVIAN AIRLINE",
         "voucher": "B6Y6A7",
         "taxaEmbarque": "-",
@@ -3488,7 +4120,14 @@
         "tarifa": "30.344,24",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "REC/LIS/CMN/RAK/LIS/REC",
+        "trechos": [
+            "REC",
+            "LIS",
+            "CMN",
+            "RAK",
+            "LIS",
+            "REC"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "B6TZLR",
         "taxaEmbarque": "1.877,95",
@@ -3518,7 +4157,13 @@
         "tarifa": "43.278,63",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "AJU/GRU/LHR/GRU/AJU",
+        "trechos": [
+            "AJU",
+            "GRU",
+            "LHR",
+            "GRU",
+            "AJU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "GWNKUF",
         "taxaEmbarque": "2.110,13",
@@ -3562,7 +4207,10 @@
         "tarifa": "6.493,67",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS",
+        "trechos": [
+            "BSB",
+            "LIS"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "CYVV8D",
         "taxaEmbarque": "230,09",
@@ -3578,7 +4226,10 @@
         "tarifa": "655,16",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "LIS/MAD",
+        "trechos": [
+            "LIS",
+            "MAD"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "CYWFYU",
         "taxaEmbarque": "347,28",
@@ -3594,7 +4245,11 @@
         "tarifa": "4.783,35",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MAD/GRU/BSB",
+        "trechos": [
+            "MAD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "AIREUROPA",
         "voucher": "CYZ4UD",
         "taxaEmbarque": "1.456,82",
@@ -3624,7 +4279,11 @@
         "tarifa": "3.679,22",
         "valorReembolso": "1.491,79",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "OPULCM",
         "taxaEmbarque": "62,39",
@@ -3640,7 +4299,11 @@
         "tarifa": "3.111,67",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GIG/GRU/PMW",
+        "trechos": [
+            "GIG",
+            "GRU",
+            "PMW"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "QZNVTV",
         "taxaEmbarque": "34,11",
@@ -3656,7 +4319,11 @@
         "tarifa": "37.044,46",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/LIS/GRU",
+        "trechos": [
+            "GRU",
+            "LIS",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "UXGNME",
         "taxaEmbarque": "309,53",
@@ -3672,7 +4339,11 @@
         "tarifa": "2.867,33",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "LIS/GRU/GIG",
+        "trechos": [
+            "LIS",
+            "GRU",
+            "GIG"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "AKRFOS",
         "taxaEmbarque": "31,44",
@@ -3702,7 +4373,13 @@
         "tarifa": "29.904,90",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS/RAK/LIS/GRU",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "RAK",
+            "LIS",
+            "GRU"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "BG4AWC",
         "taxaEmbarque": "1.782,78",
@@ -3718,7 +4395,10 @@
         "tarifa": "1.068,12",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/CGR",
+        "trechos": [
+            "GRU",
+            "CGR"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "MBQMSJ",
         "taxaEmbarque": "31,44",
@@ -3748,7 +4428,11 @@
         "tarifa": "11.188,61",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "REC/LIS/REC",
+        "trechos": [
+            "REC",
+            "LIS",
+            "REC"
+        ],
         "ciaAerea": "TAP PORTUGAL",
         "voucher": "A9VUW8",
         "taxaEmbarque": "792,58",
@@ -3778,7 +4462,10 @@
         "tarifa": "2.945,67",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "CGR/CGH",
+        "trechos": [
+            "CGR",
+            "CGH"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "YWMMJY",
         "taxaEmbarque": "36,67",
@@ -3794,7 +4481,10 @@
         "tarifa": "37.761,81",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "CGH/IAD",
+        "trechos": [
+            "CGH",
+            "IAD"
+        ],
         "ciaAerea": "UNTED",
         "voucher": "CKKLLC",
         "taxaEmbarque": "283,09",
@@ -3810,7 +4500,12 @@
         "tarifa": "10.980,18",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "IAD/ATL/GRU/CGR",
+        "trechos": [
+            "IAD",
+            "ATL",
+            "GRU",
+            "CGR"
+        ],
         "ciaAerea": "DELTA/LATAM",
         "voucher": "FXPXUI",
         "taxaEmbarque": "240,44",
@@ -3840,7 +4535,11 @@
         "tarifa": "6.744,17",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MCO/IAD/GRU",
+        "trechos": [
+            "MCO",
+            "IAD",
+            "GRU"
+        ],
         "ciaAerea": "UNITED",
         "voucher": "CSS5YZ",
         "taxaEmbarque": "215,13",
@@ -3870,7 +4569,11 @@
         "tarifa": "20.784,32",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "FLN/GRU/IAD",
+        "trechos": [
+            "FLN",
+            "GRU",
+            "IAD"
+        ],
         "ciaAerea": "GOL/UNITED",
         "voucher": "CQQKIE",
         "taxaEmbarque": "334,01",
@@ -3886,7 +4589,12 @@
         "tarifa": "10.673,63",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "DCA/ATL/GRU/FLN",
+        "trechos": [
+            "DCA",
+            "ATL",
+            "GRU",
+            "FLN"
+        ],
         "ciaAerea": "DELTA/LATAM",
         "voucher": "DUOZMC",
         "taxaEmbarque": "240,44",
@@ -3916,7 +4624,15 @@
         "tarifa": "40.212,85",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/ATL/IAD/ATL/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "ATL",
+            "IAD",
+            "ATL",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "DELTA/LATAM",
         "voucher": "AHFVUG",
         "taxaEmbarque": "558,45",
@@ -3946,7 +4662,13 @@
         "tarifa": "49.339,37",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/IAD/DCA/EWR/GRU",
+        "trechos": [
+            "GRU",
+            "IAD",
+            "DCA",
+            "EWR",
+            "GRU"
+        ],
         "ciaAerea": "UNITED",
         "voucher": "ALDXDU",
         "taxaEmbarque": "466,2",
@@ -3990,7 +4712,12 @@
         "tarifa": "49.413,88",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/IAD/EWR/GRU",
+        "trechos": [
+            "GRU",
+            "IAD",
+            "EWR",
+            "GRU"
+        ],
         "ciaAerea": "UNITED",
         "voucher": "AZBV34",
         "taxaEmbarque": "466,8",
@@ -4006,7 +4733,10 @@
         "tarifa": "1.635,01",
         "valorReembolso": "1.666,29",
         "taxasExtras:": "",
-        "trechos": "GRU/BSB",
+        "trechos": [
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "IYJQWU",
         "taxaEmbarque": "31,44",
@@ -4022,7 +4752,10 @@
         "tarifa": "512,02",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/BSB",
+        "trechos": [
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "FPIUSV",
         "taxaEmbarque": "31,44",
@@ -4052,7 +4785,11 @@
         "tarifa": "14.123,05",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MIA",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MIA"
+        ],
         "ciaAerea": "AMERICAN AIRLINES",
         "voucher": "BB6TMF",
         "taxaEmbarque": "313,22",
@@ -4068,7 +4805,11 @@
         "tarifa": "7.751,24",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MIA/DCA/MIA",
+        "trechos": [
+            "MIA",
+            "DCA",
+            "MIA"
+        ],
         "ciaAerea": "AMERICAN AIRLINES",
         "voucher": "BB9S7G",
         "taxaEmbarque": "751,26",
@@ -4084,7 +4825,10 @@
         "tarifa": "259,88",
         "valorReembolso": "",
         "taxasExtras:": "282,9",
-        "trechos": "DCA/MIA",
+        "trechos": [
+            "DCA",
+            "MIA"
+        ],
         "ciaAerea": "AMERICAN AIRLINES",
         "voucher": "CL624P",
         "taxaEmbarque": "23,05",
@@ -4100,7 +4844,11 @@
         "tarifa": "15.711,41",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MIA/PTY/CNF",
+        "trechos": [
+            "MIA",
+            "PTY",
+            "CNF"
+        ],
         "ciaAerea": "COPA AIRLINES",
         "voucher": "BB9TZH",
         "taxaEmbarque": "323,48",
@@ -4130,7 +4878,10 @@
         "tarifa": "2.273,28",
         "valorReembolso": "2.304,00",
         "taxasExtras:": "",
-        "trechos": "BSB/RBR",
+        "trechos": [
+            "BSB",
+            "RBR"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "KEDJPE",
         "taxaEmbarque": "30,95",
@@ -4146,7 +4897,11 @@
         "tarifa": "3.111,67",
         "valorReembolso": "3.163,92",
         "taxasExtras:": "",
-        "trechos": "RBR/BSB/FLN",
+        "trechos": [
+            "RBR",
+            "BSB",
+            "FLN"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "FFUOHI",
         "taxaEmbarque": "52,56",
@@ -4162,7 +4917,10 @@
         "tarifa": "2.003,53",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "AJU/GRU",
+        "trechos": [
+            "AJU",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "HDQMQN",
         "taxaEmbarque": "49,71",
@@ -4178,7 +4936,13 @@
         "tarifa": "34.350,16",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/DXB/SIN/DXB/GRU",
+        "trechos": [
+            "GRU",
+            "DXB",
+            "SIN",
+            "DXB",
+            "GRU"
+        ],
         "ciaAerea": "EMIRATES",
         "voucher": "BM8DY5",
         "taxaEmbarque": "13.827,42",
@@ -4194,7 +4958,10 @@
         "tarifa": "574,27",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/AJU",
+        "trechos": [
+            "GRU",
+            "AJU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "IIVEAM",
         "taxaEmbarque": "33,64",
@@ -4238,7 +5005,11 @@
         "tarifa": "2.881,62",
         "valorReembolso": "3.140,63",
         "taxasExtras:": "",
-        "trechos": "BSB/BOG/BDB",
+        "trechos": [
+            "BSB",
+            "BOG",
+            "BDB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "HPSMXD",
         "taxaEmbarque": "403,38",
@@ -4268,7 +5039,12 @@
         "tarifa": "32.000,18",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/MXP/GRU/AJU",
+        "trechos": [
+            "GRU",
+            "MXP",
+            "GRU",
+            "AJU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "JYMBPM",
         "taxaEmbarque": "258,54",
@@ -4298,7 +5074,11 @@
         "tarifa": "8.220,72",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "REC/LIS/REC",
+        "trechos": [
+            "REC",
+            "LIS",
+            "REC"
+        ],
         "ciaAerea": "TAP",
         "voucher": "BX7B2S",
         "taxaEmbarque": "638,73",
@@ -4314,7 +5094,11 @@
         "tarifa": "16.696,90",
         "valorReembolso": "16.916,86",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS/GVA",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "GVA"
+        ],
         "ciaAerea": "TAP",
         "voucher": "C5MCDL",
         "taxaEmbarque": "672,44",
@@ -4330,7 +5114,11 @@
         "tarifa": "18.250,14",
         "valorReembolso": "19.995,80",
         "taxasExtras:": "7.814,36",
-        "trechos": "GVA/CDG/GRU",
+        "trechos": [
+            "GVA",
+            "CDG",
+            "GRU"
+        ],
         "ciaAerea": "AIR FRANCE/LATAM",
         "voucher": "GTXFVJ",
         "taxaEmbarque": "1.747,49",
@@ -4346,7 +5134,10 @@
         "tarifa": "681,34",
         "valorReembolso": "741,89",
         "taxasExtras:": "",
-        "trechos": "CGH/BSB",
+        "trechos": [
+            "CGH",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "GTEKDH",
         "taxaEmbarque": "60,62",
@@ -4376,7 +5167,13 @@
         "tarifa": "5.363,05",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MVD/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "JJDVEO",
         "taxaEmbarque": "491,61",
@@ -4406,7 +5203,10 @@
         "tarifa": "1.440,52",
         "valorReembolso": "1.499,92",
         "taxasExtras:": "",
-        "trechos": "GRU/MVD",
+        "trechos": [
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "EKPTNC",
         "taxaEmbarque": "59,54",
@@ -4422,7 +5222,11 @@
         "tarifa": "3.498,41",
         "valorReembolso": "4.158,04",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU/BSB",
+        "trechos": [
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "YCPUCB",
         "taxaEmbarque": "659,98",
@@ -4438,7 +5242,10 @@
         "tarifa": "1.295,38",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/MVD",
+        "trechos": [
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "WWKPWO",
         "taxaEmbarque": "59,54",
@@ -4454,7 +5261,10 @@
         "tarifa": "1.136,40",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/MVD",
+        "trechos": [
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "UCCYXN",
         "taxaEmbarque": "-",
@@ -4470,7 +5280,12 @@
         "tarifa": "1.431,35",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU/CGH/BSB",
+        "trechos": [
+            "MVD",
+            "GRU",
+            "CGH",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "NOIIHX",
         "taxaEmbarque": "532,36",
@@ -4500,7 +5315,13 @@
         "tarifa": "28.170,48",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS/MAS/LIS/BSB",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "MAS",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP",
         "voucher": "AN4JSR",
         "taxaEmbarque": "1.931,89",
@@ -4516,7 +5337,13 @@
         "tarifa": "-",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS/MAS/LIS/BSB",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "MAS",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP",
         "voucher": "AN4JSR-1",
         "taxaEmbarque": "-",
@@ -4546,7 +5373,10 @@
         "tarifa": "1.420,87",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "REC/CGH",
+        "trechos": [
+            "REC",
+            "CGH"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "FGECOI",
         "taxaEmbarque": "58,89",
@@ -4562,7 +5392,12 @@
         "tarifa": "3.799,07",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/MVD/GRU/BSB",
+        "trechos": [
+            "GRU",
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "DVNTUW",
         "taxaEmbarque": "458,98",
@@ -4592,7 +5427,11 @@
         "tarifa": "27.099,44",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS/BSB",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "BSB"
+        ],
         "ciaAerea": "TAP",
         "voucher": "BG24SM",
         "taxaEmbarque": "1.192,18",
@@ -4622,7 +5461,11 @@
         "tarifa": "1.687,61",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "CGR/GRU/MVD",
+        "trechos": [
+            "CGR",
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "GOL",
         "voucher": "WZPVUC",
         "taxaEmbarque": "96,21",
@@ -4638,7 +5481,11 @@
         "tarifa": "3.174,44",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU/BSB",
+        "trechos": [
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "HHPSLS",
         "taxaEmbarque": "636,42",
@@ -4668,7 +5515,10 @@
         "tarifa": "7.179,48",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/AMS",
+        "trechos": [
+            "GRU",
+            "AMS"
+        ],
         "ciaAerea": "GOL",
         "voucher": "GZLDSY",
         "taxaEmbarque": "59,54",
@@ -4684,7 +5534,10 @@
         "tarifa": "1.216,42",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "AMS/LIS",
+        "trechos": [
+            "AMS",
+            "LIS"
+        ],
         "ciaAerea": "TAP",
         "voucher": "CHYXFG",
         "taxaEmbarque": "888,31",
@@ -4700,7 +5553,10 @@
         "tarifa": "3.203,45",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "LIS/GRU",
+        "trechos": [
+            "LIS",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "GQWTAT",
         "taxaEmbarque": "250,53",
@@ -4744,7 +5600,11 @@
         "tarifa": "14.744,05",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/FCO",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "FCO"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "NOKSOR",
         "taxaEmbarque": "92,41",
@@ -4760,7 +5620,10 @@
         "tarifa": "1.850,61",
         "valorReembolso": "2.357,05",
         "taxasExtras:": "",
-        "trechos": "FCO/GVA",
+        "trechos": [
+            "FCO",
+            "GVA"
+        ],
         "ciaAerea": "ITA",
         "voucher": "CWEU3G",
         "taxaEmbarque": "506,63",
@@ -4776,7 +5639,11 @@
         "tarifa": "16.610,32",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GVA/CDG/GRU",
+        "trechos": [
+            "GVA",
+            "CDG",
+            "GRU"
+        ],
         "ciaAerea": "AIR FRANCE",
         "voucher": "CWD5W5",
         "taxaEmbarque": "3.312,99",
@@ -4806,7 +5673,14 @@
         "tarifa": "46.714,70",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "CWB/SCL/SYD/SCL/GRU/CWB",
+        "trechos": [
+            "CWB",
+            "SCL",
+            "SYD",
+            "SCL",
+            "GRU",
+            "CWB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "WQNFMV",
         "taxaEmbarque": "996,67",
@@ -4822,7 +5696,10 @@
         "tarifa": "325,9",
         "valorReembolso": "131,38",
         "taxasExtras:": "",
-        "trechos": "GRU/BSB",
+        "trechos": [
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "APXOTB",
         "taxaEmbarque": "33,64",
@@ -4852,7 +5729,15 @@
         "tarifa": "50.206,43",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/SCL/SYD/SCL/GRU/BSB",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "SCL",
+            "SYD",
+            "SCL",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "ULAFFA",
         "taxaEmbarque": "1.006,32",
@@ -4882,7 +5767,13 @@
         "tarifa": "6.556,78",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GIG/AMS/LHR/CDG/GIG",
+        "trechos": [
+            "GIG",
+            "AMS",
+            "LHR",
+            "CDG",
+            "GIG"
+        ],
         "ciaAerea": "KLM/AIR FRANCE",
         "voucher": "BAAOWM",
         "taxaEmbarque": "1.570,31",
@@ -4912,7 +5803,11 @@
         "tarifa": "2.887,47",
         "valorReembolso": "",
         "taxasExtras:": "233,83",
-        "trechos": "BSB/GRU/MVD",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "GOL",
         "voucher": "KTVWMA",
         "taxaEmbarque": "92,41",
@@ -4928,7 +5823,11 @@
         "tarifa": "2.827,65",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU/BSB",
+        "trechos": [
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "ANMSKV",
         "taxaEmbarque": "611,18",
@@ -4958,7 +5857,13 @@
         "tarifa": "49.824,03",
         "valorReembolso": "50.763,65",
         "taxasExtras:": "",
-        "trechos": "GRU/SCL/SYD/SCL/GRU",
+        "trechos": [
+            "GRU",
+            "SCL",
+            "SYD",
+            "SCL",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "FQAFNA",
         "taxaEmbarque": "944,6",
@@ -4974,7 +5879,11 @@
         "tarifa": "26.494,39",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/SCL/SYD",
+        "trechos": [
+            "GRU",
+            "SCL",
+            "SYD"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "DXBCXQ",
         "taxaEmbarque": "372,42",
@@ -4990,7 +5899,11 @@
         "tarifa": "6.537,81",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "SYD/SFO/IAH",
+        "trechos": [
+            "SYD",
+            "SFO",
+            "IAH"
+        ],
         "ciaAerea": "UNITED",
         "voucher": "APGNBB",
         "taxaEmbarque": "999,97",
@@ -5048,7 +5961,10 @@
         "tarifa": "3.418,25",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "SAT/SFO",
+        "trechos": [
+            "SAT",
+            "SFO"
+        ],
         "ciaAerea": "UNITED",
         "voucher": "A8V58O",
         "taxaEmbarque": "337,45",
@@ -5064,7 +5980,12 @@
         "tarifa": "19.879,12",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "SFO/LAX/GRU/JPA",
+        "trechos": [
+            "SFO",
+            "LAX",
+            "GRU",
+            "JPA"
+        ],
         "ciaAerea": "DELTA",
         "voucher": "A8XC4Q",
         "taxaEmbarque": "208,56",
@@ -5080,7 +6001,12 @@
         "tarifa": "2.122,52",
         "valorReembolso": "",
         "taxasExtras:": "2.122,69",
-        "trechos": "SFO/ATL/GRU/BSB",
+        "trechos": [
+            "SFO",
+            "ATL",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "DELTA",
         "voucher": "BYWSVS",
         "taxaEmbarque": "24,02",
@@ -5124,7 +6050,11 @@
         "tarifa": "2.934,78",
         "valorReembolso": "2.883,96",
         "taxasExtras:": "",
-        "trechos": "CGR/GRU/MVD",
+        "trechos": [
+            "CGR",
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "GOL",
         "voucher": "GASZST",
         "taxaEmbarque": "96,21",
@@ -5140,7 +6070,11 @@
         "tarifa": "1.234,85",
         "valorReembolso": "1.720,26",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU/BSB",
+        "trechos": [
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "SYOEJU",
         "taxaEmbarque": "485,53",
@@ -5184,7 +6118,12 @@
         "tarifa": "30.409,51",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS/GRU/FLN",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "GRU",
+            "FLN"
+        ],
         "ciaAerea": "TAP",
         "voucher": "CHKN33",
         "taxaEmbarque": "1.310,50",
@@ -5214,7 +6153,11 @@
         "tarifa": "13.767,43",
         "valorReembolso": "13.877,25",
         "taxasExtras:": "",
-        "trechos": "VIX/GRU/FCO",
+        "trechos": [
+            "VIX",
+            "GRU",
+            "FCO"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "CLFIMV",
         "taxaEmbarque": "111,2",
@@ -5230,7 +6173,11 @@
         "tarifa": "11.588,73",
         "valorReembolso": "15.727,82",
         "taxasExtras:": "",
-        "trechos": "FCO/CDG/GRU",
+        "trechos": [
+            "FCO",
+            "CDG",
+            "GRU"
+        ],
         "ciaAerea": "AIR FRANCE",
         "voucher": "BPH9UT",
         "taxaEmbarque": "4.140,25",
@@ -5246,7 +6193,10 @@
         "tarifa": "787,05",
         "valorReembolso": "781,26",
         "taxasExtras:": "",
-        "trechos": "GRU/VIX",
+        "trechos": [
+            "GRU",
+            "VIX"
+        ],
         "ciaAerea": "GOL",
         "voucher": "UUOWHX",
         "taxaEmbarque": "33,64",
@@ -5276,7 +6226,10 @@
         "tarifa": "1.142,38",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "REC/MVD",
+        "trechos": [
+            "REC",
+            "MVD"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "EMC7KD",
         "taxaEmbarque": "97,99",
@@ -5292,7 +6245,11 @@
         "tarifa": "2.111,07",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU/BSB",
+        "trechos": [
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "JAKOHI",
         "taxaEmbarque": "551,17",
@@ -5308,7 +6265,11 @@
         "tarifa": "347,73",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU/BSB",
+        "trechos": [
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "EEDGCR",
         "taxaEmbarque": "26,23",
@@ -5338,7 +6299,12 @@
         "tarifa": "38.187,52",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/DXB/DME",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "DXB",
+            "DME"
+        ],
         "ciaAerea": "EMIRATES",
         "voucher": "AQI4P6",
         "taxaEmbarque": "6.833,49",
@@ -5354,7 +6320,11 @@
         "tarifa": "18.443,28",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "SVO/AUH/LHR",
+        "trechos": [
+            "SVO",
+            "AUH",
+            "LHR"
+        ],
         "ciaAerea": "ETIHAD",
         "voucher": "AB6XKC",
         "taxaEmbarque": "7.263,75",
@@ -5370,7 +6340,11 @@
         "tarifa": "5.697,09",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "SVO/AUH/LHR",
+        "trechos": [
+            "SVO",
+            "AUH",
+            "LHR"
+        ],
         "ciaAerea": "ETIHAD",
         "voucher": "CAJ94I",
         "taxaEmbarque": "0,48",
@@ -5386,7 +6360,10 @@
         "tarifa": "22.906,14",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "LHR/GRU",
+        "trechos": [
+            "LHR",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "SGGRWD",
         "taxaEmbarque": "1.929,03",
@@ -5402,7 +6379,10 @@
         "tarifa": "1.176,53",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/BSB",
+        "trechos": [
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "YRIMRS",
         "taxaEmbarque": "33,64",
@@ -5418,7 +6398,10 @@
         "tarifa": "-",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/BSB",
+        "trechos": [
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "YRIMRS-1",
         "taxaEmbarque": "-",
@@ -5448,7 +6431,10 @@
         "tarifa": "1.542,05",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU",
+        "trechos": [
+            "BSB",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "CRDSOO",
         "taxaEmbarque": "32,87",
@@ -5464,7 +6450,15 @@
         "tarifa": "54.612,95",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/DXB/VKO/DME/DXB/GRU/BSB",
+        "trechos": [
+            "GRU",
+            "DXB",
+            "VKO",
+            "DME",
+            "DXB",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "EMIRATES",
         "voucher": "AADWS7",
         "taxaEmbarque": "13.483,84",
@@ -5480,7 +6474,11 @@
         "tarifa": "8.995,05",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "DME/DXB/GRU",
+        "trechos": [
+            "DME",
+            "DXB",
+            "GRU"
+        ],
         "ciaAerea": "EMIRATES",
         "voucher": "AAXW9I",
         "taxaEmbarque": "-",
@@ -5496,7 +6494,10 @@
         "tarifa": "1.840,02",
         "valorReembolso": "1.873,48",
         "taxasExtras:": "",
-        "trechos": "GRU/BSB",
+        "trechos": [
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "QTOYCG",
         "taxaEmbarque": "33,64",
@@ -5512,7 +6513,10 @@
         "tarifa": "2.987,17",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "CGH/BSB",
+        "trechos": [
+            "CGH",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "CPUJJM",
         "taxaEmbarque": "60,62",
@@ -5542,7 +6546,11 @@
         "tarifa": "2.820,24",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MVD",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "GOL",
         "voucher": "AQGOYJ",
         "taxaEmbarque": "92,41",
@@ -5558,7 +6566,11 @@
         "tarifa": "2.102,54",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU/BSB",
+        "trechos": [
+            "MVD",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "FZKFSP",
         "taxaEmbarque": "549,07",
@@ -5588,7 +6600,12 @@
         "tarifa": "6.361,04",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/LAX/KIX",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "LAX",
+            "KIX"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "GTBETM",
         "taxaEmbarque": "243,07",
@@ -5604,7 +6621,12 @@
         "tarifa": "6.739,78",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "NRT/DXB/GRU/BSB",
+        "trechos": [
+            "NRT",
+            "DXB",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "EMIRATES",
         "voucher": "ASLWBE",
         "taxaEmbarque": "1.793,56",
@@ -5620,7 +6642,11 @@
         "tarifa": "-",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "NRT/DXB/GRU",
+        "trechos": [
+            "NRT",
+            "DXB",
+            "GRU"
+        ],
         "ciaAerea": "EMIRATES",
         "voucher": "JM3U7S",
         "taxaEmbarque": "-",
@@ -5650,7 +6676,13 @@
         "tarifa": "26.421,38",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "REC/LIS/GVA/LIS/REC",
+        "trechos": [
+            "REC",
+            "LIS",
+            "GVA",
+            "LIS",
+            "REC"
+        ],
         "ciaAerea": "TAP",
         "voucher": "C9KMNW",
         "taxaEmbarque": "1.552,93",
@@ -5694,7 +6726,10 @@
         "tarifa": "2.183,64",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/PVH",
+        "trechos": [
+            "BSB",
+            "PVH"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "NHFARW",
         "taxaEmbarque": "32,87",
@@ -5710,7 +6745,10 @@
         "tarifa": "2.987,17",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "PVH/BSB",
+        "trechos": [
+            "PVH",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "LCFFAA",
         "taxaEmbarque": "56,78",
@@ -5726,7 +6764,10 @@
         "tarifa": "2.647,61",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "PVH/BSB",
+        "trechos": [
+            "PVH",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "UEFRHL",
         "taxaEmbarque": "56,78",
@@ -5742,7 +6783,10 @@
         "tarifa": "2.183,64",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/PVH",
+        "trechos": [
+            "BSB",
+            "PVH"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "NEYXWI",
         "taxaEmbarque": "32,87",
@@ -5758,7 +6802,10 @@
         "tarifa": "396,83",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/PVH",
+        "trechos": [
+            "BSB",
+            "PVH"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "NJIEDN",
         "taxaEmbarque": "-",
@@ -5774,7 +6821,10 @@
         "tarifa": "398,4",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/PVH",
+        "trechos": [
+            "BSB",
+            "PVH"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "EEDCQD",
         "taxaEmbarque": "-",
@@ -5790,7 +6840,10 @@
         "tarifa": "2.987,17",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "PVH/BSB",
+        "trechos": [
+            "PVH",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "UCCPUS",
         "taxaEmbarque": "56,78",
@@ -5806,7 +6859,10 @@
         "tarifa": "2.844,32",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "PVH/BSB",
+        "trechos": [
+            "PVH",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "WDDEKE",
         "taxaEmbarque": "56,78",
@@ -5822,7 +6878,11 @@
         "tarifa": "1.323,95",
         "valorReembolso": "1.375,48",
         "taxasExtras:": "",
-        "trechos": "VIX/SSA/BEL",
+        "trechos": [
+            "VIX",
+            "SSA",
+            "BEL"
+        ],
         "ciaAerea": "GOL",
         "voucher": "UUUWMN",
         "taxaEmbarque": "51,66",
@@ -5838,7 +6898,11 @@
         "tarifa": "899,89",
         "valorReembolso": "954,25",
         "taxasExtras:": "",
-        "trechos": "BEL/GIG/VIX",
+        "trechos": [
+            "BEL",
+            "GIG",
+            "VIX"
+        ],
         "ciaAerea": "GOL",
         "voucher": "HEBWOL",
         "taxaEmbarque": "54,45",
@@ -5854,7 +6918,10 @@
         "tarifa": "4.609,08",
         "valorReembolso": "4.437,06",
         "taxasExtras:": "",
-        "trechos": "REC/BEL",
+        "trechos": [
+            "REC",
+            "BEL"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "PS74YE",
         "taxaEmbarque": "58,89",
@@ -5870,7 +6937,10 @@
         "tarifa": "752,17",
         "valorReembolso": "54,45",
         "taxasExtras:": "",
-        "trechos": "BEL/REC",
+        "trechos": [
+            "BEL",
+            "REC"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "KH98RV",
         "taxaEmbarque": "54,45",
@@ -5886,7 +6956,13 @@
         "tarifa": "8.152,96",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "CWB/GRU/LHR/GRU/BSB",
+        "trechos": [
+            "CWB",
+            "GRU",
+            "LHR",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "LGGXBC",
         "taxaEmbarque": "1.156,52",
@@ -5916,7 +6992,12 @@
         "tarifa": "22.158,48",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/JFK/SFO",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "JFK",
+            "SFO"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "LWCVDV",
         "taxaEmbarque": "371,02",
@@ -5932,7 +7013,12 @@
         "tarifa": "18.655,77",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "SFO/LAX/GRU/FLN",
+        "trechos": [
+            "SFO",
+            "LAX",
+            "GRU",
+            "FLN"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "HZSUHS",
         "taxaEmbarque": "237,58",
@@ -5962,7 +7048,10 @@
         "tarifa": "1.322,93",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/BEL",
+        "trechos": [
+            "BSB",
+            "BEL"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "YATAZW",
         "taxaEmbarque": "32,87",
@@ -5978,7 +7067,10 @@
         "tarifa": "1.606,88",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/BEL",
+        "trechos": [
+            "BSB",
+            "BEL"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "MKQQXS",
         "taxaEmbarque": "-",
@@ -5994,7 +7086,10 @@
         "tarifa": "508,9",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB",
+        "trechos": [
+            "BEL",
+            "BSB"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "DKTVXJ",
         "taxaEmbarque": "54,45",
@@ -6024,7 +7119,11 @@
         "tarifa": "1.346,20",
         "valorReembolso": "1.438,48",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MVD",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "GOL",
         "voucher": "IMCZBZ",
         "taxaEmbarque": "92,41",
@@ -6040,7 +7139,11 @@
         "tarifa": "2.861,13",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MVD",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "OZOFDT",
         "taxaEmbarque": "92,41",
@@ -6056,7 +7159,10 @@
         "tarifa": "829,25",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU",
+        "trechos": [
+            "MVD",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "IKRLMT",
         "taxaEmbarque": "424,09",
@@ -6072,7 +7178,10 @@
         "tarifa": "293,65",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "CGH/BSB",
+        "trechos": [
+            "CGH",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "OGUNHS",
         "taxaEmbarque": "60,62",
@@ -6102,7 +7211,11 @@
         "tarifa": "14.665,64",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS/FCO",
+        "trechos": [
+            "BSB",
+            "LIS",
+            "FCO"
+        ],
         "ciaAerea": "TAP",
         "voucher": "BAX8CI",
         "taxaEmbarque": "614,77",
@@ -6118,7 +7231,10 @@
         "tarifa": "7.983,66",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "FCO/CDG",
+        "trechos": [
+            "FCO",
+            "CDG"
+        ],
         "ciaAerea": "AIRFRANCE",
         "voucher": "BB2RHO",
         "taxaEmbarque": "362,36",
@@ -6134,7 +7250,10 @@
         "tarifa": "-",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "FCO/CDG",
+        "trechos": [
+            "FCO",
+            "CDG"
+        ],
         "ciaAerea": "AIRFRANCE",
         "voucher": "CVG6WD",
         "taxaEmbarque": "-",
@@ -6150,7 +7269,11 @@
         "tarifa": "19.934,12",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "CDG/GRU/BSB",
+        "trechos": [
+            "CDG",
+            "GRU",
+            "BSB"
+        ],
         "ciaAerea": "AIRFRANCE/LATAM",
         "voucher": "BAW29I",
         "taxaEmbarque": "3.977,58",
@@ -6180,7 +7303,11 @@
         "tarifa": "2.596,90",
         "valorReembolso": "361,68",
         "taxasExtras:": "",
-        "trechos": "BSB/CNF/BEL",
+        "trechos": [
+            "BSB",
+            "CNF",
+            "BEL"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "ALE3MG",
         "taxaEmbarque": "32,87",
@@ -6196,7 +7323,11 @@
         "tarifa": "1.971,86",
         "valorReembolso": "2.026,11",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB/RBR",
+        "trechos": [
+            "BEL",
+            "BSB",
+            "RBR"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "MVVBMW",
         "taxaEmbarque": "54,45",
@@ -6212,7 +7343,10 @@
         "tarifa": "2.006,02",
         "valorReembolso": "2.038,69",
         "taxasExtras:": "",
-        "trechos": "BSB/BEL",
+        "trechos": [
+            "BSB",
+            "BEL"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "CJRACI",
         "taxaEmbarque": "32,87",
@@ -6228,7 +7362,10 @@
         "tarifa": "992,04",
         "valorReembolso": "54,45",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB",
+        "trechos": [
+            "BEL",
+            "BSB"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "RLGQJJ",
         "taxaEmbarque": "54,45",
@@ -6244,7 +7381,10 @@
         "tarifa": "1.598,77",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/BEL",
+        "trechos": [
+            "BSB",
+            "BEL"
+        ],
         "ciaAerea": "GOL",
         "voucher": "IVNBDB",
         "taxaEmbarque": "32,87",
@@ -6260,7 +7400,10 @@
         "tarifa": "668,9",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB",
+        "trechos": [
+            "BEL",
+            "BSB"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "ZJMTQC",
         "taxaEmbarque": "54,45",
@@ -6276,7 +7419,11 @@
         "tarifa": "2.835,37",
         "valorReembolso": "59,95",
         "taxasExtras:": "",
-        "trechos": "BSB/SDU/BSB",
+        "trechos": [
+            "BSB",
+            "SDU",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "SOGMKX",
         "taxaEmbarque": "92,82",
@@ -6292,7 +7439,10 @@
         "tarifa": "2.141,13",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/BEL",
+        "trechos": [
+            "GRU",
+            "BEL"
+        ],
         "ciaAerea": "GOL",
         "voucher": "FIVKFH",
         "taxaEmbarque": "33,64",
@@ -6308,7 +7458,10 @@
         "tarifa": "2.978,87",
         "valorReembolso": "947,81",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB",
+        "trechos": [
+            "BEL",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "GRWQRS",
         "taxaEmbarque": "54,45",
@@ -6324,7 +7477,10 @@
         "tarifa": "1.804,33",
         "valorReembolso": "1.837,02",
         "taxasExtras:": "",
-        "trechos": "BSB/BEL",
+        "trechos": [
+            "BSB",
+            "BEL"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "HXXJLG",
         "taxaEmbarque": "32,87",
@@ -6340,7 +7496,11 @@
         "tarifa": "2.978,87",
         "valorReembolso": "3.033,02",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB/MCZ",
+        "trechos": [
+            "BEL",
+            "BSB",
+            "MCZ"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "NXXUUQ",
         "taxaEmbarque": "54,45",
@@ -6356,7 +7516,10 @@
         "tarifa": "2.470,82",
         "valorReembolso": "2.525,02",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB",
+        "trechos": [
+            "BEL",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "WZLBNE",
         "taxaEmbarque": "54,45",
@@ -6372,7 +7535,10 @@
         "tarifa": "2.568,76",
         "valorReembolso": "32,87",
         "taxasExtras:": "",
-        "trechos": "BSB/BEL",
+        "trechos": [
+            "BSB",
+            "BEL"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "OATLKV",
         "taxaEmbarque": "32,87",
@@ -6388,7 +7554,10 @@
         "tarifa": "2.675,00",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB",
+        "trechos": [
+            "BEL",
+            "BSB"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "JJ5WTP",
         "taxaEmbarque": "27,22",
@@ -6404,7 +7573,10 @@
         "tarifa": "2.090,17",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB",
+        "trechos": [
+            "BEL",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "JJUBQP",
         "taxaEmbarque": "54,45",
@@ -6420,7 +7592,10 @@
         "tarifa": "465,27",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/BEL",
+        "trechos": [
+            "BSB",
+            "BEL"
+        ],
         "ciaAerea": "GOL",
         "voucher": "JJUBQP-1",
         "taxaEmbarque": "",
@@ -6436,7 +7611,11 @@
         "tarifa": "3.156,60",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BEL/BSB/CGB",
+        "trechos": [
+            "BEL",
+            "BSB",
+            "CGB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "ESZIZR",
         "taxaEmbarque": "54,45",
@@ -6452,7 +7631,10 @@
         "tarifa": "1.598,77",
         "valorReembolso": "1.631,48",
         "taxasExtras:": "",
-        "trechos": "BSB/BEL",
+        "trechos": [
+            "BSB",
+            "BEL"
+        ],
         "ciaAerea": "GOL",
         "voucher": "KKZPKU",
         "taxaEmbarque": "32,87",
@@ -6468,7 +7650,11 @@
         "tarifa": "3.665,48",
         "valorReembolso": "3.509,06",
         "taxasExtras:": "",
-        "trechos": "BEL/VCP/CGB",
+        "trechos": [
+            "BEL",
+            "VCP",
+            "CGB"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "NME95D",
         "taxaEmbarque": "27,22",
@@ -6498,7 +7684,10 @@
         "tarifa": "1.210,46",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "REC/MVD",
+        "trechos": [
+            "REC",
+            "MVD"
+        ],
         "ciaAerea": "AZUL",
         "voucher": "AI7VXC",
         "taxaEmbarque": "97,99",
@@ -6514,7 +7703,10 @@
         "tarifa": "824,93",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU",
+        "trechos": [
+            "MVD",
+            "GRU"
+        ],
         "ciaAerea": "GOL",
         "voucher": "LUKJUD",
         "taxaEmbarque": "439,87",
@@ -6530,7 +7722,10 @@
         "tarifa": "2.415,21",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/REC",
+        "trechos": [
+            "GRU",
+            "REC"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "KCKSZI",
         "taxaEmbarque": "33,64",
@@ -6546,7 +7741,11 @@
         "tarifa": "4.690,41",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/BOG/SAL",
+        "trechos": [
+            "BSB",
+            "BOG",
+            "SAL"
+        ],
         "ciaAerea": "AVIANCA",
         "voucher": "ACW594",
         "taxaEmbarque": "79,04",
@@ -6562,7 +7761,11 @@
         "tarifa": "3.417,45",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "SAL/PTY/BSB",
+        "trechos": [
+            "SAL",
+            "PTY",
+            "BSB"
+        ],
         "ciaAerea": "COPA AIRLINES",
         "voucher": "ACYSX5",
         "taxaEmbarque": "784,3",
@@ -6592,7 +7795,11 @@
         "tarifa": "5.825,68",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/PVH/BSB",
+        "trechos": [
+            "BSB",
+            "PVH",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "JVMDOG",
         "taxaEmbarque": "89,65",
@@ -6608,7 +7815,10 @@
         "tarifa": "1.273,13",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/CGH",
+        "trechos": [
+            "BSB",
+            "CGH"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "ATRVBT",
         "taxaEmbarque": "32,87",
@@ -6624,7 +7834,10 @@
         "tarifa": "1.353,98",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "CGH/BSB",
+        "trechos": [
+            "CGH",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "KJRCBC",
         "taxaEmbarque": "60,62",
@@ -6640,7 +7853,11 @@
         "tarifa": "14.572,39",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "REC/LIS/FCO",
+        "trechos": [
+            "REC",
+            "LIS",
+            "FCO"
+        ],
         "ciaAerea": "TAP",
         "voucher": "BQZC8R",
         "taxaEmbarque": "636,32",
@@ -6656,7 +7873,10 @@
         "tarifa": "4.043,45",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "FCO/CGD",
+        "trechos": [
+            "FCO",
+            "CGD"
+        ],
         "ciaAerea": "AIR FRANCE",
         "voucher": "BR4XCE",
         "taxaEmbarque": "355,34",
@@ -6672,7 +7892,10 @@
         "tarifa": "1.148,19",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "FCO/CGD",
+        "trechos": [
+            "FCO",
+            "CGD"
+        ],
         "ciaAerea": "AIR FRANCE",
         "voucher": "CVDS49",
         "taxaEmbarque": "4,1",
@@ -6688,7 +7911,11 @@
         "tarifa": "14.001,76",
         "valorReembolso": "1.050,84",
         "taxasExtras:": "",
-        "trechos": "CDG/MAD/GRU",
+        "trechos": [
+            "CDG",
+            "MAD",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "JTKICW",
         "taxaEmbarque": "1.050,84",
@@ -6718,7 +7945,10 @@
         "tarifa": "16.490,03",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/LIS",
+        "trechos": [
+            "BSB",
+            "LIS"
+        ],
         "ciaAerea": "TAP",
         "voucher": "CA76LX",
         "taxaEmbarque": "516,35",
@@ -6734,7 +7964,10 @@
         "tarifa": "18.938,12",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "LIS/GRU",
+        "trechos": [
+            "LIS",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "YXIGWZ",
         "taxaEmbarque": "242,11",
@@ -6750,7 +7983,10 @@
         "tarifa": "1.038,24",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "CGH/BSB",
+        "trechos": [
+            "CGH",
+            "BSB"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "JDQIFR",
         "taxaEmbarque": "60,62",
@@ -6780,7 +8016,11 @@
         "tarifa": "2.666,32",
         "valorReembolso": "2.758,46",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MVD",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "GOL",
         "voucher": "MIOAOL",
         "taxaEmbarque": "92,41",
@@ -6796,7 +8036,11 @@
         "tarifa": "2.917,95",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "BSB/GRU/MVD",
+        "trechos": [
+            "BSB",
+            "GRU",
+            "MVD"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "UVUYIJ",
         "taxaEmbarque": "92,41",
@@ -6812,7 +8056,10 @@
         "tarifa": "1.376,12",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "MVD/GRU",
+        "trechos": [
+            "MVD",
+            "GRU"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "QOTOSN",
         "taxaEmbarque": "479,6",
@@ -6828,7 +8075,10 @@
         "tarifa": "1.035,48",
         "valorReembolso": "1.096,00",
         "taxasExtras:": "",
-        "trechos": "CGH/BSB",
+        "trechos": [
+            "CGH",
+            "BSB"
+        ],
         "ciaAerea": "GOL",
         "voucher": "FGCLRL",
         "taxaEmbarque": "60,62",
@@ -6858,7 +8108,11 @@
         "tarifa": "79.004,38",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "GRU/IAD/GRU",
+        "trechos": [
+            "GRU",
+            "IAD",
+            "GRU"
+        ],
         "ciaAerea": "UNITED",
         "voucher": "C4KIQU",
         "taxaEmbarque": "452,05",
@@ -6888,7 +8142,13 @@
         "tarifa": "37.878,37",
         "valorReembolso": "",
         "taxasExtras:": "",
-        "trechos": "FLN/GRU/BCN/GRU/FLN",
+        "trechos": [
+            "FLN",
+            "GRU",
+            "BCN",
+            "GRU",
+            "FLN"
+        ],
         "ciaAerea": "LATAM",
         "voucher": "IYVKTA",
         "taxaEmbarque": "279,37",
@@ -6907,5 +8167,23 @@
         "regiao": "EUROPA",
         "bilhete": "550 30655556 0B70",
         "seguradora": "ASSIST CARD"
+    },
+    {
+        "motivo": "",
+        "resumoDoMotivo": "",
+        "passageiro": "",
+        "statusPassageiro": "",
+        "dataIda": "",
+        "dataVolta": "",
+        "tarifa": "3.279.064,36",
+        "valorReembolso": "",
+        "taxasExtras:": "R$",
+        "trechos": [
+            ""
+        ],
+        "ciaAerea": "",
+        "voucher": "",
+        "taxaEmbarque": "217.697,35",
+        "classe": ""
     }
 ]
