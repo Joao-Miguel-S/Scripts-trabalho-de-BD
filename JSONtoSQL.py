@@ -51,31 +51,85 @@ comprasAereas = {}
 resetFiles()
 
 
-with open('JSON/Senador.json',"r") as file:
+with open('JSON/Senador.json',"r", encoding='utf-8') as file:
         Senadores = json.load(file)
 
         with open('SQL/Senador.sql','w',encoding='utf-8') as f:
             for senador in Senadores:
-                insert = "INSERT INTO Senador values ({0},'{1}','{2}','{3}','{4}','{5}','{6}');\n".format(senador["codSenador"],senador["nome"], senador["uf"],senador["sexo"],senador["email"],senador["foto"],senador["site"])
+                insert = "INSERT INTO Senador values ({0},'{1}','{2}','{3}','{4}','{5}','{6}');\n".format(
+                    senador["codSenador"],
+                    senador["nome"],
+                    senador["uf"],
+                    senador["sexo"],
+                    senador["email"],
+                    senador["foto"],
+                    senador["site"])
                 f.write(insert)
 
 senDict = betterDictSenador(Senadores)
 
-with open('JSON/Viagens.json',"r") as file:
+with open('JSON/contrata.json', "r", encoding='utf-8') as file:
+    dadosContratos = json.load(file)
+
+    with open('SQL/Contrata.sql', 'w', encoding='utf-8') as f:
+        for item in dadosContratos:
+            insert = "INSERT INTO Contrata VALUES ({0},'{1}','{2}','{3}',{4},'{5}','{6}','{7}');\n".format(
+                item["senador"]["codSenador"],                  
+                item["beneficiario"]["documento"],              
+                item["data"],                                   
+                item["documento"],                              
+                stringToFloat(item["valor"]),                   
+                item["tipoDespesa"],                            
+                item["detalhamento"],                           
+                item["tipoDocumento"]                           
+            )
+            f.write(insert)
+
+
+with open('JSON/Viagens.json',"r", encoding='utf-8') as file:
         comprasAereas = json.load(file)
 
         for compraAerea in comprasAereas:
             if(compraAerea["tipo"]=="Seguro Viagem"):
                 with open('SQL/Seguro.sql','a',encoding='utf-8') as f:
                         try:
-                            insert = "INSERT INTO Seguro values ({0},'{1}','{2}','{3}','{4}','{5}',{6},{7},{8},'{9}','{10}','{11}');\n".format(senDict[findSenador(senDict,compraAerea["passageiro"])],compraAerea["motivo"],compraAerea["resumoDoMotivo"],compraAerea["dataIda"],compraAerea["dataVolta"],compraAerea["dataEmissao"],stringToFloat(compraAerea["tarifa"]),stringToFloat(compraAerea["valorReembolso"]),stringToFloat(compraAerea["taxasExtras"]),compraAerea["regiao"],compraAerea["bilhete"],compraAerea["seguradora"])
+                            insert = "INSERT INTO Seguro values ({0},'{1}','{2}','{3}','{4}','{5}',{6},{7},{8},'{9}','{10}','{11}','{12}');\n".format(
+                                compraAerea["regiao"],
+                                compraAerea["bilhete"],
+                                compraAerea["seguradora"],
+                                compraAerea["motivo"],
+                                compraAerea["resumoDoMotivo"],
+                                compraAerea["tipo"],
+                                compraAerea["dataIda"],
+                                compraAerea["dataVolta"],
+                                stringToFloat(compraAerea["tarifa"]),
+                                stringToFloat(compraAerea["valorReembolso"]),
+                                stringToFloat(compraAerea["taxasExtras"]),
+                                senDict[findSenador(senDict,compraAerea["passageiro"])],
+                                compraAerea["dataEmissao"]
+                            )
                             f.write(insert)
                         except:
                             continue
             else:
                 try:
                     with open('SQL/Passagem.sql','a',encoding='utf-8') as Pass:
-                        insert = "INSERT INTO Passagem values ({0},'{1}','{2}','{3}','{4}','{5}',{6},{7},{8},{9},'{10}','{11}','{12}','{13}');\n".format(senDict[findSenador(senDict,compraAerea["passageiro"])],compraAerea["motivo"],compraAerea["resumoDoMotivo"],compraAerea["dataIda"],compraAerea["dataVolta"],compraAerea["dataEmissao"],stringToFloat(compraAerea["tarifa"]),stringToFloat(compraAerea["valorReembolso"]),stringToFloat(compraAerea["taxasExtras"]),stringToFloat(compraAerea["taxaEmbarque"]),compraAerea["trechos"],compraAerea["voucher"],compraAerea["ciaAerea"],compraAerea["classe"])
+                        insert = "INSERT INTO Passagem values ('{0}','{1}',{2},'{3}','{4}','{5}','{6}','{7}','{8}',{9},{10},{11},{12},'{13}');\n".format(
+                            compraAerea["ciaAerea"],
+                            compraAerea["voucher"],
+                            stringToFloat(compraAerea["taxaEmbarque"]),
+                            compraAerea["classe"],
+                            compraAerea["motivo"],
+                            compraAerea["resumoDoMotivo"],
+                            compraAerea["tipo"],
+                            compraAerea["dataIda"],
+                            compraAerea["dataVolta"],
+                            stringToFloat(compraAerea["tarifa"]),
+                            stringToFloat(compraAerea["valorReembolso"]),
+                            stringToFloat(compraAerea["taxasExtras"]),
+                            senDict[findSenador(senDict,compraAerea["passageiro"])],
+                            compraAerea["dataEmissao"]
+                        )
                         Pass.write(insert)
                 except:
                     continue

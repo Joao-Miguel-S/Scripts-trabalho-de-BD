@@ -1,25 +1,4 @@
 [
-   
-    {
-        "motivo": "Motivo",
-        "resumoDoMotivo": "Resumo do Motivo",
-        "passageiro": "Passageiro",
-        "statusPassageiro": "Status do Passageiro",
-        "dataIda": "Data da Viagem - TRECHO 1",
-        "dataVolta": "Data da Viagem - TRECHO 2",
-        "dataEmissao": "Data de Emissão",
-        "tarifa": "Tarifa",
-        "valorReembolso": "Valor do Reembolso",
-        "taxasExtras": "GRU/Diferença Tarifária",
-        "tipo": "Tipo de Serviço",
-        "trechos": [
-            "Trechos"
-        ],
-        "ciaAerea": "CIA Aérea/ Seguradora",
-        "voucher": "Bilhete/Voucher",
-        "taxaEmbarque": "Tx.de Embarque",
-        "classe": "Classe"
-    },
     {
         "motivo": "LIDE BRAZIL ECONOMIC FORUM",
         "resumoDoMotivo": "Missão Oficial",

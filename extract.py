@@ -76,6 +76,7 @@ with open('CSV/Despesas.csv', 'r', encoding='UTF-8') as arquivo:
             "data":linha[10],
             "valor":linha[12],
             "tipoDespesa":linha[6],
+            "detalhamento": linha[11],
             "senador":senador_despesa,
             "beneficiario":beneficiario
         }
