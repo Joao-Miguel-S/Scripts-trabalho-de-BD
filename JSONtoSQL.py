@@ -223,11 +223,11 @@ with open('JSON/servidores.json',"r", encoding='utf-8') as file:
 
     with open('SQL/Servidores.sql','w',encoding='utf-8') as f:
         for servidor in servidores:
-            insert = "INSERT INTO Servidor values ({0}, '{1}', {2}, {3}, {4}, {5});\n".format(
+            insert = "INSERT INTO Servidor values ({0}, '{1}', {2}, {3}, '{4}', {5});\n".format(
                 servidor["id"],
                 servidor["cargo"],
-                servidor["remuneracaoBasica"],
-                servidor["remuneracaoLiquida"],
+                stringToFloat(servidor["remuneracaoBasica"]),
+                stringToFloat(servidor["remuneracaoLiquida"]),
                 servidor["data"],
                 servidor["codSenador"]
         )
