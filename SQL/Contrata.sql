@@ -1,3 +1,4 @@
+INSERT INTO Contrata VALUES (COD_SENADOR,'CPF_CNPJ_FORNECEDOR','DATA','DOCUMENTO',0,'TIPO_DESPESA','DETALHAMENTO','TIPO_DOCUMENTO');
 INSERT INTO Contrata VALUES (6336,'05.120.923/0001-09','2026-08-11','2200627723',278.05,'Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar','','Fatura');
 INSERT INTO Contrata VALUES (6336,'05.120.923/0001-09','2026-08-11','2200716796',598.49,'Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar','','Fatura');
 INSERT INTO Contrata VALUES (6336,'07.295.702/0001-99','2026-08-14','12700',919.52,'Locomoção, hospedagem, alimentação, combustíveis e lubrificantes','','Nota Fiscal Eletrônica');
