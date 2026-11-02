@@ -59,7 +59,7 @@ def formatDate(date_str):
     try:
         parts = date_str.split('/')
         if len(parts) == 3:
-            return f"{parts[2]}-{parts[1]}-{parts[0]}"
+            return f"'{parts[2]}-{parts[1]}-{parts[0]}'"
     except:
         pass
     return "NULL"
@@ -91,8 +91,9 @@ with open('JSON/contrata.json', "r", encoding='utf-8') as file:
     dadosContratos = json.load(file)
 
     with open('SQL/Contrata.sql', 'w', encoding='utf-8') as f:
+        id = 1;
         for item in dadosContratos:
-            insert = "INSERT INTO Contrata VALUES ({0},'{1}','{2}','{3}',{4},'{5}','{6}','{7}');\n".format(
+            insert = "INSERT INTO Contrata VALUES ({0},'{1}','{2}','{3}',{4},'{5}','{6}','{7}', {8});\n".format(
                 item["senador"]["codSenador"],                  
                 item["beneficiario"]["documento"],              
                 item["data"],                                   
@@ -100,9 +101,11 @@ with open('JSON/contrata.json', "r", encoding='utf-8') as file:
                 stringToFloat(item["valor"]),                   
                 item["tipoDespesa"],                            
                 item["detalhamento"],                           
-                item["tipoDocumento"]                           
+                item["tipoDocumento"],
+                id
             )
             f.write(insert)
+            id += 1
 
 
 with open('JSON/Viagens.json',"r", encoding='utf-8') as file:
@@ -112,7 +115,7 @@ with open('JSON/Viagens.json',"r", encoding='utf-8') as file:
         if(compraAerea["tipo"]=="Seguro Viagem"):
             with open('SQL/Seguro.sql','a',encoding='utf-8') as f:
                     try:
-                        insert = "INSERT INTO Seguro values ({0},'{1}','{2}','{3}','{4}','{5}',{6},{7},{8},'{9}','{10}','{11}','{12}');\n".format(
+                        insert = "INSERT INTO Seguro values ('{0}','{1}','{2}','{3}','{4}','{5}',{6},{7},{8},'{9}','{10}','{11}',{12});\n".format(
                             compraAerea["regiao"],
                             compraAerea["bilhete"],
                             compraAerea["seguradora"],
@@ -133,7 +136,7 @@ with open('JSON/Viagens.json',"r", encoding='utf-8') as file:
         else:
             try:
                 with open('SQL/Passagem.sql','a',encoding='utf-8') as Pass:
-                    insert = "INSERT INTO Passagem values ('{0}','{1}',{2},'{3}','{4}','{5}','{6}',{7},{8},{9},{10},{11},{12},'{13}');\n".format(
+                    insert = "INSERT INTO Passagem values ('{0}','{1}',{2},'{3}','{4}','{5}','{6}',{7},{8},{9},{10},{11},{12},{13});\n".format(
                         compraAerea["ciaAerea"],
                         compraAerea["voucher"],
                         stringToFloat(compraAerea["taxaEmbarque"]),
@@ -168,9 +171,9 @@ with open('JSON/auxilioMoradia.json',"r", encoding='utf-8') as file:
 	with open('SQL/AuxilioMoradia.sql','w',encoding='utf-8') as f:
 		for auxilioMoradia in auxiliosMoradia:
 			insert = "INSERT INTO AuxilioMoradia values ({0}, {1}, {2});\n".format(
-				auxilioMoradia["codSenador"],
 				auxilioMoradia["data"],
-				auxilioMoradia["recebeu"]
+				auxilioMoradia["recebeu"],
+                auxilioMoradia["codSenador"]
 		)
 			f.write(insert)
 
@@ -197,12 +200,12 @@ with open('JSON/filiacao.json', "r", encoding='utf-8') as file:
 
             insert = "INSERT INTO SenadorPartido VALUES ({0}, '{1}', {2}, {3});\n".format(
                 item["codSenador"],
-                item["nomePartido"],
+                item["nomePartido"].upper(),
                 data_ingresso,
                 data_saida
             )
             f.write(insert)
-            
+
 with open('JSON/Partidos.json', "r", encoding='utf-8') as file:
     partidos = json.load(file)
 
@@ -213,4 +216,19 @@ with open('JSON/Partidos.json', "r", encoding='utf-8') as file:
                 partido["sigla"],
                 partido["presidente"].title(),
             )
+            f.write(insert)
+
+with open('JSON/servidores.json',"r", encoding='utf-8') as file:
+    servidores = json.load(file)
+
+    with open('SQL/Servidores.sql','w',encoding='utf-8') as f:
+        for servidor in servidores:
+            insert = "INSERT INTO Servidor values ({0}, '{1}', {2}, {3}, {4}, {5});\n".format(
+                servidor["id"],
+                servidor["cargo"],
+                servidor["remuneracaoBasica"],
+                servidor["remuneracaoLiquida"],
+                servidor["data"],
+                servidor["codSenador"]
+        )
             f.write(insert)
