@@ -105,7 +105,7 @@ with open('JSON/Viagens.json',"r", encoding='utf-8') as file:
             if(compraAerea["tipo"]=="Seguro Viagem"):
                 with open('SQL/Seguro.sql','a',encoding='utf-8') as f:
                         try:
-                            insert = "INSERT INTO Seguro values ({0},'{1}','{2}','{3}','{4}','{5}',{6},{7},{8},'{9}','{10}','{11}','{12}');\n".format(
+                            insert = "INSERT INTO Seguro values ('{0}','{1}','{2}','{3}','{4}','{5}',{6},{7},{8},'{9}','{10}','{11}','{12}');\n".format(
                                 compraAerea["regiao"],
                                 compraAerea["bilhete"],
                                 compraAerea["seguradora"],
@@ -146,6 +146,18 @@ with open('JSON/Viagens.json',"r", encoding='utf-8') as file:
                 except:
                     continue
 
+
+with open('JSON/Partidos.json', "r", encoding='utf-8') as file:
+    partidos = json.load(file)
+
+    with open('SQL/Partidos.sql', 'w', encoding='utf-8') as f:
+        for partido in partidos:
+            insert = "INSERT INTO Partidos VALUES ('{0}','{1}','{2}');\n".format(
+                partido["nome"],
+                partido["sigla"],
+                partido["presidente"].title(),
+            )
+            f.write(insert)
 
 
 
