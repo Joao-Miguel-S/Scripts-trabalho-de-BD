@@ -1,0 +1,2202 @@
+[
+    {
+        "codSenador": "5672",
+        "nomeParlamentar": "Alan Rick Miranda",
+        "uf": "AC",
+        "codigoPartido": "521",
+        "siglaPartido": "REPUBLICANOS",
+        "nomePartido": "Republicanos",
+        "dataFiliacao": "2025-11-12",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5672",
+        "nomeParlamentar": "Alan Rick Miranda",
+        "uf": "AC",
+        "codigoPartido": "582",
+        "siglaPartido": "UNIÃO",
+        "nomePartido": "União Brasil",
+        "dataFiliacao": "2022-02-24",
+        "dataDesfiliacao": "2025-11-10"
+    },
+    {
+        "codSenador": "5672",
+        "nomeParlamentar": "Alan Rick Miranda",
+        "uf": "AC",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2017-08-01",
+        "dataDesfiliacao": "2022-02-23"
+    },
+    {
+        "codSenador": "5672",
+        "nomeParlamentar": "Alan Rick Miranda",
+        "uf": "AC",
+        "codigoPartido": "521",
+        "siglaPartido": "REPUBLICANOS",
+        "nomePartido": "Republicanos",
+        "dataFiliacao": "2015-02-01",
+        "dataDesfiliacao": "2017-07-31"
+    },
+    {
+        "codSenador": "5982",
+        "nomeParlamentar": "Alessandro Vieira",
+        "uf": "SE",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "2023-06-21",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5982",
+        "nomeParlamentar": "Alessandro Vieira",
+        "uf": "SE",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2022-03-21",
+        "dataDesfiliacao": "2023-06-20"
+    },
+    {
+        "codSenador": "5982",
+        "nomeParlamentar": "Alessandro Vieira",
+        "uf": "SE",
+        "codigoPartido": "41",
+        "siglaPartido": "CIDADANIA",
+        "nomePartido": "CIDADANIA",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2022-03-20"
+    },
+    {
+        "codSenador": "5967",
+        "nomeParlamentar": "Angelo Mario Coronel de Azevedo Martins",
+        "uf": "BA",
+        "codigoPartido": "521",
+        "siglaPartido": "REPUBLICANOS",
+        "nomePartido": "Republicanos",
+        "dataFiliacao": "2026-03-17",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5967",
+        "nomeParlamentar": "Angelo Mario Coronel de Azevedo Martins",
+        "uf": "BA",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2026-03-16"
+    },
+    {
+        "codSenador": "6009",
+        "nomeParlamentar": "Marcos Cesar Pontes",
+        "uf": "SP",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2022-03-27",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "4639",
+        "nomeParlamentar": "José Roberto Oliveira Faro",
+        "uf": "PA",
+        "codigoPartido": "71",
+        "siglaPartido": "PT",
+        "nomePartido": "Partido dos Trabalhadores",
+        "dataFiliacao": "2007-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "6336",
+        "nomeParlamentar": "Camilo Sobreira de Santana",
+        "uf": "CE",
+        "codigoPartido": "71",
+        "siglaPartido": "PT",
+        "nomePartido": "Partido dos Trabalhadores",
+        "dataFiliacao": "2022-10-02",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "6295",
+        "nomeParlamentar": "Carlos Henrique Baqueta Fávaro",
+        "uf": "MT",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2020-04-10",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5936",
+        "nomeParlamentar": "Carlos Francisco Portinho",
+        "uf": "RJ",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2020-12-28",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5936",
+        "nomeParlamentar": "Carlos Francisco Portinho",
+        "uf": "RJ",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2020-11-02",
+        "dataDesfiliacao": "2020-12-27"
+    },
+    {
+        "codSenador": "5990",
+        "nomeParlamentar": "Carlos Alberto Dias Viana",
+        "uf": "MG",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2026-04-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5990",
+        "nomeParlamentar": "Carlos Alberto Dias Viana",
+        "uf": "MG",
+        "codigoPartido": "577",
+        "siglaPartido": "PODE",
+        "nomePartido": "Podemos",
+        "dataFiliacao": "2023-02-01",
+        "dataDesfiliacao": "2026-03-31"
+    },
+    {
+        "codSenador": "5990",
+        "nomeParlamentar": "Carlos Alberto Dias Viana",
+        "uf": "MG",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2022-04-01",
+        "dataDesfiliacao": "2023-01-31"
+    },
+    {
+        "codSenador": "5990",
+        "nomeParlamentar": "Carlos Alberto Dias Viana",
+        "uf": "MG",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "2021-12-20",
+        "dataDesfiliacao": "2022-03-31"
+    },
+    {
+        "codSenador": "5990",
+        "nomeParlamentar": "Carlos Alberto Dias Viana",
+        "uf": "MG",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2021-12-19"
+    },
+    {
+        "codSenador": "470",
+        "nomeParlamentar": "Francisco de Assis Rodrigues",
+        "uf": "RR",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2023-01-31",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "470",
+        "nomeParlamentar": "Francisco de Assis Rodrigues",
+        "uf": "RR",
+        "codigoPartido": "582",
+        "siglaPartido": "UNIÃO",
+        "nomePartido": "União Brasil",
+        "dataFiliacao": "2022-04-12",
+        "dataDesfiliacao": "2023-01-30"
+    },
+    {
+        "codSenador": "470",
+        "nomeParlamentar": "Francisco de Assis Rodrigues",
+        "uf": "RR",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2022-04-11"
+    },
+    {
+        "codSenador": "470",
+        "nomeParlamentar": "Francisco de Assis Rodrigues",
+        "uf": "RR",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2007-04-24",
+        "dataDesfiliacao": "2011-01-31"
+    },
+    {
+        "codSenador": "470",
+        "nomeParlamentar": "Francisco de Assis Rodrigues",
+        "uf": "RR",
+        "codigoPartido": "578",
+        "siglaPartido": "AVANTE",
+        "nomePartido": "Avante",
+        "dataFiliacao": "1999-02-03",
+        "dataDesfiliacao": "2007-04-23"
+    },
+    {
+        "codSenador": "470",
+        "nomeParlamentar": "Francisco de Assis Rodrigues",
+        "uf": "RR",
+        "codigoPartido": "72",
+        "siglaPartido": "PTB",
+        "nomePartido": "Partido Trabalhista Brasileiro",
+        "dataFiliacao": "1999-02-01",
+        "dataDesfiliacao": "1999-02-02"
+    },
+    {
+        "codSenador": "5973",
+        "nomeParlamentar": "Cid Ferreira Gomes",
+        "uf": "CE",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2024-02-05",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5973",
+        "nomeParlamentar": "Cid Ferreira Gomes",
+        "uf": "CE",
+        "codigoPartido": "20",
+        "siglaPartido": "PDT",
+        "nomePartido": "Partido Democrático Trabalhista",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2024-02-04"
+    },
+    {
+        "codSenador": "739",
+        "nomeParlamentar": "Ciro Nogueira Lima Filho",
+        "uf": "PI",
+        "codigoPartido": "418",
+        "siglaPartido": "PP",
+        "nomePartido": "Progressistas",
+        "dataFiliacao": "2004-02-14",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "739",
+        "nomeParlamentar": "Ciro Nogueira Lima Filho",
+        "uf": "PI",
+        "codigoPartido": "22",
+        "siglaPartido": "PFL",
+        "nomePartido": "Partido da Frente Liberal",
+        "dataFiliacao": "1999-02-01",
+        "dataDesfiliacao": "2004-02-13"
+    },
+    {
+        "codSenador": "6337",
+        "nomeParlamentar": "Cleiton Gontijo de Azevedo",
+        "uf": "MG",
+        "codigoPartido": "521",
+        "siglaPartido": "REPUBLICANOS",
+        "nomePartido": "Republicanos",
+        "dataFiliacao": "2023-01-31",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "6337",
+        "nomeParlamentar": "Cleiton Gontijo de Azevedo",
+        "uf": "MG",
+        "codigoPartido": "88",
+        "siglaPartido": "PSC",
+        "nomePartido": "Partido Social Cristão",
+        "dataFiliacao": "2022-10-02",
+        "dataDesfiliacao": "2023-01-30"
+    },
+    {
+        "codSenador": "475",
+        "nomeParlamentar": "Confúcio Aires Moura",
+        "uf": "RO",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "1999-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "6335",
+        "nomeParlamentar": "Damares Regina Alves",
+        "uf": "DF",
+        "codigoPartido": "521",
+        "siglaPartido": "REPUBLICANOS",
+        "nomePartido": "Republicanos",
+        "dataFiliacao": "2022-10-02",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5998",
+        "nomeParlamentar": "Daniella Velloso Borges Ribeiro",
+        "uf": "PB",
+        "codigoPartido": "418",
+        "siglaPartido": "PP",
+        "nomePartido": "Progressistas",
+        "dataFiliacao": "2025-04-23",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5998",
+        "nomeParlamentar": "Daniella Velloso Borges Ribeiro",
+        "uf": "PB",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2025-04-03",
+        "dataDesfiliacao": "2025-04-22"
+    },
+    {
+        "codSenador": "5998",
+        "nomeParlamentar": "Daniella Velloso Borges Ribeiro",
+        "uf": "PB",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2022-04-28",
+        "dataDesfiliacao": "2025-04-02"
+    },
+    {
+        "codSenador": "5998",
+        "nomeParlamentar": "Daniella Velloso Borges Ribeiro",
+        "uf": "PB",
+        "codigoPartido": "418",
+        "siglaPartido": "PP",
+        "nomePartido": "Progressistas",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2022-04-27"
+    },
+    {
+        "codSenador": "3830",
+        "nomeParlamentar": "David Samuel Alcolumbre Tobelem",
+        "uf": "AP",
+        "codigoPartido": "582",
+        "siglaPartido": "UNIÃO",
+        "nomePartido": "União Brasil",
+        "dataFiliacao": "2022-04-12",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "3830",
+        "nomeParlamentar": "David Samuel Alcolumbre Tobelem",
+        "uf": "AP",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2007-04-24",
+        "dataDesfiliacao": "2022-04-11"
+    },
+    {
+        "codSenador": "3830",
+        "nomeParlamentar": "David Samuel Alcolumbre Tobelem",
+        "uf": "AP",
+        "codigoPartido": "578",
+        "siglaPartido": "AVANTE",
+        "nomePartido": "Avante",
+        "dataFiliacao": "2005-02-15",
+        "dataDesfiliacao": "2007-04-23"
+    },
+    {
+        "codSenador": "3830",
+        "nomeParlamentar": "David Samuel Alcolumbre Tobelem",
+        "uf": "AP",
+        "codigoPartido": "20",
+        "siglaPartido": "PDT",
+        "nomePartido": "Partido Democrático Trabalhista",
+        "dataFiliacao": "2003-02-01",
+        "dataDesfiliacao": "2005-02-14"
+    },
+    {
+        "codSenador": "5793",
+        "nomeParlamentar": "Hiran Manuel Gonçalves da Silva",
+        "uf": "RR",
+        "codigoPartido": "418",
+        "siglaPartido": "PP",
+        "nomePartido": "Progressistas",
+        "dataFiliacao": "2016-03-18",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5793",
+        "nomeParlamentar": "Hiran Manuel Gonçalves da Silva",
+        "uf": "RR",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2016-03-09",
+        "dataDesfiliacao": "2016-03-17"
+    },
+    {
+        "codSenador": "5793",
+        "nomeParlamentar": "Hiran Manuel Gonçalves da Silva",
+        "uf": "RR",
+        "codigoPartido": "567",
+        "siglaPartido": "PMB",
+        "nomePartido": "Partido da Mulher Brasileira",
+        "dataFiliacao": "2015-11-26",
+        "dataDesfiliacao": "2016-03-08"
+    },
+    {
+        "codSenador": "5793",
+        "nomeParlamentar": "Hiran Manuel Gonçalves da Silva",
+        "uf": "RR",
+        "codigoPartido": "90",
+        "siglaPartido": "PMN",
+        "nomePartido": "Partido da Mobilização Nacional",
+        "dataFiliacao": "2015-02-01",
+        "dataDesfiliacao": "2015-11-25"
+    },
+    {
+        "codSenador": "5906",
+        "nomeParlamentar": "Eudocia Maria Holanda de Araujo Caldas",
+        "uf": "AL",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2026-03-31",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5906",
+        "nomeParlamentar": "Eudocia Maria Holanda de Araujo Caldas",
+        "uf": "AL",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2024-12-29",
+        "dataDesfiliacao": "2026-03-30"
+    },
+    {
+        "codSenador": "5906",
+        "nomeParlamentar": "Eudocia Maria Holanda de Araujo Caldas",
+        "uf": "AL",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2022-05-24",
+        "dataDesfiliacao": "2024-12-28"
+    },
+    {
+        "codSenador": "4994",
+        "nomeParlamentar": "Carlos Eduardo de Souza Braga",
+        "uf": "AM",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "2011-01-28",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "3777",
+        "nomeParlamentar": "Carlos Eduardo Torres Gomes",
+        "uf": "TO",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2022-04-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "3777",
+        "nomeParlamentar": "Carlos Eduardo Torres Gomes",
+        "uf": "TO",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "2019-01-30",
+        "dataDesfiliacao": "2022-03-31"
+    },
+    {
+        "codSenador": "3777",
+        "nomeParlamentar": "Carlos Eduardo Torres Gomes",
+        "uf": "TO",
+        "codigoPartido": "561",
+        "siglaPartido": "SOLIDARIEDADE",
+        "nomePartido": "Solidariedade",
+        "dataFiliacao": "2013-10-05",
+        "dataDesfiliacao": "2019-01-29"
+    },
+    {
+        "codSenador": "3777",
+        "nomeParlamentar": "Carlos Eduardo Torres Gomes",
+        "uf": "TO",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2003-02-01",
+        "dataDesfiliacao": "2013-10-04"
+    },
+    {
+        "codSenador": "4642",
+        "nomeParlamentar": "Efraim de Araújo Morais Filho",
+        "uf": "PB",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2026-03-30",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "4642",
+        "nomeParlamentar": "Efraim de Araújo Morais Filho",
+        "uf": "PB",
+        "codigoPartido": "582",
+        "siglaPartido": "UNIÃO",
+        "nomePartido": "União Brasil",
+        "dataFiliacao": "2022-02-23",
+        "dataDesfiliacao": "2026-03-29"
+    },
+    {
+        "codSenador": "4642",
+        "nomeParlamentar": "Efraim de Araújo Morais Filho",
+        "uf": "PB",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2007-08-03",
+        "dataDesfiliacao": "2022-02-23"
+    },
+    {
+        "codSenador": "4642",
+        "nomeParlamentar": "Efraim de Araújo Morais Filho",
+        "uf": "PB",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2007-04-24",
+        "dataDesfiliacao": "2007-08-02"
+    },
+    {
+        "codSenador": "4642",
+        "nomeParlamentar": "Efraim de Araújo Morais Filho",
+        "uf": "PB",
+        "codigoPartido": "22",
+        "siglaPartido": "PFL",
+        "nomePartido": "Partido da Frente Liberal",
+        "dataFiliacao": "2007-02-01",
+        "dataDesfiliacao": "2007-04-23"
+    },
+    {
+        "codSenador": "5718",
+        "nomeParlamentar": "Eliziane Pereira Gama Melo",
+        "uf": "MA",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2023-01-31",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5718",
+        "nomeParlamentar": "Eliziane Pereira Gama Melo",
+        "uf": "MA",
+        "codigoPartido": "41",
+        "siglaPartido": "CIDADANIA",
+        "nomePartido": "CIDADANIA",
+        "dataFiliacao": "2016-04-04",
+        "dataDesfiliacao": "2023-01-30"
+    },
+    {
+        "codSenador": "5718",
+        "nomeParlamentar": "Eliziane Pereira Gama Melo",
+        "uf": "MA",
+        "codigoPartido": "565",
+        "siglaPartido": "REDE",
+        "nomePartido": "Rede Sustentabilidade",
+        "dataFiliacao": "2015-10-05",
+        "dataDesfiliacao": "2016-04-03"
+    },
+    {
+        "codSenador": "5718",
+        "nomeParlamentar": "Eliziane Pereira Gama Melo",
+        "uf": "MA",
+        "codigoPartido": "41",
+        "siglaPartido": "CIDADANIA",
+        "nomePartido": "CIDADANIA",
+        "dataFiliacao": "2015-02-01",
+        "dataDesfiliacao": "2015-10-04"
+    },
+    {
+        "codSenador": "22",
+        "nomeParlamentar": "Esperidião Amin Helou Filho",
+        "uf": "SC",
+        "codigoPartido": "418",
+        "siglaPartido": "PP",
+        "nomePartido": "Progressistas",
+        "dataFiliacao": "2011-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "22",
+        "nomeParlamentar": "Esperidião Amin Helou Filho",
+        "uf": "SC",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "1999-01-01",
+        "dataDesfiliacao": "2011-01-31"
+    },
+    {
+        "codSenador": "22",
+        "nomeParlamentar": "Esperidião Amin Helou Filho",
+        "uf": "SC",
+        "codigoPartido": "39",
+        "siglaPartido": "PPB",
+        "nomePartido": "Partido Progressista Brasileiro",
+        "dataFiliacao": "1995-10-25",
+        "dataDesfiliacao": "1998-12-31"
+    },
+    {
+        "codSenador": "22",
+        "nomeParlamentar": "Esperidião Amin Helou Filho",
+        "uf": "SC",
+        "codigoPartido": "40",
+        "siglaPartido": "PPR",
+        "nomePartido": "Partido Progressista Reformador",
+        "dataFiliacao": "1993-06-16",
+        "dataDesfiliacao": "1995-10-24"
+    },
+    {
+        "codSenador": "22",
+        "nomeParlamentar": "Esperidião Amin Helou Filho",
+        "uf": "SC",
+        "codigoPartido": "96",
+        "siglaPartido": "PDS",
+        "nomePartido": "Partido Democrático Social",
+        "dataFiliacao": "1991-02-01",
+        "dataDesfiliacao": "1993-06-15"
+    },
+    {
+        "codSenador": "5953",
+        "nomeParlamentar": "Fabiano Contarato",
+        "uf": "ES",
+        "codigoPartido": "71",
+        "siglaPartido": "PT",
+        "nomePartido": "Partido dos Trabalhadores",
+        "dataFiliacao": "2021-12-14",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5953",
+        "nomeParlamentar": "Fabiano Contarato",
+        "uf": "ES",
+        "codigoPartido": "565",
+        "siglaPartido": "REDE",
+        "nomePartido": "Rede Sustentabilidade",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2021-12-13"
+    },
+    {
+        "codSenador": "5917",
+        "nomeParlamentar": "Fernando Antonio Caminha Dueire",
+        "uf": "PE",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2026-04-02",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5917",
+        "nomeParlamentar": "Fernando Antonio Caminha Dueire",
+        "uf": "PE",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "2018-10-07",
+        "dataDesfiliacao": "2026-04-01"
+    },
+    {
+        "codSenador": "345",
+        "nomeParlamentar": "Flávio José Arns",
+        "uf": "PR",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2023-01-31",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "345",
+        "nomeParlamentar": "Flávio José Arns",
+        "uf": "PR",
+        "codigoPartido": "577",
+        "siglaPartido": "PODE",
+        "nomePartido": "Podemos",
+        "dataFiliacao": "2020-08-31",
+        "dataDesfiliacao": "2023-01-30"
+    },
+    {
+        "codSenador": "345",
+        "nomeParlamentar": "Flávio José Arns",
+        "uf": "PR",
+        "codigoPartido": "565",
+        "siglaPartido": "REDE",
+        "nomePartido": "Rede Sustentabilidade",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2020-08-29"
+    },
+    {
+        "codSenador": "345",
+        "nomeParlamentar": "Flávio José Arns",
+        "uf": "PR",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2009-10-08",
+        "dataDesfiliacao": "2018-12-31"
+    },
+    {
+        "codSenador": "345",
+        "nomeParlamentar": "Flávio José Arns",
+        "uf": "PR",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2009-09-11",
+        "dataDesfiliacao": "2009-10-07"
+    },
+    {
+        "codSenador": "345",
+        "nomeParlamentar": "Flávio José Arns",
+        "uf": "PR",
+        "codigoPartido": "71",
+        "siglaPartido": "PT",
+        "nomePartido": "Partido dos Trabalhadores",
+        "dataFiliacao": "2003-02-01",
+        "dataDesfiliacao": "2009-09-10"
+    },
+    {
+        "codSenador": "345",
+        "nomeParlamentar": "Flávio José Arns",
+        "uf": "PR",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2001-10-06",
+        "dataDesfiliacao": "2003-01-31"
+    },
+    {
+        "codSenador": "345",
+        "nomeParlamentar": "Flávio José Arns",
+        "uf": "PR",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "1999-02-01",
+        "dataDesfiliacao": "2001-10-05"
+    },
+    {
+        "codSenador": "5894",
+        "nomeParlamentar": "Flávio Nantes Bolsonaro",
+        "uf": "RJ",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2021-11-30",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5894",
+        "nomeParlamentar": "Flávio Nantes Bolsonaro",
+        "uf": "RJ",
+        "codigoPartido": "579",
+        "siglaPartido": "PATRIOTA",
+        "nomePartido": "Patriota",
+        "dataFiliacao": "2021-05-31",
+        "dataDesfiliacao": "2021-11-29"
+    },
+    {
+        "codSenador": "5894",
+        "nomeParlamentar": "Flávio Nantes Bolsonaro",
+        "uf": "RJ",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2019-11-20",
+        "dataDesfiliacao": "2021-05-30"
+    },
+    {
+        "codSenador": "5894",
+        "nomeParlamentar": "Flávio Nantes Bolsonaro",
+        "uf": "RJ",
+        "codigoPartido": "85",
+        "siglaPartido": "PSL",
+        "nomePartido": "Partido Social Liberal",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2019-11-19"
+    },
+    {
+        "codSenador": "6008",
+        "nomeParlamentar": "Alexandre Luiz Giordano",
+        "uf": "SP",
+        "codigoPartido": "577",
+        "siglaPartido": "PODE",
+        "nomePartido": "Podemos",
+        "dataFiliacao": "2026-03-10",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "6008",
+        "nomeParlamentar": "Alexandre Luiz Giordano",
+        "uf": "SP",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2025-12-16",
+        "dataDesfiliacao": "2026-03-09"
+    },
+    {
+        "codSenador": "6008",
+        "nomeParlamentar": "Alexandre Luiz Giordano",
+        "uf": "SP",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "2021-08-16",
+        "dataDesfiliacao": "2025-12-15"
+    },
+    {
+        "codSenador": "6008",
+        "nomeParlamentar": "Alexandre Luiz Giordano",
+        "uf": "SP",
+        "codigoPartido": "85",
+        "siglaPartido": "PSL",
+        "nomePartido": "Partido Social Liberal",
+        "dataFiliacao": "2021-03-26",
+        "dataDesfiliacao": "2021-08-16"
+    },
+    {
+        "codSenador": "6341",
+        "nomeParlamentar": "Antonio Hamilton Martins Mourão",
+        "uf": "RS",
+        "codigoPartido": "521",
+        "siglaPartido": "REPUBLICANOS",
+        "nomePartido": "Republicanos",
+        "dataFiliacao": "2022-10-02",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5008",
+        "nomeParlamentar": "Humberto Sérgio Costa Lima",
+        "uf": "PE",
+        "codigoPartido": "71",
+        "siglaPartido": "PT",
+        "nomePartido": "Partido dos Trabalhadores",
+        "dataFiliacao": "2011-01-27",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5385",
+        "nomeParlamentar": "Irajá Silvestre Filho",
+        "uf": "TO",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2011-10-26",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5385",
+        "nomeParlamentar": "Irajá Silvestre Filho",
+        "uf": "TO",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2011-02-01",
+        "dataDesfiliacao": "2011-10-25"
+    },
+    {
+        "codSenador": "6010",
+        "nomeParlamentar": "Ivete Marli Appel da Silveira",
+        "uf": "SC",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "1980-09-24",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "4770",
+        "nomeParlamentar": "Izalci Lucas Ferreira",
+        "uf": "DF",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2024-03-27",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "4770",
+        "nomeParlamentar": "Izalci Lucas Ferreira",
+        "uf": "DF",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2012-10-16",
+        "dataDesfiliacao": "2024-03-26"
+    },
+    {
+        "codSenador": "4770",
+        "nomeParlamentar": "Izalci Lucas Ferreira",
+        "uf": "DF",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2011-02-01",
+        "dataDesfiliacao": "2012-10-15"
+    },
+    {
+        "codSenador": "4770",
+        "nomeParlamentar": "Izalci Lucas Ferreira",
+        "uf": "DF",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2008-04-29",
+        "dataDesfiliacao": "2011-01-31"
+    },
+    {
+        "codSenador": "4770",
+        "nomeParlamentar": "Izalci Lucas Ferreira",
+        "uf": "DF",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2007-04-24",
+        "dataDesfiliacao": "2008-04-28"
+    },
+    {
+        "codSenador": "4770",
+        "nomeParlamentar": "Izalci Lucas Ferreira",
+        "uf": "DF",
+        "codigoPartido": "22",
+        "siglaPartido": "PFL",
+        "nomePartido": "Partido da Frente Liberal",
+        "dataFiliacao": "2007-03-01",
+        "dataDesfiliacao": "2007-04-23"
+    },
+    {
+        "codSenador": "35",
+        "nomeParlamentar": "Jader Fontenelle Barbalho",
+        "uf": "PA",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "1995-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "6340",
+        "nomeParlamentar": "Jaime Maximino Bagattoli",
+        "uf": "RO",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2022-10-02",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "581",
+        "nomeParlamentar": "Jaques Wagner",
+        "uf": "BA",
+        "codigoPartido": "71",
+        "siglaPartido": "PT",
+        "nomePartido": "Partido dos Trabalhadores",
+        "dataFiliacao": "1999-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "4531",
+        "nomeParlamentar": "Jayme Veríssimo de Campos",
+        "uf": "MT",
+        "codigoPartido": "582",
+        "siglaPartido": "UNIÃO",
+        "nomePartido": "União Brasil",
+        "dataFiliacao": "2022-04-12",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "4531",
+        "nomeParlamentar": "Jayme Veríssimo de Campos",
+        "uf": "MT",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2007-08-02",
+        "dataDesfiliacao": "2022-04-11"
+    },
+    {
+        "codSenador": "4531",
+        "nomeParlamentar": "Jayme Veríssimo de Campos",
+        "uf": "MT",
+        "codigoPartido": "578",
+        "siglaPartido": "AVANTE",
+        "nomePartido": "Avante",
+        "dataFiliacao": "2007-02-01",
+        "dataDesfiliacao": "2007-08-01"
+    },
+    {
+        "codSenador": "5895",
+        "nomeParlamentar": "Jorge Kajuru Reis da Costa Nasser",
+        "uf": "GO",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2023-01-19",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5895",
+        "nomeParlamentar": "Jorge Kajuru Reis da Costa Nasser",
+        "uf": "GO",
+        "codigoPartido": "577",
+        "siglaPartido": "PODE",
+        "nomePartido": "Podemos",
+        "dataFiliacao": "2021-04-15",
+        "dataDesfiliacao": "2023-01-18"
+    },
+    {
+        "codSenador": "5895",
+        "nomeParlamentar": "Jorge Kajuru Reis da Costa Nasser",
+        "uf": "GO",
+        "codigoPartido": "41",
+        "siglaPartido": "CIDADANIA",
+        "nomePartido": "CIDADANIA",
+        "dataFiliacao": "2019-09-17",
+        "dataDesfiliacao": "2021-04-14"
+    },
+    {
+        "codSenador": "5895",
+        "nomeParlamentar": "Jorge Kajuru Reis da Costa Nasser",
+        "uf": "GO",
+        "codigoPartido": "579",
+        "siglaPartido": "PATRIOTA",
+        "nomePartido": "Patriota",
+        "dataFiliacao": "2019-08-09",
+        "dataDesfiliacao": "2019-09-16"
+    },
+    {
+        "codSenador": "5895",
+        "nomeParlamentar": "Jorge Kajuru Reis da Costa Nasser",
+        "uf": "GO",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2019-08-08"
+    },
+    {
+        "codSenador": "6342",
+        "nomeParlamentar": "Jorge Seif Júnior",
+        "uf": "SC",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2022-10-02",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "6369",
+        "nomeParlamentar": "Antônia Jussara Gomes Alves Sousa Lima",
+        "uf": "PI",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2023-02-02",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "4811",
+        "nomeParlamentar": "Laércio José de Oliveira",
+        "uf": "SE",
+        "codigoPartido": "418",
+        "siglaPartido": "PP",
+        "nomePartido": "Progressistas",
+        "dataFiliacao": "2018-04-10",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "4811",
+        "nomeParlamentar": "Laércio José de Oliveira",
+        "uf": "SE",
+        "codigoPartido": "561",
+        "siglaPartido": "SOLIDARIEDADE",
+        "nomePartido": "Solidariedade",
+        "dataFiliacao": "2013-10-02",
+        "dataDesfiliacao": "2018-04-09"
+    },
+    {
+        "codSenador": "4811",
+        "nomeParlamentar": "Laércio José de Oliveira",
+        "uf": "SE",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2011-02-01",
+        "dataDesfiliacao": "2013-10-01"
+    },
+    {
+        "codSenador": "4811",
+        "nomeParlamentar": "Laércio José de Oliveira",
+        "uf": "SE",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2008-08-12",
+        "dataDesfiliacao": "2011-01-31"
+    },
+    {
+        "codSenador": "5979",
+        "nomeParlamentar": "Leila Gomes de Barros Rêgo",
+        "uf": "DF",
+        "codigoPartido": "20",
+        "siglaPartido": "PDT",
+        "nomePartido": "Partido Democrático Trabalhista",
+        "dataFiliacao": "2022-03-30",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5979",
+        "nomeParlamentar": "Leila Gomes de Barros Rêgo",
+        "uf": "DF",
+        "codigoPartido": "41",
+        "siglaPartido": "CIDADANIA",
+        "nomePartido": "CIDADANIA",
+        "dataFiliacao": "2021-08-12",
+        "dataDesfiliacao": "2022-03-29"
+    },
+    {
+        "codSenador": "5979",
+        "nomeParlamentar": "Leila Gomes de Barros Rêgo",
+        "uf": "DF",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2021-08-05",
+        "dataDesfiliacao": "2021-08-11"
+    },
+    {
+        "codSenador": "5979",
+        "nomeParlamentar": "Leila Gomes de Barros Rêgo",
+        "uf": "DF",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2018-12-31",
+        "dataDesfiliacao": "2021-08-04"
+    },
+    {
+        "codSenador": "6359",
+        "nomeParlamentar": "Maria de Lourdes Pereira e Pereira",
+        "uf": "MA",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2026-08-05",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5926",
+        "nomeParlamentar": "Luiz Cantuária Barreto",
+        "uf": "AP",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "1186",
+        "nomeParlamentar": "Luis Carlos Heinze",
+        "uf": "RS",
+        "codigoPartido": "418",
+        "siglaPartido": "PP",
+        "nomePartido": "Progressistas",
+        "dataFiliacao": "2003-06-02",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "1186",
+        "nomeParlamentar": "Luis Carlos Heinze",
+        "uf": "RS",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2003-04-03",
+        "dataDesfiliacao": "2003-06-01"
+    },
+    {
+        "codSenador": "631",
+        "nomeParlamentar": "Magno Pereira Malta",
+        "uf": "ES",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2007-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "631",
+        "nomeParlamentar": "Magno Pereira Malta",
+        "uf": "ES",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2006-12-20",
+        "dataDesfiliacao": "2007-01-31"
+    },
+    {
+        "codSenador": "631",
+        "nomeParlamentar": "Magno Pereira Malta",
+        "uf": "ES",
+        "codigoPartido": "25",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2003-02-01",
+        "dataDesfiliacao": "2006-12-19"
+    },
+    {
+        "codSenador": "631",
+        "nomeParlamentar": "Magno Pereira Malta",
+        "uf": "ES",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2001-03-22",
+        "dataDesfiliacao": "2003-01-31"
+    },
+    {
+        "codSenador": "631",
+        "nomeParlamentar": "Magno Pereira Malta",
+        "uf": "ES",
+        "codigoPartido": "72",
+        "siglaPartido": "PTB",
+        "nomePartido": "Partido Trabalhista Brasileiro",
+        "dataFiliacao": "1999-02-01",
+        "dataDesfiliacao": "2001-03-21"
+    },
+    {
+        "codSenador": "5376",
+        "nomeParlamentar": "Mara Cristina Gabrilli",
+        "uf": "SP",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2023-01-28",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5376",
+        "nomeParlamentar": "Mara Cristina Gabrilli",
+        "uf": "SP",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2011-02-01",
+        "dataDesfiliacao": "2023-01-27"
+    },
+    {
+        "codSenador": "742",
+        "nomeParlamentar": "Marcelo Costa e Castro",
+        "uf": "PI",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "2018-05-21",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "742",
+        "nomeParlamentar": "Marcelo Costa e Castro",
+        "uf": "PI",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "1999-02-01",
+        "dataDesfiliacao": "2018-05-20"
+    },
+    {
+        "codSenador": "285",
+        "nomeParlamentar": "Marcio Miguel Bittar",
+        "uf": "AC",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2025-08-22",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "285",
+        "nomeParlamentar": "Marcio Miguel Bittar",
+        "uf": "AC",
+        "codigoPartido": "582",
+        "siglaPartido": "UNIÃO",
+        "nomePartido": "União Brasil",
+        "dataFiliacao": "2022-04-12",
+        "dataDesfiliacao": "2025-08-21"
+    },
+    {
+        "codSenador": "285",
+        "nomeParlamentar": "Marcio Miguel Bittar",
+        "uf": "AC",
+        "codigoPartido": "85",
+        "siglaPartido": "PSL",
+        "nomePartido": "Partido Social Liberal",
+        "dataFiliacao": "2021-09-30",
+        "dataDesfiliacao": "2022-04-11"
+    },
+    {
+        "codSenador": "285",
+        "nomeParlamentar": "Marcio Miguel Bittar",
+        "uf": "AC",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2021-09-29"
+    },
+    {
+        "codSenador": "285",
+        "nomeParlamentar": "Marcio Miguel Bittar",
+        "uf": "AC",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2011-02-01",
+        "dataDesfiliacao": "2018-12-30"
+    },
+    {
+        "codSenador": "285",
+        "nomeParlamentar": "Marcio Miguel Bittar",
+        "uf": "AC",
+        "codigoPartido": "41",
+        "siglaPartido": "CIDADANIA",
+        "nomePartido": "CIDADANIA",
+        "dataFiliacao": "1999-03-19",
+        "dataDesfiliacao": "2011-01-31"
+    },
+    {
+        "codSenador": "285",
+        "nomeParlamentar": "Marcio Miguel Bittar",
+        "uf": "AC",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "1999-02-01",
+        "dataDesfiliacao": "1999-03-18"
+    },
+    {
+        "codSenador": "5422",
+        "nomeParlamentar": "Marcos Rogério da Silva Brito",
+        "uf": "RO",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2022-01-26",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5422",
+        "nomeParlamentar": "Marcos Rogério da Silva Brito",
+        "uf": "RO",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2016-03-17",
+        "dataDesfiliacao": "2022-01-25"
+    },
+    {
+        "codSenador": "5422",
+        "nomeParlamentar": "Marcos Rogério da Silva Brito",
+        "uf": "RO",
+        "codigoPartido": "20",
+        "siglaPartido": "PDT",
+        "nomePartido": "Partido Democrático Trabalhista",
+        "dataFiliacao": "2011-11-17",
+        "dataDesfiliacao": "2016-03-16"
+    },
+    {
+        "codSenador": "5942",
+        "nomeParlamentar": "Marcos Ribeiro do Val",
+        "uf": "ES",
+        "codigoPartido": "578",
+        "siglaPartido": "AVANTE",
+        "nomePartido": "Avante",
+        "dataFiliacao": "2026-03-31",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5942",
+        "nomeParlamentar": "Marcos Ribeiro do Val",
+        "uf": "ES",
+        "codigoPartido": "577",
+        "siglaPartido": "PODE",
+        "nomePartido": "Podemos",
+        "dataFiliacao": "2023-09-22",
+        "dataDesfiliacao": "2026-03-30"
+    },
+    {
+        "codSenador": "5942",
+        "nomeParlamentar": "Marcos Ribeiro do Val",
+        "uf": "ES",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2023-09-21",
+        "dataDesfiliacao": "2023-09-21"
+    },
+    {
+        "codSenador": "5942",
+        "nomeParlamentar": "Marcos Ribeiro do Val",
+        "uf": "ES",
+        "codigoPartido": "577",
+        "siglaPartido": "PODE",
+        "nomePartido": "Podemos",
+        "dataFiliacao": "2019-08-13",
+        "dataDesfiliacao": "2023-09-20"
+    },
+    {
+        "codSenador": "5942",
+        "nomeParlamentar": "Marcos Ribeiro do Val",
+        "uf": "ES",
+        "codigoPartido": "41",
+        "siglaPartido": "CIDADANIA",
+        "nomePartido": "CIDADANIA",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2019-08-01"
+    },
+    {
+        "codSenador": "5985",
+        "nomeParlamentar": "Nelson Trad Filho",
+        "uf": "MS",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5525",
+        "nomeParlamentar": "Omar José Abdel Aziz",
+        "uf": "AM",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2015-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5924",
+        "nomeParlamentar": "Oriovisto Guimaraes",
+        "uf": "PR",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2025-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5924",
+        "nomeParlamentar": "Oriovisto Guimaraes",
+        "uf": "PR",
+        "codigoPartido": "577",
+        "siglaPartido": "PODE",
+        "nomePartido": "Podemos",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2025-01-31"
+    },
+    {
+        "codSenador": "5523",
+        "nomeParlamentar": "Otto Roberto Mendonça de Alencar",
+        "uf": "BA",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2015-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "825",
+        "nomeParlamentar": "Paulo Renato Paim",
+        "uf": "RS",
+        "codigoPartido": "71",
+        "siglaPartido": "PT",
+        "nomePartido": "Partido dos Trabalhadores",
+        "dataFiliacao": "1999-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5502",
+        "nomeParlamentar": "Francisco Plínio Valério Tomaz",
+        "uf": "AM",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2013-03-07",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5502",
+        "nomeParlamentar": "Francisco Plínio Valério Tomaz",
+        "uf": "AM",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2013-03-06",
+        "dataDesfiliacao": "2013-03-06"
+    },
+    {
+        "codSenador": "5386",
+        "nomeParlamentar": "Maria Auxiliadora Seabra Rezende",
+        "uf": "TO",
+        "codigoPartido": "582",
+        "siglaPartido": "UNIÃO",
+        "nomePartido": "União Brasil",
+        "dataFiliacao": "2022-02-23",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5386",
+        "nomeParlamentar": "Maria Auxiliadora Seabra Rezende",
+        "uf": "TO",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2011-02-01",
+        "dataDesfiliacao": "2022-02-23"
+    },
+    {
+        "codSenador": "5012",
+        "nomeParlamentar": "Randolph Frederich Rodrigues Alves",
+        "uf": "AP",
+        "codigoPartido": "71",
+        "siglaPartido": "PT",
+        "nomePartido": "Partido dos Trabalhadores",
+        "dataFiliacao": "2024-07-18",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5012",
+        "nomeParlamentar": "Randolph Frederich Rodrigues Alves",
+        "uf": "AP",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2024-01-24",
+        "dataDesfiliacao": "2024-07-17"
+    },
+    {
+        "codSenador": "5012",
+        "nomeParlamentar": "Randolph Frederich Rodrigues Alves",
+        "uf": "AP",
+        "codigoPartido": "565",
+        "siglaPartido": "REDE",
+        "nomePartido": "Rede Sustentabilidade",
+        "dataFiliacao": "2015-09-29",
+        "dataDesfiliacao": "2024-01-23"
+    },
+    {
+        "codSenador": "5012",
+        "nomeParlamentar": "Randolph Frederich Rodrigues Alves",
+        "uf": "AP",
+        "codigoPartido": "458",
+        "siglaPartido": "PSOL",
+        "nomePartido": "Partido Socialismo e Liberdade",
+        "dataFiliacao": "2011-01-28",
+        "dataDesfiliacao": "2015-09-28"
+    },
+    {
+        "codSenador": "70",
+        "nomeParlamentar": "José Renan Vasconcelos Calheiros",
+        "uf": "AL",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "1995-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5207",
+        "nomeParlamentar": "José Renan Vasconcelos Calheiros Filho",
+        "uf": "AL",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "2011-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5257",
+        "nomeParlamentar": "Renzo do Amaral Braz",
+        "uf": "MG",
+        "codigoPartido": "418",
+        "siglaPartido": "PP",
+        "nomePartido": "Progressistas",
+        "dataFiliacao": "2011-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "6025",
+        "nomeParlamentar": "Roberta Leontina Xisto Acioly",
+        "uf": "RR",
+        "codigoPartido": "521",
+        "siglaPartido": "REPUBLICANOS",
+        "nomePartido": "Republicanos",
+        "dataFiliacao": "2026-03-11",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "4694",
+        "nomeParlamentar": "Rogério Simonetti Marinho",
+        "uf": "RN",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2021-11-30",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "4694",
+        "nomeParlamentar": "Rogério Simonetti Marinho",
+        "uf": "RN",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2011-02-08",
+        "dataDesfiliacao": "2021-11-29"
+    },
+    {
+        "codSenador": "4694",
+        "nomeParlamentar": "Rogério Simonetti Marinho",
+        "uf": "RN",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2011-02-01",
+        "dataDesfiliacao": "2011-02-07"
+    },
+    {
+        "codSenador": "4694",
+        "nomeParlamentar": "Rogério Simonetti Marinho",
+        "uf": "RN",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2009-05-14",
+        "dataDesfiliacao": "2011-01-31"
+    },
+    {
+        "codSenador": "4694",
+        "nomeParlamentar": "Rogério Simonetti Marinho",
+        "uf": "RN",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2007-02-01",
+        "dataDesfiliacao": "2009-05-13"
+    },
+    {
+        "codSenador": "5352",
+        "nomeParlamentar": "Rogério Carvalho Santos",
+        "uf": "SE",
+        "codigoPartido": "71",
+        "siglaPartido": "PT",
+        "nomePartido": "Partido dos Trabalhadores",
+        "dataFiliacao": "2011-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5322",
+        "nomeParlamentar": "Romario de Souza Faria",
+        "uf": "RJ",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2026-09-10",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5322",
+        "nomeParlamentar": "Romario de Souza Faria",
+        "uf": "RJ",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2021-04-08",
+        "dataDesfiliacao": "2026-09-09"
+    },
+    {
+        "codSenador": "5322",
+        "nomeParlamentar": "Romario de Souza Faria",
+        "uf": "RJ",
+        "codigoPartido": "577",
+        "siglaPartido": "PODE",
+        "nomePartido": "Podemos",
+        "dataFiliacao": "2017-07-04",
+        "dataDesfiliacao": "2021-04-07"
+    },
+    {
+        "codSenador": "5322",
+        "nomeParlamentar": "Romario de Souza Faria",
+        "uf": "RJ",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2013-10-02",
+        "dataDesfiliacao": "2017-07-03"
+    },
+    {
+        "codSenador": "5322",
+        "nomeParlamentar": "Romario de Souza Faria",
+        "uf": "RJ",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2013-08-20",
+        "dataDesfiliacao": "2013-10-01"
+    },
+    {
+        "codSenador": "5322",
+        "nomeParlamentar": "Romario de Souza Faria",
+        "uf": "RJ",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2011-02-01",
+        "dataDesfiliacao": "2013-08-19"
+    },
+    {
+        "codSenador": "5974",
+        "nomeParlamentar": "Reginauro Sousa Nascimento",
+        "uf": "CE",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2026-08-10",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "6331",
+        "nomeParlamentar": "Sergio Fernando Moro",
+        "uf": "PR",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2026-03-24",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "6331",
+        "nomeParlamentar": "Sergio Fernando Moro",
+        "uf": "PR",
+        "codigoPartido": "582",
+        "siglaPartido": "UNIÃO",
+        "nomePartido": "União Brasil",
+        "dataFiliacao": "2022-10-02",
+        "dataDesfiliacao": "2026-03-23"
+    },
+    {
+        "codSenador": "5988",
+        "nomeParlamentar": "Soraya Vieira Thronicke",
+        "uf": "MS",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2026-04-03",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5988",
+        "nomeParlamentar": "Soraya Vieira Thronicke",
+        "uf": "MS",
+        "codigoPartido": "577",
+        "siglaPartido": "PODE",
+        "nomePartido": "Podemos",
+        "dataFiliacao": "2023-06-30",
+        "dataDesfiliacao": "2026-04-02"
+    },
+    {
+        "codSenador": "5988",
+        "nomeParlamentar": "Soraya Vieira Thronicke",
+        "uf": "MS",
+        "codigoPartido": "582",
+        "siglaPartido": "UNIÃO",
+        "nomePartido": "União Brasil",
+        "dataFiliacao": "2022-04-12",
+        "dataDesfiliacao": "2023-06-29"
+    },
+    {
+        "codSenador": "5988",
+        "nomeParlamentar": "Soraya Vieira Thronicke",
+        "uf": "MS",
+        "codigoPartido": "85",
+        "siglaPartido": "PSL",
+        "nomePartido": "Partido Social Liberal",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2022-04-11"
+    },
+    {
+        "codSenador": "5959",
+        "nomeParlamentar": "Eann Styvenson Valentim Mendes",
+        "uf": "RN",
+        "codigoPartido": "577",
+        "siglaPartido": "PODE",
+        "nomePartido": "Podemos",
+        "dataFiliacao": "2026-03-31",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5959",
+        "nomeParlamentar": "Eann Styvenson Valentim Mendes",
+        "uf": "RN",
+        "codigoPartido": "66",
+        "siglaPartido": "PSDB",
+        "nomePartido": "Partido da Social Democracia Brasileira",
+        "dataFiliacao": "2025-02-01",
+        "dataDesfiliacao": "2026-03-30"
+    },
+    {
+        "codSenador": "5959",
+        "nomeParlamentar": "Eann Styvenson Valentim Mendes",
+        "uf": "RN",
+        "codigoPartido": "577",
+        "siglaPartido": "PODE",
+        "nomePartido": "Podemos",
+        "dataFiliacao": "2019-02-02",
+        "dataDesfiliacao": "2025-01-31"
+    },
+    {
+        "codSenador": "5959",
+        "nomeParlamentar": "Eann Styvenson Valentim Mendes",
+        "uf": "RN",
+        "codigoPartido": "565",
+        "siglaPartido": "REDE",
+        "nomePartido": "Rede Sustentabilidade",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2019-02-01"
+    },
+    {
+        "codSenador": "4560",
+        "nomeParlamentar": "Sérgio de Oliveira Cunha",
+        "uf": "AC",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2011-11-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "4560",
+        "nomeParlamentar": "Sérgio de Oliveira Cunha",
+        "uf": "AC",
+        "codigoPartido": "90",
+        "siglaPartido": "PMN",
+        "nomePartido": "Partido da Mobilização Nacional",
+        "dataFiliacao": "2007-02-01",
+        "dataDesfiliacao": "2011-10-31"
+    },
+    {
+        "codSenador": "6338",
+        "nomeParlamentar": "Maria Teresa Leitão de Melo",
+        "uf": "PE",
+        "codigoPartido": "71",
+        "siglaPartido": "PT",
+        "nomePartido": "Partido dos Trabalhadores",
+        "dataFiliacao": "2022-10-02",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5736",
+        "nomeParlamentar": "Tereza Cristina Correa da Costa Dias",
+        "uf": "MS",
+        "codigoPartido": "418",
+        "siglaPartido": "PP",
+        "nomePartido": "Progressistas",
+        "dataFiliacao": "2022-03-31",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5736",
+        "nomeParlamentar": "Tereza Cristina Correa da Costa Dias",
+        "uf": "MS",
+        "codigoPartido": "582",
+        "siglaPartido": "UNIÃO",
+        "nomePartido": "União Brasil",
+        "dataFiliacao": "2022-02-23",
+        "dataDesfiliacao": "2022-03-31"
+    },
+    {
+        "codSenador": "5736",
+        "nomeParlamentar": "Tereza Cristina Correa da Costa Dias",
+        "uf": "MS",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2018-02-06",
+        "dataDesfiliacao": "2022-02-23"
+    },
+    {
+        "codSenador": "5736",
+        "nomeParlamentar": "Tereza Cristina Correa da Costa Dias",
+        "uf": "MS",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2017-11-20",
+        "dataDesfiliacao": "2018-02-05"
+    },
+    {
+        "codSenador": "5736",
+        "nomeParlamentar": "Tereza Cristina Correa da Costa Dias",
+        "uf": "MS",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2015-02-01",
+        "dataDesfiliacao": "2017-11-19"
+    },
+    {
+        "codSenador": "5899",
+        "nomeParlamentar": "Vanderlan Vieira Cardoso",
+        "uf": "GO",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2020-03-04",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5899",
+        "nomeParlamentar": "Vanderlan Vieira Cardoso",
+        "uf": "GO",
+        "codigoPartido": "418",
+        "siglaPartido": "PP",
+        "nomePartido": "Progressistas",
+        "dataFiliacao": "2019-01-01",
+        "dataDesfiliacao": "2020-03-03"
+    },
+    {
+        "codSenador": "5748",
+        "nomeParlamentar": "Veneziano Vital do Rêgo Segundo Neto",
+        "uf": "PB",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "2021-01-12",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5748",
+        "nomeParlamentar": "Veneziano Vital do Rêgo Segundo Neto",
+        "uf": "PB",
+        "codigoPartido": "63",
+        "siglaPartido": "PSB",
+        "nomePartido": "Partido Socialista Brasileiro",
+        "dataFiliacao": "2018-04-16",
+        "dataDesfiliacao": "2021-01-11"
+    },
+    {
+        "codSenador": "5748",
+        "nomeParlamentar": "Veneziano Vital do Rêgo Segundo Neto",
+        "uf": "PB",
+        "codigoPartido": "33",
+        "siglaPartido": "MDB",
+        "nomePartido": "Movimento Democrático Brasileiro",
+        "dataFiliacao": "2015-02-01",
+        "dataDesfiliacao": "2018-04-15"
+    },
+    {
+        "codSenador": "1173",
+        "nomeParlamentar": "Wellington Antonio Fagundes",
+        "uf": "MT",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2011-02-01",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "1173",
+        "nomeParlamentar": "Wellington Antonio Fagundes",
+        "uf": "MT",
+        "codigoPartido": "163",
+        "siglaPartido": "S/Partido",
+        "nomePartido": "Sem Partido",
+        "dataFiliacao": "2006-12-20",
+        "dataDesfiliacao": "2011-01-31"
+    },
+    {
+        "codSenador": "1173",
+        "nomeParlamentar": "Wellington Antonio Fagundes",
+        "uf": "MT",
+        "codigoPartido": "25",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "1999-02-01",
+        "dataDesfiliacao": "2006-12-19"
+    },
+    {
+        "codSenador": "5411",
+        "nomeParlamentar": "Weverton Rocha Marques de Sousa",
+        "uf": "MA",
+        "codigoPartido": "20",
+        "siglaPartido": "PDT",
+        "nomePartido": "Partido Democrático Trabalhista",
+        "dataFiliacao": "2011-10-04",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5070",
+        "nomeParlamentar": "Wilder Pedro de Morais",
+        "uf": "GO",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2022-03-28",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5070",
+        "nomeParlamentar": "Wilder Pedro de Morais",
+        "uf": "GO",
+        "codigoPartido": "88",
+        "siglaPartido": "PSC",
+        "nomePartido": "Partido Social Cristão",
+        "dataFiliacao": "2020-09-14",
+        "dataDesfiliacao": "2022-03-27"
+    },
+    {
+        "codSenador": "5070",
+        "nomeParlamentar": "Wilder Pedro de Morais",
+        "uf": "GO",
+        "codigoPartido": "562",
+        "siglaPartido": "PROS",
+        "nomePartido": "Partido Republicano da Ordem Social",
+        "dataFiliacao": "2019-08-17",
+        "dataDesfiliacao": "2020-09-13"
+    },
+    {
+        "codSenador": "5070",
+        "nomeParlamentar": "Wilder Pedro de Morais",
+        "uf": "GO",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2018-04-05",
+        "dataDesfiliacao": "2019-08-16"
+    },
+    {
+        "codSenador": "5070",
+        "nomeParlamentar": "Wilder Pedro de Morais",
+        "uf": "GO",
+        "codigoPartido": "418",
+        "siglaPartido": "PP",
+        "nomePartido": "Progressistas",
+        "dataFiliacao": "2015-09-15",
+        "dataDesfiliacao": "2018-04-04"
+    },
+    {
+        "codSenador": "5070",
+        "nomeParlamentar": "Wilder Pedro de Morais",
+        "uf": "GO",
+        "codigoPartido": "554",
+        "siglaPartido": "DEM",
+        "nomePartido": "Democratas",
+        "dataFiliacao": "2011-02-03",
+        "dataDesfiliacao": "2015-09-14"
+    },
+    {
+        "codSenador": "5783",
+        "nomeParlamentar": "Zenaide Maia Calado Pereira dos Santos",
+        "uf": "RN",
+        "codigoPartido": "557",
+        "siglaPartido": "PSD",
+        "nomePartido": "Partido Social Democrático",
+        "dataFiliacao": "2022-12-20",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "5783",
+        "nomeParlamentar": "Zenaide Maia Calado Pereira dos Santos",
+        "uf": "RN",
+        "codigoPartido": "562",
+        "siglaPartido": "PROS",
+        "nomePartido": "Partido Republicano da Ordem Social",
+        "dataFiliacao": "2019-02-01",
+        "dataDesfiliacao": "2022-12-19"
+    },
+    {
+        "codSenador": "5783",
+        "nomeParlamentar": "Zenaide Maia Calado Pereira dos Santos",
+        "uf": "RN",
+        "codigoPartido": "149",
+        "siglaPartido": "PHS",
+        "nomePartido": "Partido Humanista da Solidariedade",
+        "dataFiliacao": "2018-04-02",
+        "dataDesfiliacao": "2019-01-31"
+    },
+    {
+        "codSenador": "5783",
+        "nomeParlamentar": "Zenaide Maia Calado Pereira dos Santos",
+        "uf": "RN",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2015-02-01",
+        "dataDesfiliacao": "2018-04-01"
+    },
+    {
+        "codSenador": "3806",
+        "nomeParlamentar": "José da Cruz Marinho",
+        "uf": "PA",
+        "codigoPartido": "577",
+        "siglaPartido": "PODE",
+        "nomePartido": "Podemos",
+        "dataFiliacao": "2023-05-31",
+        "dataDesfiliacao": ""
+    },
+    {
+        "codSenador": "3806",
+        "nomeParlamentar": "José da Cruz Marinho",
+        "uf": "PA",
+        "codigoPartido": "523",
+        "siglaPartido": "PL",
+        "nomePartido": "Partido Liberal",
+        "dataFiliacao": "2022-03-08",
+        "dataDesfiliacao": "2023-05-30"
+    },
+    {
+        "codSenador": "3806",
+        "nomeParlamentar": "José da Cruz Marinho",
+        "uf": "PA",
+        "codigoPartido": "88",
+        "siglaPartido": "PSC",
+        "nomePartido": "Partido Social Cristão",
+        "dataFiliacao": "2003-09-10",
+        "dataDesfiliacao": "2022-03-07"
+    },
+    {
+        "codSenador": "3806",
+        "nomeParlamentar": "José da Cruz Marinho",
+        "uf": "PA",
+        "codigoPartido": "20",
+        "siglaPartido": "PDT",
+        "nomePartido": "Partido Democrático Trabalhista",
+        "dataFiliacao": "2003-02-01",
+        "dataDesfiliacao": "2003-09-09"
+    }
+]

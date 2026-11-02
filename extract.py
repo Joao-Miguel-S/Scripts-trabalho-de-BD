@@ -5,6 +5,7 @@ senador_viagem = []
 senador_despesas = []
 beneficiarioJSON = []
 contrataJSON = []
+filiacoes = []
 
 
 with open('CSV/Viagens.csv', 'r', encoding='UTF-8') as arquivo:
@@ -84,11 +85,32 @@ with open('CSV/Despesas.csv', 'r', encoding='UTF-8') as arquivo:
         beneficiarioJSON.append(beneficiario)
         contrataJSON.append(contrata)
 
+with open('CSV/filiacao.csv', 'r', encoding='UTF-8') as arquivo:
+    leitor = csv.reader(arquivo, delimiter=';', quotechar='"')
+    for linha in leitor:
+        filiacao = {
+            "codSenador":linha[0],
+            "nomeParlamentar":linha[1],
+            "uf":linha[2],
+            "codigoPartido":linha[3],
+            "siglaPartido":linha[4],
+            "nomePartido":linha[5],
+            "dataFiliacao":linha[6],
+            "dataDesfiliacao":linha[7]
+        }
+
+        filiacoes.append(filiacao)
+
+with open('JSON/filiacao.json','w',encoding='utf-8') as fJSON:
+        json.dump(filiacoes,fJSON,ensure_ascii=False,indent=4)
+
 with open('JSON/Beneficiario.json','w',encoding='utf-8') as fJSON:
         json.dump(beneficiarioJSON,fJSON,ensure_ascii=False,indent=4)
 
 with open('JSON/contrata.json','w',encoding='utf-8') as fJSON:
         json.dump(contrataJSON,fJSON,ensure_ascii=False,indent=4)
+
+
         
 
 
