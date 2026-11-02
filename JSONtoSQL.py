@@ -202,3 +202,15 @@ with open('JSON/filiacao.json', "r", encoding='utf-8') as file:
                 data_saida
             )
             f.write(insert)
+            
+with open('JSON/Partidos.json', "r", encoding='utf-8') as file:
+    partidos = json.load(file)
+
+    with open('SQL/Partidos.sql', 'w', encoding='utf-8') as f:
+        for partido in partidos:
+            insert = "INSERT INTO Partidos VALUES ('{0}','{1}','{2}');\n".format(
+                partido["nome"],
+                partido["sigla"],
+                partido["presidente"].title(),
+            )
+            f.write(insert)
